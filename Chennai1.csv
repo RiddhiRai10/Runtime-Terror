@@ -1,0 +1,1438 @@
+﻿Place_id,Title,Category,Distance (Km.),Rating,Closed,Timing,Price
+TC-1,Marina Beach,Nature,1.4,4.3,Nil,00:00-11:59,983
+TC-2,Valluvar Kottam,Heritage,6.1,4.1,Nil,00:00-11:59,1634
+TC-3,Thousand Lights Mosque,Pilgrimage,4.4,4.4,Nil,05:30-09:00,1151
+TC-4,Elliot's Beach,Nature,8.2,4.4,Nil,00:00-11:59,1334
+TC-5,Dakshinachitra,Heritage,8.1,4.5,Tuesday,10:00-18:00,1581
+TC-6,Ashtalakshmi Temple,Pilgrimage,8.2,4.7,Nil,"6:30-12:00,16:00-21:00",1671
+TC-7,Government Museum,Museum,6.4,4.3,Friday,9:30-17:00,697
+TC-8,Mylapore,Shopping,1.6,4.8,Nil,00:00-11:59,674
+TC-9,Guindy National Park,Adventure,11.2,4.1,Nil,9:00-17:30,1525
+TC-10,Sri Parthasarathy Temple,Pilgrimage,2.3,4.7,Nil,"6:00-12:00,16:00-21:00",1660
+TC-11,Sukkubhai Biriyani,Food,20,5,Nil,9:30-17:00,1796
+TC-12,SS Hyderabad Biryani,Food,4,5,Nil,9:30-17:00,1027
+TC-13,KFC,Food,17,5,Nil,9:30-17:00,1543
+TC-14,Tasty Kitchen,Food,1,4,Nil,9:30-17:00,1605
+TC-15,Dine N Fun,Food,19,4,Nil,9:30-17:00,1053
+TC-16,Bai Veetu Kalyanam,Food,14,4,Nil,9:30-17:00,1069
+TC-17,Cafe Arabica,Food,0,4,Nil,9:30-17:00,1015
+TC-18,Savoury Sea Shell,Food,17,5,Nil,9:30-17:00,1155
+TC-19,Sangeetha Veg Restaurant,Food,7,5,Nil,9:30-17:00,1401
+TC-20,McDonald's,Food,1,4,Nil,9:30-17:00,1237
+TC-21,Kovai Alankar Vilas,Food,12,4,Nil,9:30-17:00,1711
+TC-22,Hotel Al Buhari,Food,4,5,Nil,9:30-17:00,773
+TC-23,Dindigul Thalappakatti,Food,3,4,Nil,9:30-17:00,1612
+TC-24,Hotel Paramount,Food,1,5,Nil,9:30-17:00,1091
+TC-25,Welcome Hotel,Food,5,4,Nil,9:30-17:00,649
+TC-26,Arab Street,Food,10,5,Nil,9:30-17:00,1363
+TC-27,Abid's,Food,20,4,Nil,9:30-17:00,965
+TC-28,Wire Room Bar & Kitchen,Food,2,4,Nil,9:30-17:00,1586
+TC-29,Sukkubhai Biriyani,Food,20,4,Nil,9:30-17:00,563
+TC-30,SS Hyderabad Biryani,Food,9,5,Nil,9:30-17:00,1280
+TC-31,KFC,Food,12,5,Nil,9:30-17:00,849
+TC-32,Tasty Kitchen,Food,11,4,Nil,9:30-17:00,590
+TC-33,Dine N Fun,Food,11,5,Nil,9:30-17:00,1498
+TC-34,Bai Veetu Kalyanam,Food,4,5,Nil,9:30-17:00,1412
+TC-35,Cafe Arabica,Food,1,5,Nil,9:30-17:00,1230
+TC-36,Savoury Sea Shell,Food,5,4,Nil,9:30-17:00,755
+TC-37,Sangeetha Veg Restaurant,Food,19,4,Nil,9:30-17:00,614
+TC-38,McDonald's,Food,16,4,Nil,9:30-17:00,602
+TC-39,Kovai Alankar Vilas,Food,9,5,Nil,9:30-17:00,682
+TC-40,Hotel Al Buhari,Food,17,5,Nil,9:30-17:00,786
+TC-41,Dindigul Thalappakatti,Food,14,5,Nil,9:30-17:00,1217
+TC-42,Hotel Paramount,Food,3,5,Nil,9:30-17:00,774
+TC-43,Welcome Hotel,Food,2,4,Nil,9:30-17:00,954
+TC-44,Arab Street,Food,11,4,Nil,9:30-17:00,1063
+TC-45,Abid's,Food,0,4,Nil,9:30-17:00,1663
+TC-46,Wire Room Bar & Kitchen,Food,12,4,Nil,9:30-17:00,1772
+TC-47,Sukkubhai Biriyani,Food,13,5,Nil,9:30-17:00,1188
+TC-48,SS Hyderabad Biryani,Food,19,5,Nil,9:30-17:00,682
+TC-49,KFC,Food,4,4,Nil,9:30-17:00,633
+TC-50,Tasty Kitchen,Food,15,4,Nil,9:30-17:00,1669
+TC-51,Dine N Fun,Food,1,4,Nil,9:30-17:00,1156
+TC-52,Bai Veetu Kalyanam,Food,2,4,Nil,9:30-17:00,1402
+TC-53,Cafe Arabica,Food,17,4,Nil,9:30-17:00,506
+TC-54,Savoury Sea Shell,Food,8,5,Nil,9:30-17:00,1141
+TC-55,Sangeetha Veg Restaurant,Food,9,4,Nil,9:30-17:00,1370
+TC-56,McDonald's,Food,19,4,Nil,9:30-17:00,1426
+TC-57,Kovai Alankar Vilas,Food,8,4,Nil,9:30-17:00,629
+TC-58,Hotel Al Buhari,Food,11,4,Nil,9:30-17:00,1615
+TC-59,Dindigul Thalappakatti,Food,3,4,Nil,9:30-17:00,1712
+TC-60,Hotel Paramount,Food,16,4,Nil,9:30-17:00,1477
+TC-61,Welcome Hotel,Food,5,5,Nil,9:30-17:00,569
+TC-62,Arab Street,Food,14,5,Nil,9:30-17:00,1795
+TC-63,Abid's,Food,1,5,Nil,9:30-17:00,1140
+TC-64,Wire Room Bar & Kitchen,Food,16,5,Nil,9:30-17:00,1154
+TC-65,Sukkubhai Biriyani,Food,10,5,Nil,9:30-17:00,1391
+TC-66,SS Hyderabad Biryani,Food,7,4,Nil,9:30-17:00,1100
+TC-67,KFC,Food,1,5,Nil,9:30-17:00,961
+TC-68,Tasty Kitchen,Food,12,4,Nil,9:30-17:00,1477
+TC-69,Dine N Fun,Food,8,5,Nil,9:30-17:00,1070
+TC-70,Bai Veetu Kalyanam,Food,12,4,Nil,9:30-17:00,1401
+TC-71,Cafe Arabica,Food,3,5,Nil,9:30-17:00,1350
+TC-72,Savoury Sea Shell,Food,17,4,Nil,9:30-17:00,1668
+TC-73,Sangeetha Veg Restaurant,Food,4,5,Nil,9:30-17:00,1244
+TC-74,McDonald's,Food,18,4,Nil,9:30-17:00,1097
+TC-75,Kovai Alankar Vilas,Food,2,4,Nil,9:30-17:00,762
+TC-76,Hotel Al Buhari,Food,11,4,Nil,9:30-17:00,1113
+TC-77,Dindigul Thalappakatti,Food,9,5,Nil,9:30-17:00,1368
+TC-78,Hotel Paramount,Food,2,4,Nil,9:30-17:00,942
+TC-79,Welcome Hotel,Food,19,5,Nil,9:30-17:00,574
+TC-80,Arab Street,Food,6,4,Nil,9:30-17:00,1268
+TC-81,Abid's,Food,17,5,Nil,9:30-17:00,777
+TC-82,Wire Room Bar & Kitchen,Food,11,5,Nil,9:30-17:00,1486
+TC-83,Sukkubhai Biriyani,Food,0,5,Nil,9:30-17:00,1162
+TC-84,SS Hyderabad Biryani,Food,19,4,Nil,9:30-17:00,1323
+TC-85,KFC,Food,16,4,Nil,9:30-17:00,689
+TC-86,Tasty Kitchen,Food,9,4,Nil,9:30-17:00,960
+TC-87,Dine N Fun,Food,7,4,Nil,9:30-17:00,1449
+TC-88,Bai Veetu Kalyanam,Food,1,4,Nil,9:30-17:00,1750
+TC-89,Cafe Arabica,Food,0,4,Nil,9:30-17:00,849
+TC-90,Savoury Sea Shell,Food,16,4,Nil,9:30-17:00,1282
+TC-91,Sangeetha Veg Restaurant,Food,2,5,Nil,9:30-17:00,898
+TC-92,McDonald's,Food,3,4,Nil,9:30-17:00,819
+TC-93,Kovai Alankar Vilas,Food,7,4,Nil,9:30-17:00,1540
+TC-94,Hotel Al Buhari,Food,13,4,Nil,9:30-17:00,1115
+TC-95,Dindigul Thalappakatti,Food,6,4,Nil,9:30-17:00,1713
+TC-96,Hotel Paramount,Food,5,5,Nil,9:30-17:00,1097
+TC-97,Welcome Hotel,Food,18,4,Nil,9:30-17:00,1415
+TC-98,Arab Street,Food,8,4,Nil,9:30-17:00,1005
+TC-99,Abid's,Food,7,5,Nil,9:30-17:00,1153
+TC-100,Wire Room Bar & Kitchen,Food,18,4,Nil,9:30-17:00,564
+TC-101,Sukkubhai Biriyani,Food,15,4,Nil,9:30-17:00,997
+TC-102,SS Hyderabad Biryani,Food,12,5,Nil,9:30-17:00,1568
+TC-103,KFC,Food,5,5,Nil,9:30-17:00,834
+TC-104,Tasty Kitchen,Food,1,5,Nil,9:30-17:00,1108
+TC-105,Dine N Fun,Food,4,5,Nil,9:30-17:00,520
+TC-106,Bai Veetu Kalyanam,Food,0,5,Nil,9:30-17:00,675
+TC-107,Cafe Arabica,Food,11,4,Nil,9:30-17:00,917
+TC-108,Savoury Sea Shell,Food,1,4,Nil,9:30-17:00,1682
+TC-109,Sangeetha Veg Restaurant,Food,12,5,Nil,9:30-17:00,505
+TC-110,McDonald's,Food,0,5,Nil,9:30-17:00,926
+TC-111,Kovai Alankar Vilas,Food,9,5,Nil,9:30-17:00,613
+TC-112,Hotel Al Buhari,Food,1,4,Nil,9:30-17:00,1120
+TC-113,Dindigul Thalappakatti,Food,11,5,Nil,9:30-17:00,1078
+TC-114,Hotel Paramount,Food,5,5,Nil,9:30-17:00,1759
+TC-115,Welcome Hotel,Food,19,4,Nil,9:30-17:00,1033
+TC-116,Arab Street,Food,17,4,Nil,9:30-17:00,1008
+TC-117,Abid's,Food,16,5,Nil,9:30-17:00,1132
+TC-118,Wire Room Bar & Kitchen,Food,2,4,Nil,9:30-17:00,1234
+TC-119,Sukkubhai Biriyani,Food,6,5,Nil,9:30-17:00,963
+TC-120,SS Hyderabad Biryani,Food,11,4,Nil,9:30-17:00,1724
+TC-121,KFC,Food,10,4,Nil,9:30-17:00,1698
+TC-122,Tasty Kitchen,Food,11,5,Nil,9:30-17:00,863
+TC-123,Dine N Fun,Food,20,4,Nil,9:30-17:00,830
+TC-124,Bai Veetu Kalyanam,Food,16,5,Nil,9:30-17:00,535
+TC-125,Cafe Arabica,Food,16,4,Nil,9:30-17:00,1534
+TC-126,Savoury Sea Shell,Food,16,5,Nil,9:30-17:00,1188
+TC-127,Sangeetha Veg Restaurant,Food,18,4,Nil,9:30-17:00,689
+TC-128,McDonald's,Food,20,5,Nil,9:30-17:00,716
+TC-129,Kovai Alankar Vilas,Food,15,5,Nil,9:30-17:00,1704
+TC-130,Hotel Al Buhari,Food,14,4,Nil,9:30-17:00,1625
+TC-131,Dindigul Thalappakatti,Food,7,5,Nil,9:30-17:00,1543
+TC-132,Hotel Paramount,Food,18,5,Nil,9:30-17:00,828
+TC-133,Welcome Hotel,Food,12,4,Nil,9:30-17:00,581
+TC-134,Arab Street,Food,1,4,Nil,9:30-17:00,1327
+TC-135,Abid's,Food,2,5,Nil,9:30-17:00,672
+TC-136,Wire Room Bar & Kitchen,Food,9,5,Nil,9:30-17:00,859
+TC-137,Sukkubhai Biriyani,Food,8,5,Nil,9:30-17:00,700
+TC-138,SS Hyderabad Biryani,Food,2,5,Nil,9:30-17:00,1775
+TC-139,KFC,Food,15,4,Nil,9:30-17:00,1409
+TC-140,Tasty Kitchen,Food,16,4,Nil,9:30-17:00,1695
+TC-141,Dine N Fun,Food,1,5,Nil,9:30-17:00,786
+TC-142,Bai Veetu Kalyanam,Food,4,5,Nil,9:30-17:00,864
+TC-143,Cafe Arabica,Food,9,4,Nil,9:30-17:00,598
+TC-144,Savoury Sea Shell,Food,17,4,Nil,9:30-17:00,1104
+TC-145,Sangeetha Veg Restaurant,Food,3,4,Nil,9:30-17:00,723
+TC-146,McDonald's,Food,15,4,Nil,9:30-17:00,1346
+TC-147,Kovai Alankar Vilas,Food,12,4,Nil,9:30-17:00,1066
+TC-148,Hotel Al Buhari,Food,8,4,Nil,9:30-17:00,1456
+TC-149,Dindigul Thalappakatti,Food,11,4,Nil,9:30-17:00,1434
+TC-150,Hotel Paramount,Food,14,4,Nil,9:30-17:00,936
+TC-151,Welcome Hotel,Food,15,4,Nil,9:30-17:00,1318
+TC-152,Arab Street,Food,14,4,Nil,9:30-17:00,1134
+TC-153,Abid's,Food,9,4,Nil,9:30-17:00,547
+TC-154,Wire Room Bar & Kitchen,Food,4,5,Nil,9:30-17:00,1623
+TC-155,Sukkubhai Biriyani,Food,16,5,Nil,9:30-17:00,1179
+TC-156,SS Hyderabad Biryani,Food,19,5,Nil,9:30-17:00,1042
+TC-157,KFC,Food,9,4,Nil,9:30-17:00,1130
+TC-158,Tasty Kitchen,Food,7,4,Nil,9:30-17:00,1784
+TC-159,Dine N Fun,Food,15,4,Nil,9:30-17:00,610
+TC-160,Bai Veetu Kalyanam,Food,1,5,Nil,9:30-17:00,1041
+TC-161,Cafe Arabica,Food,3,5,Nil,9:30-17:00,1089
+TC-162,Savoury Sea Shell,Food,7,5,Nil,9:30-17:00,1330
+TC-163,Sangeetha Veg Restaurant,Food,0,4,Nil,9:30-17:00,1353
+TC-164,McDonald's,Food,13,4,Nil,9:30-17:00,1406
+TC-165,Kovai Alankar Vilas,Food,10,5,Nil,9:30-17:00,1515
+TC-166,Hotel Al Buhari,Food,4,4,Nil,9:30-17:00,1328
+TC-167,Dindigul Thalappakatti,Food,1,5,Nil,9:30-17:00,1347
+TC-168,Hotel Paramount,Food,15,5,Nil,9:30-17:00,1085
+TC-169,Welcome Hotel,Food,14,4,Nil,9:30-17:00,655
+TC-170,Arab Street,Food,12,5,Nil,9:30-17:00,924
+TC-171,Abid's,Food,0,5,Nil,9:30-17:00,1599
+TC-172,Wire Room Bar & Kitchen,Food,2,4,Nil,9:30-17:00,1141
+TC-173,Sukkubhai Biriyani,Food,14,5,Nil,9:30-17:00,723
+TC-174,SS Hyderabad Biryani,Food,9,4,Nil,9:30-17:00,1079
+TC-175,KFC,Food,19,4,Nil,9:30-17:00,1173
+TC-176,Tasty Kitchen,Food,0,4,Nil,9:30-17:00,1015
+TC-177,Dine N Fun,Food,6,4,Nil,9:30-17:00,637
+TC-178,Bai Veetu Kalyanam,Food,3,5,Nil,9:30-17:00,1301
+TC-179,Cafe Arabica,Food,17,5,Nil,9:30-17:00,1579
+TC-180,Savoury Sea Shell,Food,13,4,Nil,9:30-17:00,999
+TC-181,Sangeetha Veg Restaurant,Food,6,4,Nil,9:30-17:00,1090
+TC-182,McDonald's,Food,16,5,Nil,9:30-17:00,532
+TC-183,Kovai Alankar Vilas,Food,15,4,Nil,9:30-17:00,830
+TC-184,Hotel Al Buhari,Food,0,5,Nil,9:30-17:00,1638
+TC-185,Dindigul Thalappakatti,Food,7,5,Nil,9:30-17:00,514
+TC-186,Hotel Paramount,Food,16,4,Nil,9:30-17:00,669
+TC-187,Welcome Hotel,Food,17,4,Nil,9:30-17:00,1183
+TC-188,Arab Street,Food,10,5,Nil,9:30-17:00,549
+TC-189,Abid's,Food,2,5,Nil,9:30-17:00,889
+TC-190,Wire Room Bar & Kitchen,Food,20,4,Nil,9:30-17:00,732
+TC-191,Sukkubhai Biriyani,Food,20,4,Nil,9:30-17:00,1311
+TC-192,SS Hyderabad Biryani,Food,12,5,Nil,9:30-17:00,760
+TC-193,KFC,Food,13,4,Nil,9:30-17:00,1576
+TC-194,Tasty Kitchen,Food,14,4,Nil,9:30-17:00,1625
+TC-195,Dine N Fun,Food,8,5,Nil,9:30-17:00,920
+TC-196,Bai Veetu Kalyanam,Food,17,5,Nil,9:30-17:00,623
+TC-197,Cafe Arabica,Food,6,5,Nil,9:30-17:00,560
+TC-198,Savoury Sea Shell,Food,5,5,Nil,9:30-17:00,786
+TC-199,Sangeetha Veg Restaurant,Food,9,5,Nil,9:30-17:00,1020
+TC-200,McDonald's,Food,3,4,Nil,9:30-17:00,1642
+TC-201,Kovai Alankar Vilas,Food,3,5,Nil,9:30-17:00,769
+TC-202,Hotel Al Buhari,Food,8,5,Nil,9:30-17:00,1785
+TC-203,Dindigul Thalappakatti,Food,2,5,Nil,9:30-17:00,774
+TC-204,Hotel Paramount,Food,18,4,Nil,9:30-17:00,1429
+TC-205,Welcome Hotel,Food,6,5,Nil,9:30-17:00,1654
+TC-206,Arab Street,Food,7,5,Nil,9:30-17:00,607
+TC-207,Abid's,Food,8,4,Nil,9:30-17:00,1568
+TC-208,Wire Room Bar & Kitchen,Food,7,5,Nil,9:30-17:00,962
+TC-209,Sukkubhai Biriyani,Food,19,4,Nil,9:30-17:00,1737
+TC-210,SS Hyderabad Biryani,Food,6,4,Nil,9:30-17:00,873
+TC-211,KFC,Food,14,5,Nil,9:30-17:00,635
+TC-212,Tasty Kitchen,Food,2,4,Nil,9:30-17:00,1089
+TC-213,Dine N Fun,Food,19,4,Nil,9:30-17:00,1159
+TC-214,Bai Veetu Kalyanam,Food,12,5,Nil,9:30-17:00,612
+TC-215,Cafe Arabica,Food,10,5,Nil,9:30-17:00,1276
+TC-216,Savoury Sea Shell,Food,13,5,Nil,9:30-17:00,1260
+TC-217,Sangeetha Veg Restaurant,Food,19,4,Nil,9:30-17:00,1316
+TC-218,McDonald's,Food,17,5,Nil,9:30-17:00,1474
+TC-219,Kovai Alankar Vilas,Food,14,5,Nil,9:30-17:00,501
+TC-220,Hotel Al Buhari,Food,14,4,Nil,9:30-17:00,647
+TC-221,Dindigul Thalappakatti,Food,14,4,Nil,9:30-17:00,778
+TC-222,Hotel Paramount,Food,0,5,Nil,9:30-17:00,871
+TC-223,Welcome Hotel,Food,0,5,Nil,9:30-17:00,1309
+TC-224,Arab Street,Food,13,5,Nil,9:30-17:00,1476
+TC-225,Abid's,Food,11,4,Nil,9:30-17:00,1043
+TC-226,Wire Room Bar & Kitchen,Food,10,4,Nil,9:30-17:00,1145
+TC-227,Sukkubhai Biriyani,Food,20,4,Nil,9:30-17:00,1707
+TC-228,SS Hyderabad Biryani,Food,20,5,Nil,9:30-17:00,913
+TC-229,KFC,Food,3,4,Nil,9:30-17:00,1741
+TC-230,Tasty Kitchen,Food,5,5,Nil,9:30-17:00,1482
+TC-231,Dine N Fun,Food,2,4,Nil,9:30-17:00,1479
+TC-232,Bai Veetu Kalyanam,Food,3,5,Nil,9:30-17:00,1669
+TC-233,Cafe Arabica,Food,17,4,Nil,9:30-17:00,655
+TC-234,Savoury Sea Shell,Food,11,4,Nil,9:30-17:00,586
+TC-235,Sangeetha Veg Restaurant,Food,1,4,Nil,9:30-17:00,1463
+TC-236,McDonald's,Food,2,5,Nil,9:30-17:00,880
+TC-237,Kovai Alankar Vilas,Food,7,4,Nil,9:30-17:00,813
+TC-238,Hotel Al Buhari,Food,1,4,Nil,9:30-17:00,1641
+TC-239,Dindigul Thalappakatti,Food,2,5,Nil,9:30-17:00,1091
+TC-240,Hotel Paramount,Food,9,4,Nil,9:30-17:00,959
+TC-241,Welcome Hotel,Food,2,4,Nil,9:30-17:00,674
+TC-242,Arab Street,Food,11,4,Nil,9:30-17:00,930
+TC-243,Abid's,Food,11,5,Nil,9:30-17:00,1772
+TC-244,Wire Room Bar & Kitchen,Food,15,4,Nil,9:30-17:00,1439
+TC-245,Sukkubhai Biriyani,Food,12,5,Nil,9:30-17:00,981
+TC-246,SS Hyderabad Biryani,Food,15,5,Nil,9:30-17:00,1584
+TC-247,KFC,Food,12,5,Nil,9:30-17:00,789
+TC-248,Tasty Kitchen,Food,19,4,Nil,9:30-17:00,1277
+TC-249,Dine N Fun,Food,20,5,Nil,9:30-17:00,926
+TC-250,Bai Veetu Kalyanam,Food,15,4,Nil,9:30-17:00,1795
+TC-251,Cafe Arabica,Food,4,4,Nil,9:30-17:00,1000
+TC-252,Savoury Sea Shell,Food,8,4,Nil,9:30-17:00,1502
+TC-253,Sangeetha Veg Restaurant,Food,13,4,Nil,9:30-17:00,1310
+TC-254,McDonald's,Food,17,4,Nil,9:30-17:00,1304
+TC-255,Kovai Alankar Vilas,Food,9,5,Nil,9:30-17:00,573
+TC-256,Hotel Al Buhari,Food,4,5,Nil,9:30-17:00,1490
+TC-257,Dindigul Thalappakatti,Food,16,4,Nil,9:30-17:00,964
+TC-258,Hotel Paramount,Food,16,4,Nil,9:30-17:00,1423
+TC-259,Welcome Hotel,Food,1,4,Nil,9:30-17:00,1800
+TC-260,Arab Street,Food,19,4,Nil,9:30-17:00,1479
+TC-261,Abid's,Food,5,4,Nil,9:30-17:00,564
+TC-262,Wire Room Bar & Kitchen,Food,18,5,Nil,9:30-17:00,1528
+TC-263,Sukkubhai Biriyani,Food,8,5,Nil,9:30-17:00,1187
+TC-264,SS Hyderabad Biryani,Food,6,5,Nil,9:30-17:00,520
+TC-265,KFC,Food,14,5,Nil,9:30-17:00,528
+TC-266,Tasty Kitchen,Food,10,5,Nil,9:30-17:00,948
+TC-267,Dine N Fun,Food,12,4,Nil,9:30-17:00,1426
+TC-268,Bai Veetu Kalyanam,Food,13,4,Nil,9:30-17:00,882
+TC-269,Cafe Arabica,Food,10,4,Nil,9:30-17:00,1454
+TC-270,Savoury Sea Shell,Food,13,5,Nil,9:30-17:00,1405
+TC-271,Sangeetha Veg Restaurant,Food,18,4,Nil,9:30-17:00,1346
+TC-272,McDonald's,Food,18,5,Nil,9:30-17:00,1497
+TC-273,Kovai Alankar Vilas,Food,5,4,Nil,9:30-17:00,1697
+TC-274,Hotel Al Buhari,Food,13,5,Nil,9:30-17:00,739
+TC-275,Dindigul Thalappakatti,Food,16,4,Nil,9:30-17:00,1591
+TC-276,Hotel Paramount,Food,11,4,Nil,9:30-17:00,1023
+TC-277,Welcome Hotel,Food,9,4,Nil,9:30-17:00,1577
+TC-278,Arab Street,Food,8,4,Nil,9:30-17:00,960
+TC-279,Abid's,Food,0,4,Nil,9:30-17:00,1076
+TC-280,Wire Room Bar & Kitchen,Food,14,5,Nil,9:30-17:00,1306
+TC-281,Sukkubhai Biriyani,Food,8,5,Nil,9:30-17:00,1770
+TC-282,SS Hyderabad Biryani,Food,15,4,Nil,9:30-17:00,1431
+TC-283,KFC,Food,13,4,Nil,9:30-17:00,1619
+TC-284,Tasty Kitchen,Food,16,5,Nil,9:30-17:00,1164
+TC-285,Dine N Fun,Food,5,4,Nil,9:30-17:00,1667
+TC-286,Bai Veetu Kalyanam,Food,17,4,Nil,9:30-17:00,1279
+TC-287,Cafe Arabica,Food,3,4,Nil,9:30-17:00,1223
+TC-288,Savoury Sea Shell,Food,20,4,Nil,9:30-17:00,687
+TC-289,Sangeetha Veg Restaurant,Food,11,5,Nil,9:30-17:00,1478
+TC-290,McDonald's,Food,8,5,Nil,9:30-17:00,543
+TC-291,Kovai Alankar Vilas,Food,18,4,Nil,9:30-17:00,873
+TC-292,Hotel Al Buhari,Food,20,4,Nil,9:30-17:00,1656
+TC-293,Dindigul Thalappakatti,Food,4,4,Nil,9:30-17:00,865
+TC-294,Hotel Paramount,Food,4,4,Nil,9:30-17:00,1664
+TC-295,Welcome Hotel,Food,15,4,Nil,9:30-17:00,1184
+TC-296,Arab Street,Food,19,4,Nil,9:30-17:00,1586
+TC-297,Abid's,Food,14,4,Nil,9:30-17:00,1797
+TC-298,Wire Room Bar & Kitchen,Food,9,5,Nil,9:30-17:00,1403
+TC-299,Sukkubhai Biriyani,Food,4,5,Nil,9:30-17:00,1613
+TC-300,SS Hyderabad Biryani,Food,4,5,Nil,9:30-17:00,533
+TC-301,KFC,Food,20,5,Nil,9:30-17:00,815
+TC-302,Tasty Kitchen,Food,13,4,Nil,9:30-17:00,538
+TC-303,Dine N Fun,Food,11,4,Nil,9:30-17:00,1318
+TC-304,Bai Veetu Kalyanam,Food,16,4,Nil,9:30-17:00,542
+TC-305,Cafe Arabica,Food,0,5,Nil,9:30-17:00,854
+TC-306,Savoury Sea Shell,Food,15,5,Nil,9:30-17:00,599
+TC-307,Sangeetha Veg Restaurant,Food,15,5,Nil,9:30-17:00,1022
+TC-308,McDonald's,Food,4,5,Nil,9:30-17:00,1762
+TC-309,Kovai Alankar Vilas,Food,5,4,Nil,9:30-17:00,1772
+TC-310,Hotel Al Buhari,Food,2,5,Nil,9:30-17:00,796
+TC-311,Dindigul Thalappakatti,Food,9,4,Nil,9:30-17:00,1453
+TC-312,Hotel Paramount,Food,11,5,Nil,9:30-17:00,1625
+TC-313,Welcome Hotel,Food,5,4,Nil,9:30-17:00,1726
+TC-314,Arab Street,Food,3,5,Nil,9:30-17:00,841
+TC-315,Abid's,Food,19,5,Nil,9:30-17:00,1477
+TC-316,Wire Room Bar & Kitchen,Food,15,5,Nil,9:30-17:00,580
+TC-317,Sukkubhai Biriyani,Food,1,5,Nil,9:30-17:00,1209
+TC-318,SS Hyderabad Biryani,Food,1,5,Nil,9:30-17:00,760
+TC-319,KFC,Food,11,5,Nil,9:30-17:00,1672
+TC-320,Tasty Kitchen,Food,8,4,Nil,9:30-17:00,742
+TC-321,Dine N Fun,Food,13,4,Nil,9:30-17:00,1330
+TC-322,Bai Veetu Kalyanam,Food,4,4,Nil,9:30-17:00,922
+TC-323,Cafe Arabica,Food,15,4,Nil,9:30-17:00,511
+TC-324,Savoury Sea Shell,Food,6,5,Nil,9:30-17:00,548
+TC-325,Sangeetha Veg Restaurant,Food,20,4,Nil,9:30-17:00,1715
+TC-326,McDonald's,Food,15,4,Nil,9:30-17:00,649
+TC-327,Kovai Alankar Vilas,Food,1,5,Nil,9:30-17:00,1025
+TC-328,Hotel Al Buhari,Food,10,5,Nil,9:30-17:00,944
+TC-329,Dindigul Thalappakatti,Food,12,5,Nil,9:30-17:00,1035
+TC-330,Hotel Paramount,Food,14,5,Nil,9:30-17:00,1456
+TC-331,Welcome Hotel,Food,12,4,Nil,9:30-17:00,1656
+TC-332,Arab Street,Food,16,4,Nil,9:30-17:00,1730
+TC-333,Abid's,Food,13,4,Nil,9:30-17:00,572
+TC-334,Wire Room Bar & Kitchen,Food,16,5,Nil,9:30-17:00,673
+TC-335,Sukkubhai Biriyani,Food,1,5,Nil,9:30-17:00,685
+TC-336,SS Hyderabad Biryani,Food,15,4,Nil,9:30-17:00,1212
+TC-337,KFC,Food,7,5,Nil,9:30-17:00,1178
+TC-338,Tasty Kitchen,Food,11,4,Nil,9:30-17:00,1105
+TC-339,Dine N Fun,Food,4,5,Nil,9:30-17:00,652
+TC-340,Bai Veetu Kalyanam,Food,18,4,Nil,9:30-17:00,1267
+TC-341,Cafe Arabica,Food,12,5,Nil,9:30-17:00,1609
+TC-342,Savoury Sea Shell,Food,20,4,Nil,9:30-17:00,1046
+TC-343,Sangeetha Veg Restaurant,Food,17,5,Nil,9:30-17:00,514
+TC-344,McDonald's,Food,17,5,Nil,9:30-17:00,1288
+TC-345,Kovai Alankar Vilas,Food,8,5,Nil,9:30-17:00,1772
+TC-346,Hotel Al Buhari,Food,3,5,Nil,9:30-17:00,980
+TC-347,Dindigul Thalappakatti,Food,16,5,Nil,9:30-17:00,541
+TC-348,Hotel Paramount,Food,3,4,Nil,9:30-17:00,841
+TC-349,Welcome Hotel,Food,15,5,Nil,9:30-17:00,1484
+TC-350,Arab Street,Food,15,4,Nil,9:30-17:00,1007
+TC-351,Abid's,Food,16,5,Nil,9:30-17:00,1066
+TC-352,Wire Room Bar & Kitchen,Food,6,5,Nil,9:30-17:00,1598
+TC-353,Sukkubhai Biriyani,Food,7,5,Nil,9:30-17:00,1767
+TC-354,SS Hyderabad Biryani,Food,15,5,Nil,9:30-17:00,1219
+TC-355,KFC,Food,8,4,Nil,9:30-17:00,1238
+TC-356,Tasty Kitchen,Food,18,5,Nil,9:30-17:00,514
+TC-357,Dine N Fun,Food,0,4,Nil,9:30-17:00,1251
+TC-358,Bai Veetu Kalyanam,Food,1,5,Nil,9:30-17:00,1463
+TC-359,Cafe Arabica,Food,17,4,Nil,9:30-17:00,853
+TC-360,Savoury Sea Shell,Food,16,4,Nil,9:30-17:00,992
+TC-361,Sangeetha Veg Restaurant,Food,6,4,Nil,9:30-17:00,951
+TC-362,McDonald's,Food,15,4,Nil,9:30-17:00,1260
+TC-363,Kovai Alankar Vilas,Food,18,5,Nil,9:30-17:00,506
+TC-364,Hotel Al Buhari,Food,4,4,Nil,9:30-17:00,1257
+TC-365,Dindigul Thalappakatti,Food,1,5,Nil,9:30-17:00,878
+TC-366,Hotel Paramount,Food,1,4,Nil,9:30-17:00,1189
+TC-367,Welcome Hotel,Food,8,5,Nil,9:30-17:00,1319
+TC-368,Arab Street,Food,12,5,Nil,9:30-17:00,1699
+TC-369,Abid's,Food,9,4,Nil,9:30-17:00,1687
+TC-370,Wire Room Bar & Kitchen,Food,6,5,Nil,9:30-17:00,1534
+TC-371,Sukkubhai Biriyani,Food,8,5,Nil,9:30-17:00,1281
+TC-372,SS Hyderabad Biryani,Food,17,5,Nil,9:30-17:00,723
+TC-373,KFC,Food,16,5,Nil,9:30-17:00,1505
+TC-374,Tasty Kitchen,Food,5,5,Nil,9:30-17:00,1167
+TC-375,Dine N Fun,Food,2,4,Nil,9:30-17:00,1598
+TC-376,Bai Veetu Kalyanam,Food,16,4,Nil,9:30-17:00,1621
+TC-377,Cafe Arabica,Food,17,4,Nil,9:30-17:00,724
+TC-378,Savoury Sea Shell,Food,0,5,Nil,9:30-17:00,1250
+TC-379,Sangeetha Veg Restaurant,Food,4,4,Nil,9:30-17:00,699
+TC-380,McDonald's,Food,9,4,Nil,9:30-17:00,885
+TC-381,Kovai Alankar Vilas,Food,18,4,Nil,9:30-17:00,877
+TC-382,Hotel Al Buhari,Food,6,5,Nil,9:30-17:00,1512
+TC-383,Dindigul Thalappakatti,Food,17,5,Nil,9:30-17:00,1540
+TC-384,Hotel Paramount,Food,12,5,Nil,9:30-17:00,1546
+TC-385,Welcome Hotel,Food,15,4,Nil,9:30-17:00,1683
+TC-386,Arab Street,Food,13,5,Nil,9:30-17:00,587
+TC-387,Abid's,Food,3,4,Nil,9:30-17:00,969
+TC-388,Wire Room Bar & Kitchen,Food,17,4,Nil,9:30-17:00,1161
+TC-389,Sukkubhai Biriyani,Food,15,5,Nil,9:30-17:00,583
+TC-390,SS Hyderabad Biryani,Food,9,5,Nil,9:30-17:00,1059
+TC-391,KFC,Food,16,5,Nil,9:30-17:00,590
+TC-392,Tasty Kitchen,Food,14,5,Nil,9:30-17:00,1135
+TC-393,Dine N Fun,Food,6,4,Nil,9:30-17:00,720
+TC-394,Bai Veetu Kalyanam,Food,11,5,Nil,9:30-17:00,941
+TC-395,Cafe Arabica,Food,5,4,Nil,9:30-17:00,802
+TC-396,Savoury Sea Shell,Food,9,5,Nil,9:30-17:00,1107
+TC-397,Sangeetha Veg Restaurant,Food,17,4,Nil,9:30-17:00,846
+TC-398,McDonald's,Food,6,5,Nil,9:30-17:00,912
+TC-399,Kovai Alankar Vilas,Food,9,5,Nil,9:30-17:00,690
+TC-400,Hotel Al Buhari,Food,10,5,Nil,9:30-17:00,1348
+TC-401,Dindigul Thalappakatti,Food,10,5,Nil,9:30-17:00,988
+TC-402,Hotel Paramount,Food,16,5,Nil,9:30-17:00,1491
+TC-403,Welcome Hotel,Food,20,5,Nil,9:30-17:00,1358
+TC-404,Arab Street,Food,18,4,Nil,9:30-17:00,527
+TC-405,Abid's,Food,10,4,Nil,9:30-17:00,1470
+TC-406,Wire Room Bar & Kitchen,Food,8,5,Nil,9:30-17:00,1729
+TC-407,Sukkubhai Biriyani,Food,13,4,Nil,9:30-17:00,1221
+TC-408,SS Hyderabad Biryani,Food,18,4,Nil,9:30-17:00,683
+TC-409,KFC,Food,17,4,Nil,9:30-17:00,963
+TC-410,Tasty Kitchen,Food,6,5,Nil,9:30-17:00,1401
+TC-411,Dine N Fun,Food,6,4,Nil,9:30-17:00,536
+TC-412,Bai Veetu Kalyanam,Food,10,4,Nil,9:30-17:00,1457
+TC-413,Cafe Arabica,Food,20,5,Nil,9:30-17:00,734
+TC-414,Savoury Sea Shell,Food,19,4,Nil,9:30-17:00,1779
+TC-415,Sangeetha Veg Restaurant,Food,4,4,Nil,9:30-17:00,1059
+TC-416,McDonald's,Food,4,4,Nil,9:30-17:00,1267
+TC-417,Kovai Alankar Vilas,Food,15,4,Nil,9:30-17:00,578
+TC-418,Hotel Al Buhari,Food,15,5,Nil,9:30-17:00,706
+TC-419,Dindigul Thalappakatti,Food,6,4,Nil,9:30-17:00,1485
+TC-420,Hotel Paramount,Food,16,5,Nil,9:30-17:00,1313
+TC-421,Welcome Hotel,Food,2,4,Nil,9:30-17:00,1321
+TC-422,Arab Street,Food,10,4,Nil,9:30-17:00,1100
+TC-423,Abid's,Food,9,4,Nil,9:30-17:00,1208
+TC-424,Wire Room Bar & Kitchen,Food,17,5,Nil,9:30-17:00,1414
+TC-425,Sukkubhai Biriyani,Food,12,5,Nil,9:30-17:00,507
+TC-426,SS Hyderabad Biryani,Food,1,5,Nil,9:30-17:00,922
+TC-427,KFC,Food,10,4,Nil,9:30-17:00,1338
+TC-428,Tasty Kitchen,Food,8,5,Nil,9:30-17:00,605
+TC-429,Dine N Fun,Food,5,5,Nil,9:30-17:00,1628
+TC-430,Bai Veetu Kalyanam,Food,12,4,Nil,9:30-17:00,631
+TC-431,Cafe Arabica,Food,14,5,Nil,9:30-17:00,560
+TC-432,Savoury Sea Shell,Food,2,5,Nil,9:30-17:00,1580
+TC-433,Sangeetha Veg Restaurant,Food,7,5,Nil,9:30-17:00,1593
+TC-434,McDonald's,Food,2,5,Nil,9:30-17:00,1343
+TC-435,Kovai Alankar Vilas,Food,3,4,Nil,9:30-17:00,753
+TC-436,Hotel Al Buhari,Food,9,4,Nil,9:30-17:00,823
+TC-437,Dindigul Thalappakatti,Food,20,4,Nil,9:30-17:00,1227
+TC-438,Hotel Paramount,Food,11,5,Nil,9:30-17:00,1064
+TC-439,Welcome Hotel,Food,0,5,Nil,9:30-17:00,1632
+TC-440,Arab Street,Food,8,4,Nil,9:30-17:00,1266
+TC-441,Abid's,Food,9,5,Nil,9:30-17:00,1330
+TC-442,Wire Room Bar & Kitchen,Food,12,4,Nil,9:30-17:00,991
+TC-443,Sukkubhai Biriyani,Food,16,5,Nil,9:30-17:00,1750
+TC-444,SS Hyderabad Biryani,Food,12,5,Nil,9:30-17:00,1004
+TC-445,KFC,Food,17,5,Nil,9:30-17:00,1113
+TC-446,Tasty Kitchen,Food,6,5,Nil,9:30-17:00,1150
+TC-447,Dine N Fun,Food,3,4,Nil,9:30-17:00,1711
+TC-448,Bai Veetu Kalyanam,Food,5,5,Nil,9:30-17:00,1742
+TC-449,Cafe Arabica,Food,14,4,Nil,9:30-17:00,725
+TC-450,Savoury Sea Shell,Food,15,5,Nil,9:30-17:00,744
+TC-451,Sangeetha Veg Restaurant,Food,10,5,Nil,9:30-17:00,665
+TC-452,McDonald's,Food,16,5,Nil,9:30-17:00,1689
+TC-453,Kovai Alankar Vilas,Food,7,4,Nil,9:30-17:00,561
+TC-454,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,743
+TC-455,Dindigul Thalappakatti,Food,18,5,Nil,9:30-17:00,961
+TC-456,Hotel Paramount,Food,0,5,Nil,9:30-17:00,887
+TC-457,Welcome Hotel,Food,3,5,Nil,9:30-17:00,976
+TC-458,Arab Street,Food,11,5,Nil,9:30-17:00,1263
+TC-459,Abid's,Food,12,4,Nil,9:30-17:00,724
+TC-460,Wire Room Bar & Kitchen,Food,16,5,Nil,9:30-17:00,766
+TC-461,Sukkubhai Biriyani,Food,1,5,Nil,9:30-17:00,1176
+TC-462,SS Hyderabad Biryani,Food,11,4,Nil,9:30-17:00,1242
+TC-463,KFC,Food,0,5,Nil,9:30-17:00,878
+TC-464,Tasty Kitchen,Food,6,4,Nil,9:30-17:00,792
+TC-465,Dine N Fun,Food,3,4,Nil,9:30-17:00,1280
+TC-466,Bai Veetu Kalyanam,Food,5,4,Nil,9:30-17:00,593
+TC-467,Cafe Arabica,Food,12,4,Nil,9:30-17:00,1756
+TC-468,Savoury Sea Shell,Food,20,4,Nil,9:30-17:00,753
+TC-469,Sangeetha Veg Restaurant,Food,18,4,Nil,9:30-17:00,1429
+TC-470,McDonald's,Food,3,5,Nil,9:30-17:00,867
+TC-471,Kovai Alankar Vilas,Food,8,4,Nil,9:30-17:00,1594
+TC-472,Hotel Al Buhari,Food,2,5,Nil,9:30-17:00,1734
+TC-473,Dindigul Thalappakatti,Food,4,5,Nil,9:30-17:00,1035
+TC-474,Hotel Paramount,Food,8,4,Nil,9:30-17:00,946
+TC-475,Welcome Hotel,Food,13,5,Nil,9:30-17:00,1664
+TC-476,Arab Street,Food,7,5,Nil,9:30-17:00,1693
+TC-477,Abid's,Food,6,4,Nil,9:30-17:00,1395
+TC-478,Wire Room Bar & Kitchen,Food,4,5,Nil,9:30-17:00,746
+TC-479,Sukkubhai Biriyani,Food,2,5,Nil,9:30-17:00,1427
+TC-480,SS Hyderabad Biryani,Food,1,4,Nil,9:30-17:00,1404
+TC-481,KFC,Food,4,4,Nil,9:30-17:00,950
+TC-482,Tasty Kitchen,Food,19,4,Nil,9:30-17:00,728
+TC-483,Dine N Fun,Food,5,4,Nil,9:30-17:00,1407
+TC-484,Bai Veetu Kalyanam,Food,1,4,Nil,9:30-17:00,1617
+TC-485,Cafe Arabica,Food,12,5,Nil,9:30-17:00,1055
+TC-486,Savoury Sea Shell,Food,3,4,Nil,9:30-17:00,734
+TC-487,Sangeetha Veg Restaurant,Food,6,5,Nil,9:30-17:00,1782
+TC-488,McDonald's,Food,16,5,Nil,9:30-17:00,1014
+TC-489,Kovai Alankar Vilas,Food,14,5,Nil,9:30-17:00,664
+TC-490,Hotel Al Buhari,Food,6,4,Nil,9:30-17:00,926
+TC-491,Dindigul Thalappakatti,Food,4,4,Nil,9:30-17:00,1212
+TC-492,Hotel Paramount,Food,8,5,Nil,9:30-17:00,694
+TC-493,Welcome Hotel,Food,4,4,Nil,9:30-17:00,1408
+TC-494,Arab Street,Food,12,5,Nil,9:30-17:00,1102
+TC-495,Abid's,Food,8,5,Nil,9:30-17:00,1746
+TC-496,Wire Room Bar & Kitchen,Food,4,4,Nil,9:30-17:00,1353
+TC-497,Sukkubhai Biriyani,Food,9,5,Nil,9:30-17:00,1418
+TC-498,SS Hyderabad Biryani,Food,7,4,Nil,9:30-17:00,677
+TC-499,KFC,Food,0,5,Nil,9:30-17:00,989
+TC-500,Tasty Kitchen,Food,13,4,Nil,9:30-17:00,556
+TC-501,Dine N Fun,Food,5,5,Nil,9:30-17:00,1316
+TC-502,Bai Veetu Kalyanam,Food,3,4,Nil,9:30-17:00,832
+TC-503,Cafe Arabica,Food,16,4,Nil,9:30-17:00,1498
+TC-504,Savoury Sea Shell,Food,7,5,Nil,9:30-17:00,895
+TC-505,Sangeetha Veg Restaurant,Food,7,4,Nil,9:30-17:00,1089
+TC-506,McDonald's,Food,20,4,Nil,9:30-17:00,1504
+TC-507,Kovai Alankar Vilas,Food,8,5,Nil,9:30-17:00,1064
+TC-508,Hotel Al Buhari,Food,14,5,Nil,9:30-17:00,1739
+TC-509,Dindigul Thalappakatti,Food,4,4,Nil,9:30-17:00,1293
+TC-510,Hotel Paramount,Food,5,5,Nil,9:30-17:00,1422
+TC-511,Welcome Hotel,Food,14,4,Nil,9:30-17:00,1296
+TC-512,Arab Street,Food,3,4,Nil,9:30-17:00,1243
+TC-513,Abid's,Food,14,4,Nil,9:30-17:00,553
+TC-514,Wire Room Bar & Kitchen,Food,15,5,Nil,9:30-17:00,1227
+TC-515,Sukkubhai Biriyani,Food,11,5,Nil,9:30-17:00,1766
+TC-516,SS Hyderabad Biryani,Food,4,4,Nil,9:30-17:00,1290
+TC-517,KFC,Food,14,4,Nil,9:30-17:00,1000
+TC-518,Tasty Kitchen,Food,6,5,Nil,9:30-17:00,705
+TC-519,Dine N Fun,Food,0,4,Nil,9:30-17:00,1383
+TC-520,Bai Veetu Kalyanam,Food,17,5,Nil,9:30-17:00,1308
+TC-521,Cafe Arabica,Food,18,5,Nil,9:30-17:00,1009
+TC-522,Savoury Sea Shell,Food,2,4,Nil,9:30-17:00,875
+TC-523,Sangeetha Veg Restaurant,Food,18,5,Nil,9:30-17:00,937
+TC-524,McDonald's,Food,3,4,Nil,9:30-17:00,561
+TC-525,Kovai Alankar Vilas,Food,20,4,Nil,9:30-17:00,874
+TC-526,Hotel Al Buhari,Food,10,5,Nil,9:30-17:00,1668
+TC-527,Dindigul Thalappakatti,Food,16,5,Nil,9:30-17:00,724
+TC-528,Hotel Paramount,Food,1,5,Nil,9:30-17:00,740
+TC-529,Welcome Hotel,Food,16,5,Nil,9:30-17:00,1505
+TC-530,Arab Street,Food,13,4,Nil,9:30-17:00,1331
+TC-531,Abid's,Food,3,5,Nil,9:30-17:00,1297
+TC-532,Wire Room Bar & Kitchen,Food,16,5,Nil,9:30-17:00,1457
+TC-533,Sukkubhai Biriyani,Food,7,5,Nil,9:30-17:00,751
+TC-534,SS Hyderabad Biryani,Food,15,5,Nil,9:30-17:00,1452
+TC-535,KFC,Food,4,5,Nil,9:30-17:00,821
+TC-536,Tasty Kitchen,Food,2,4,Nil,9:30-17:00,1704
+TC-537,Dine N Fun,Food,1,4,Nil,9:30-17:00,1674
+TC-538,Bai Veetu Kalyanam,Food,3,4,Nil,9:30-17:00,564
+TC-539,Cafe Arabica,Food,0,5,Nil,9:30-17:00,1074
+TC-540,Savoury Sea Shell,Food,4,5,Nil,9:30-17:00,1443
+TC-541,Sangeetha Veg Restaurant,Food,10,5,Nil,9:30-17:00,812
+TC-542,McDonald's,Food,20,5,Nil,9:30-17:00,794
+TC-543,Kovai Alankar Vilas,Food,7,5,Nil,9:30-17:00,1538
+TC-544,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,909
+TC-545,Dindigul Thalappakatti,Food,7,5,Nil,9:30-17:00,954
+TC-546,Hotel Paramount,Food,19,4,Nil,9:30-17:00,1454
+TC-547,Welcome Hotel,Food,0,4,Nil,9:30-17:00,1297
+TC-548,Arab Street,Food,0,5,Nil,9:30-17:00,735
+TC-549,Abid's,Food,4,5,Nil,9:30-17:00,904
+TC-550,Wire Room Bar & Kitchen,Food,1,5,Nil,9:30-17:00,827
+TC-551,Sukkubhai Biriyani,Food,18,4,Nil,9:30-17:00,1178
+TC-552,SS Hyderabad Biryani,Food,18,4,Nil,9:30-17:00,525
+TC-553,KFC,Food,3,5,Nil,9:30-17:00,681
+TC-554,Tasty Kitchen,Food,14,5,Nil,9:30-17:00,1259
+TC-555,Dine N Fun,Food,6,5,Nil,9:30-17:00,1061
+TC-556,Bai Veetu Kalyanam,Food,2,5,Nil,9:30-17:00,1256
+TC-557,Cafe Arabica,Food,10,5,Nil,9:30-17:00,1648
+TC-558,Savoury Sea Shell,Food,15,4,Nil,9:30-17:00,900
+TC-559,Sangeetha Veg Restaurant,Food,1,5,Nil,9:30-17:00,1302
+TC-560,McDonald's,Food,19,5,Nil,9:30-17:00,1425
+TC-561,Kovai Alankar Vilas,Food,17,4,Nil,9:30-17:00,1485
+TC-562,Hotel Al Buhari,Food,4,5,Nil,9:30-17:00,1179
+TC-563,Dindigul Thalappakatti,Food,19,5,Nil,9:30-17:00,1478
+TC-564,Hotel Paramount,Food,3,4,Nil,9:30-17:00,1628
+TC-565,Welcome Hotel,Food,18,4,Nil,9:30-17:00,1481
+TC-566,Arab Street,Food,10,5,Nil,9:30-17:00,1391
+TC-567,Abid's,Food,18,4,Nil,9:30-17:00,1617
+TC-568,Wire Room Bar & Kitchen,Food,19,4,Nil,9:30-17:00,1495
+TC-569,Sukkubhai Biriyani,Food,0,5,Nil,9:30-17:00,885
+TC-570,SS Hyderabad Biryani,Food,19,4,Nil,9:30-17:00,771
+TC-571,KFC,Food,17,4,Nil,9:30-17:00,914
+TC-572,Tasty Kitchen,Food,4,4,Nil,9:30-17:00,1187
+TC-573,Dine N Fun,Food,11,4,Nil,9:30-17:00,796
+TC-574,Bai Veetu Kalyanam,Food,18,5,Nil,9:30-17:00,707
+TC-575,Cafe Arabica,Food,4,5,Nil,9:30-17:00,995
+TC-576,Savoury Sea Shell,Food,20,4,Nil,9:30-17:00,1550
+TC-577,Sangeetha Veg Restaurant,Food,20,5,Nil,9:30-17:00,723
+TC-578,McDonald's,Food,11,5,Nil,9:30-17:00,1225
+TC-579,Kovai Alankar Vilas,Food,4,5,Nil,9:30-17:00,1340
+TC-580,Hotel Al Buhari,Food,15,4,Nil,9:30-17:00,1517
+TC-581,Dindigul Thalappakatti,Food,18,4,Nil,9:30-17:00,636
+TC-582,Hotel Paramount,Food,16,4,Nil,9:30-17:00,970
+TC-583,Welcome Hotel,Food,9,4,Nil,9:30-17:00,1416
+TC-584,Arab Street,Food,20,4,Nil,9:30-17:00,600
+TC-585,Abid's,Food,16,4,Nil,9:30-17:00,568
+TC-586,Wire Room Bar & Kitchen,Food,20,5,Nil,9:30-17:00,1485
+TC-587,Sukkubhai Biriyani,Food,5,5,Nil,9:30-17:00,925
+TC-588,SS Hyderabad Biryani,Food,12,5,Nil,9:30-17:00,502
+TC-589,KFC,Food,6,5,Nil,9:30-17:00,822
+TC-590,Tasty Kitchen,Food,13,5,Nil,9:30-17:00,1175
+TC-591,Dine N Fun,Food,0,4,Nil,9:30-17:00,1654
+TC-592,Bai Veetu Kalyanam,Food,17,4,Nil,9:30-17:00,950
+TC-593,Cafe Arabica,Food,20,5,Nil,9:30-17:00,526
+TC-594,Savoury Sea Shell,Food,3,4,Nil,9:30-17:00,1047
+TC-595,Sangeetha Veg Restaurant,Food,8,4,Nil,9:30-17:00,972
+TC-596,McDonald's,Food,12,4,Nil,9:30-17:00,1565
+TC-597,Kovai Alankar Vilas,Food,13,5,Nil,9:30-17:00,900
+TC-598,Hotel Al Buhari,Food,3,4,Nil,9:30-17:00,1067
+TC-599,Dindigul Thalappakatti,Food,11,4,Nil,9:30-17:00,1183
+TC-600,Hotel Paramount,Food,10,4,Nil,9:30-17:00,660
+TC-601,Welcome Hotel,Food,18,4,Nil,9:30-17:00,1415
+TC-602,Arab Street,Food,8,4,Nil,9:30-17:00,1677
+TC-603,Abid's,Food,16,4,Nil,9:30-17:00,552
+TC-604,Wire Room Bar & Kitchen,Food,5,4,Nil,9:30-17:00,828
+TC-605,Sukkubhai Biriyani,Food,12,4,Nil,9:30-17:00,828
+TC-606,SS Hyderabad Biryani,Food,15,5,Nil,9:30-17:00,1181
+TC-607,KFC,Food,16,4,Nil,9:30-17:00,1346
+TC-608,Tasty Kitchen,Food,13,4,Nil,9:30-17:00,556
+TC-609,Dine N Fun,Food,4,5,Nil,9:30-17:00,1428
+TC-610,Bai Veetu Kalyanam,Food,9,4,Nil,9:30-17:00,689
+TC-611,Cafe Arabica,Food,8,4,Nil,9:30-17:00,535
+TC-612,Savoury Sea Shell,Food,9,5,Nil,9:30-17:00,758
+TC-613,Sangeetha Veg Restaurant,Food,2,5,Nil,9:30-17:00,936
+TC-614,McDonald's,Food,14,5,Nil,9:30-17:00,649
+TC-615,Kovai Alankar Vilas,Food,17,5,Nil,9:30-17:00,1184
+TC-616,Hotel Al Buhari,Food,1,5,Nil,9:30-17:00,814
+TC-617,Dindigul Thalappakatti,Food,20,5,Nil,9:30-17:00,1569
+TC-618,Hotel Paramount,Food,18,4,Nil,9:30-17:00,977
+TC-619,Welcome Hotel,Food,17,5,Nil,9:30-17:00,767
+TC-620,Arab Street,Food,15,4,Nil,9:30-17:00,997
+TC-621,Abid's,Food,20,4,Nil,9:30-17:00,729
+TC-622,Wire Room Bar & Kitchen,Food,18,4,Nil,9:30-17:00,1404
+TC-623,Sukkubhai Biriyani,Food,13,5,Nil,9:30-17:00,859
+TC-624,SS Hyderabad Biryani,Food,18,4,Nil,9:30-17:00,1396
+TC-625,KFC,Food,16,4,Nil,9:30-17:00,1768
+TC-626,Tasty Kitchen,Food,9,4,Nil,9:30-17:00,709
+TC-627,Dine N Fun,Food,15,4,Nil,9:30-17:00,1570
+TC-628,Bai Veetu Kalyanam,Food,10,5,Nil,9:30-17:00,1306
+TC-629,Cafe Arabica,Food,5,5,Nil,9:30-17:00,613
+TC-630,Savoury Sea Shell,Food,20,5,Nil,9:30-17:00,976
+TC-631,Sangeetha Veg Restaurant,Food,0,4,Nil,9:30-17:00,673
+TC-632,McDonald's,Food,6,4,Nil,9:30-17:00,1192
+TC-633,Kovai Alankar Vilas,Food,17,4,Nil,9:30-17:00,711
+TC-634,Hotel Al Buhari,Food,2,5,Nil,9:30-17:00,1152
+TC-635,Dindigul Thalappakatti,Food,18,5,Nil,9:30-17:00,758
+TC-636,Hotel Paramount,Food,16,4,Nil,9:30-17:00,1769
+TC-637,Welcome Hotel,Food,13,4,Nil,9:30-17:00,812
+TC-638,Arab Street,Food,13,4,Nil,9:30-17:00,1023
+TC-639,Abid's,Food,13,4,Nil,9:30-17:00,636
+TC-640,Wire Room Bar & Kitchen,Food,19,5,Nil,9:30-17:00,1515
+TC-641,Sukkubhai Biriyani,Food,8,4,Nil,9:30-17:00,1005
+TC-642,SS Hyderabad Biryani,Food,5,4,Nil,9:30-17:00,652
+TC-643,KFC,Food,2,4,Nil,9:30-17:00,541
+TC-644,Tasty Kitchen,Food,16,5,Nil,9:30-17:00,955
+TC-645,Dine N Fun,Food,11,5,Nil,9:30-17:00,1505
+TC-646,Bai Veetu Kalyanam,Food,20,5,Nil,9:30-17:00,633
+TC-647,Cafe Arabica,Food,10,4,Nil,9:30-17:00,1338
+TC-648,Savoury Sea Shell,Food,20,4,Nil,9:30-17:00,906
+TC-649,Sangeetha Veg Restaurant,Food,18,5,Nil,9:30-17:00,836
+TC-650,McDonald's,Food,14,5,Nil,9:30-17:00,1768
+TC-651,Kovai Alankar Vilas,Food,5,4,Nil,9:30-17:00,1101
+TC-652,Hotel Al Buhari,Food,0,4,Nil,9:30-17:00,1236
+TC-653,Dindigul Thalappakatti,Food,15,4,Nil,9:30-17:00,1082
+TC-654,Hotel Paramount,Food,0,4,Nil,9:30-17:00,1651
+TC-655,Welcome Hotel,Food,16,5,Nil,9:30-17:00,1144
+TC-656,Arab Street,Food,1,5,Nil,9:30-17:00,731
+TC-657,Abid's,Food,16,4,Nil,9:30-17:00,1657
+TC-658,Wire Room Bar & Kitchen,Food,13,5,Nil,9:30-17:00,614
+TC-659,Sukkubhai Biriyani,Food,3,5,Nil,9:30-17:00,1475
+TC-660,SS Hyderabad Biryani,Food,5,5,Nil,9:30-17:00,1344
+TC-661,KFC,Food,9,5,Nil,9:30-17:00,1491
+TC-662,Tasty Kitchen,Food,1,5,Nil,9:30-17:00,555
+TC-663,Dine N Fun,Food,3,5,Nil,9:30-17:00,1774
+TC-664,Bai Veetu Kalyanam,Food,3,5,Nil,9:30-17:00,1731
+TC-665,Cafe Arabica,Food,18,4,Nil,9:30-17:00,1243
+TC-666,Savoury Sea Shell,Food,7,4,Nil,9:30-17:00,1303
+TC-667,Sangeetha Veg Restaurant,Food,6,5,Nil,9:30-17:00,1104
+TC-668,McDonald's,Food,2,4,Nil,9:30-17:00,1047
+TC-669,Kovai Alankar Vilas,Food,20,5,Nil,9:30-17:00,748
+TC-670,Hotel Al Buhari,Food,13,5,Nil,9:30-17:00,1509
+TC-671,Dindigul Thalappakatti,Food,1,4,Nil,9:30-17:00,1560
+TC-672,Hotel Paramount,Food,9,5,Nil,9:30-17:00,1504
+TC-673,Welcome Hotel,Food,14,4,Nil,9:30-17:00,1647
+TC-674,Arab Street,Food,3,5,Nil,9:30-17:00,1761
+TC-675,Abid's,Food,20,4,Nil,9:30-17:00,1312
+TC-676,Wire Room Bar & Kitchen,Food,1,5,Nil,9:30-17:00,1460
+TC-677,Sukkubhai Biriyani,Food,5,5,Nil,9:30-17:00,1741
+TC-678,SS Hyderabad Biryani,Food,7,5,Nil,9:30-17:00,1474
+TC-679,KFC,Food,13,5,Nil,9:30-17:00,1452
+TC-680,Tasty Kitchen,Food,14,4,Nil,9:30-17:00,661
+TC-681,Dine N Fun,Food,5,5,Nil,9:30-17:00,1797
+TC-682,Bai Veetu Kalyanam,Food,17,4,Nil,9:30-17:00,913
+TC-683,Cafe Arabica,Food,0,5,Nil,9:30-17:00,1257
+TC-684,Savoury Sea Shell,Food,8,5,Nil,9:30-17:00,1017
+TC-685,Sangeetha Veg Restaurant,Food,18,4,Nil,9:30-17:00,635
+TC-686,McDonald's,Food,11,4,Nil,9:30-17:00,1260
+TC-687,Kovai Alankar Vilas,Food,20,4,Nil,9:30-17:00,1458
+TC-688,Hotel Al Buhari,Food,20,5,Nil,9:30-17:00,1444
+TC-689,Dindigul Thalappakatti,Food,14,4,Nil,9:30-17:00,1349
+TC-690,Hotel Paramount,Food,15,5,Nil,9:30-17:00,618
+TC-691,Welcome Hotel,Food,8,5,Nil,9:30-17:00,1059
+TC-692,Arab Street,Food,6,4,Nil,9:30-17:00,1748
+TC-693,Abid's,Food,17,5,Nil,9:30-17:00,921
+TC-694,Wire Room Bar & Kitchen,Food,5,4,Nil,9:30-17:00,1532
+TC-695,Sukkubhai Biriyani,Food,9,4,Nil,9:30-17:00,893
+TC-696,SS Hyderabad Biryani,Food,12,5,Nil,9:30-17:00,1516
+TC-697,KFC,Food,19,5,Nil,9:30-17:00,641
+TC-698,Tasty Kitchen,Food,11,5,Nil,9:30-17:00,510
+TC-699,Dine N Fun,Food,7,4,Nil,9:30-17:00,1561
+TC-700,Bai Veetu Kalyanam,Food,10,4,Nil,9:30-17:00,936
+TC-701,Cafe Arabica,Food,1,5,Nil,9:30-17:00,1256
+TC-702,Savoury Sea Shell,Food,8,4,Nil,9:30-17:00,528
+TC-703,Sangeetha Veg Restaurant,Food,12,5,Nil,9:30-17:00,1588
+TC-704,McDonald's,Food,4,5,Nil,9:30-17:00,1468
+TC-705,Kovai Alankar Vilas,Food,11,5,Nil,9:30-17:00,658
+TC-706,Hotel Al Buhari,Food,2,4,Nil,9:30-17:00,1091
+TC-707,Dindigul Thalappakatti,Food,2,4,Nil,9:30-17:00,1641
+TC-708,Hotel Paramount,Food,3,4,Nil,9:30-17:00,1201
+TC-709,Welcome Hotel,Food,14,4,Nil,9:30-17:00,1187
+TC-710,Arab Street,Food,6,4,Nil,9:30-17:00,642
+TC-711,Abid's,Food,2,4,Nil,9:30-17:00,1323
+TC-712,Wire Room Bar & Kitchen,Food,1,5,Nil,9:30-17:00,1035
+TC-713,Sukkubhai Biriyani,Food,6,4,Nil,9:30-17:00,1003
+TC-714,SS Hyderabad Biryani,Food,11,5,Nil,9:30-17:00,810
+TC-715,KFC,Food,1,5,Nil,9:30-17:00,544
+TC-716,Tasty Kitchen,Food,6,5,Nil,9:30-17:00,521
+TC-717,Dine N Fun,Food,15,4,Nil,9:30-17:00,1423
+TC-718,Bai Veetu Kalyanam,Food,19,5,Nil,9:30-17:00,1032
+TC-719,Cafe Arabica,Food,0,5,Nil,9:30-17:00,1125
+TC-720,Savoury Sea Shell,Food,9,5,Nil,9:30-17:00,658
+TC-721,Sangeetha Veg Restaurant,Food,18,5,Nil,9:30-17:00,980
+TC-722,McDonald's,Food,8,5,Nil,9:30-17:00,939
+TC-723,Kovai Alankar Vilas,Food,14,5,Nil,9:30-17:00,1528
+TC-724,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,1215
+TC-725,Dindigul Thalappakatti,Food,10,5,Nil,9:30-17:00,530
+TC-726,Hotel Paramount,Food,12,4,Nil,9:30-17:00,1447
+TC-727,Welcome Hotel,Food,11,5,Nil,9:30-17:00,1107
+TC-728,Arab Street,Food,18,5,Nil,9:30-17:00,1392
+TC-729,Abid's,Food,11,4,Nil,9:30-17:00,521
+TC-730,Wire Room Bar & Kitchen,Food,20,4,Nil,9:30-17:00,1437
+TC-731,Sukkubhai Biriyani,Food,0,4,Nil,9:30-17:00,1693
+TC-732,SS Hyderabad Biryani,Food,4,5,Nil,9:30-17:00,521
+TC-733,KFC,Food,16,4,Nil,9:30-17:00,1369
+TC-734,Tasty Kitchen,Food,15,5,Nil,9:30-17:00,1605
+TC-735,Dine N Fun,Food,18,5,Nil,9:30-17:00,1114
+TC-736,Bai Veetu Kalyanam,Food,15,4,Nil,9:30-17:00,740
+TC-737,Cafe Arabica,Food,16,4,Nil,9:30-17:00,838
+TC-738,Savoury Sea Shell,Food,11,4,Nil,9:30-17:00,1779
+TC-739,Sangeetha Veg Restaurant,Food,14,5,Nil,9:30-17:00,1799
+TC-740,McDonald's,Food,7,4,Nil,9:30-17:00,669
+TC-741,Kovai Alankar Vilas,Food,9,5,Nil,9:30-17:00,1271
+TC-742,Hotel Al Buhari,Food,0,5,Nil,9:30-17:00,1228
+TC-743,Dindigul Thalappakatti,Food,9,5,Nil,9:30-17:00,1385
+TC-744,Hotel Paramount,Food,20,4,Nil,9:30-17:00,700
+TC-745,Welcome Hotel,Food,1,4,Nil,9:30-17:00,1744
+TC-746,Arab Street,Food,6,5,Nil,9:30-17:00,1385
+TC-747,Abid's,Food,11,5,Nil,9:30-17:00,727
+TC-748,Wire Room Bar & Kitchen,Food,11,5,Nil,9:30-17:00,1605
+TC-749,Sukkubhai Biriyani,Food,6,5,Nil,9:30-17:00,1326
+TC-750,SS Hyderabad Biryani,Food,3,4,Nil,9:30-17:00,1279
+TC-751,KFC,Food,17,4,Nil,9:30-17:00,752
+TC-752,Tasty Kitchen,Food,9,4,Nil,9:30-17:00,614
+TC-753,Dine N Fun,Food,1,5,Nil,9:30-17:00,1753
+TC-754,Bai Veetu Kalyanam,Food,0,5,Nil,9:30-17:00,1035
+TC-755,Cafe Arabica,Food,3,4,Nil,9:30-17:00,542
+TC-756,Savoury Sea Shell,Food,0,4,Nil,9:30-17:00,1230
+TC-757,Sangeetha Veg Restaurant,Food,16,4,Nil,9:30-17:00,942
+TC-758,McDonald's,Food,6,5,Nil,9:30-17:00,1421
+TC-759,Kovai Alankar Vilas,Food,16,4,Nil,9:30-17:00,780
+TC-760,Hotel Al Buhari,Food,16,4,Nil,9:30-17:00,503
+TC-761,Dindigul Thalappakatti,Food,0,5,Nil,9:30-17:00,1365
+TC-762,Hotel Paramount,Food,20,5,Nil,9:30-17:00,671
+TC-763,Welcome Hotel,Food,20,4,Nil,9:30-17:00,1414
+TC-764,Arab Street,Food,9,4,Nil,9:30-17:00,1500
+TC-765,Abid's,Food,14,5,Nil,9:30-17:00,1386
+TC-766,Wire Room Bar & Kitchen,Food,17,4,Nil,9:30-17:00,646
+TC-767,Sukkubhai Biriyani,Food,4,5,Nil,9:30-17:00,803
+TC-768,SS Hyderabad Biryani,Food,0,5,Nil,9:30-17:00,1741
+TC-769,KFC,Food,12,5,Nil,9:30-17:00,600
+TC-770,Tasty Kitchen,Food,12,5,Nil,9:30-17:00,1643
+TC-771,Dine N Fun,Food,0,4,Nil,9:30-17:00,906
+TC-772,Bai Veetu Kalyanam,Food,9,4,Nil,9:30-17:00,1227
+TC-773,Cafe Arabica,Food,5,4,Nil,9:30-17:00,1541
+TC-774,Savoury Sea Shell,Food,16,4,Nil,9:30-17:00,1585
+TC-775,Sangeetha Veg Restaurant,Food,10,5,Nil,9:30-17:00,1238
+TC-776,McDonald's,Food,9,5,Nil,9:30-17:00,1699
+TC-777,Kovai Alankar Vilas,Food,18,4,Nil,9:30-17:00,861
+TC-778,Hotel Al Buhari,Food,0,5,Nil,9:30-17:00,1138
+TC-779,Dindigul Thalappakatti,Food,1,4,Nil,9:30-17:00,1020
+TC-780,Hotel Paramount,Food,16,4,Nil,9:30-17:00,560
+TC-781,Welcome Hotel,Food,10,5,Nil,9:30-17:00,750
+TC-782,Arab Street,Food,10,5,Nil,9:30-17:00,1757
+TC-783,Abid's,Food,8,5,Nil,9:30-17:00,867
+TC-784,Wire Room Bar & Kitchen,Food,1,5,Nil,9:30-17:00,929
+TC-785,Sukkubhai Biriyani,Food,20,4,Nil,9:30-17:00,616
+TC-786,SS Hyderabad Biryani,Food,16,5,Nil,9:30-17:00,698
+TC-787,KFC,Food,1,4,Nil,9:30-17:00,1673
+TC-788,Tasty Kitchen,Food,19,5,Nil,9:30-17:00,1561
+TC-789,Dine N Fun,Food,8,4,Nil,9:30-17:00,1035
+TC-790,Bai Veetu Kalyanam,Food,4,5,Nil,9:30-17:00,1201
+TC-791,Cafe Arabica,Food,5,5,Nil,9:30-17:00,1055
+TC-792,Savoury Sea Shell,Food,1,4,Nil,9:30-17:00,1151
+TC-793,Sangeetha Veg Restaurant,Food,11,4,Nil,9:30-17:00,902
+TC-794,McDonald's,Food,14,5,Nil,9:30-17:00,916
+TC-795,Kovai Alankar Vilas,Food,1,5,Nil,9:30-17:00,1514
+TC-796,Hotel Al Buhari,Food,19,4,Nil,9:30-17:00,776
+TC-797,Dindigul Thalappakatti,Food,4,5,Nil,9:30-17:00,1459
+TC-798,Hotel Paramount,Food,3,4,Nil,9:30-17:00,1184
+TC-799,Welcome Hotel,Food,0,4,Nil,9:30-17:00,1232
+TC-800,Arab Street,Food,5,5,Nil,9:30-17:00,1448
+TC-801,Abid's,Food,13,5,Nil,9:30-17:00,1680
+TC-802,Wire Room Bar & Kitchen,Food,0,5,Nil,9:30-17:00,777
+TC-803,Sukkubhai Biriyani,Food,19,5,Nil,9:30-17:00,1624
+TC-804,SS Hyderabad Biryani,Food,7,4,Nil,9:30-17:00,1640
+TC-805,KFC,Food,15,5,Nil,9:30-17:00,1390
+TC-806,Tasty Kitchen,Food,6,5,Nil,9:30-17:00,879
+TC-807,Dine N Fun,Food,13,4,Nil,9:30-17:00,964
+TC-808,Bai Veetu Kalyanam,Food,19,5,Nil,9:30-17:00,1530
+TC-809,Cafe Arabica,Food,18,4,Nil,9:30-17:00,1121
+TC-810,Savoury Sea Shell,Food,2,5,Nil,9:30-17:00,793
+TC-811,Sangeetha Veg Restaurant,Food,12,4,Nil,9:30-17:00,743
+TC-812,McDonald's,Food,17,4,Nil,9:30-17:00,1507
+TC-813,Kovai Alankar Vilas,Food,8,5,Nil,9:30-17:00,906
+TC-814,Hotel Al Buhari,Food,15,5,Nil,9:30-17:00,890
+TC-815,Dindigul Thalappakatti,Food,5,5,Nil,9:30-17:00,1013
+TC-816,Hotel Paramount,Food,12,4,Nil,9:30-17:00,1332
+TC-817,Welcome Hotel,Food,14,5,Nil,9:30-17:00,1358
+TC-818,Arab Street,Food,10,5,Nil,9:30-17:00,1523
+TC-819,Abid's,Food,7,4,Nil,9:30-17:00,1477
+TC-820,Wire Room Bar & Kitchen,Food,3,5,Nil,9:30-17:00,782
+TC-821,Sukkubhai Biriyani,Food,7,5,Nil,9:30-17:00,943
+TC-822,SS Hyderabad Biryani,Food,17,5,Nil,9:30-17:00,1517
+TC-823,KFC,Food,1,4,Nil,9:30-17:00,1323
+TC-824,Tasty Kitchen,Food,5,4,Nil,9:30-17:00,1537
+TC-825,Dine N Fun,Food,14,5,Nil,9:30-17:00,1443
+TC-826,Bai Veetu Kalyanam,Food,0,4,Nil,9:30-17:00,1232
+TC-827,Cafe Arabica,Food,10,4,Nil,9:30-17:00,565
+TC-828,Savoury Sea Shell,Food,13,4,Nil,9:30-17:00,888
+TC-829,Sangeetha Veg Restaurant,Food,10,4,Nil,9:30-17:00,1056
+TC-830,McDonald's,Food,0,5,Nil,9:30-17:00,1557
+TC-831,Kovai Alankar Vilas,Food,18,5,Nil,9:30-17:00,1352
+TC-832,Hotel Al Buhari,Food,11,4,Nil,9:30-17:00,1690
+TC-833,Dindigul Thalappakatti,Food,9,4,Nil,9:30-17:00,1104
+TC-834,Hotel Paramount,Food,9,4,Nil,9:30-17:00,734
+TC-835,Welcome Hotel,Food,12,4,Nil,9:30-17:00,982
+TC-836,Arab Street,Food,3,5,Nil,9:30-17:00,905
+TC-837,Abid's,Food,16,4,Nil,9:30-17:00,937
+TC-838,Wire Room Bar & Kitchen,Food,8,4,Nil,9:30-17:00,1184
+TC-839,Sukkubhai Biriyani,Food,11,5,Nil,9:30-17:00,702
+TC-840,SS Hyderabad Biryani,Food,17,4,Nil,9:30-17:00,1618
+TC-841,KFC,Food,12,4,Nil,9:30-17:00,857
+TC-842,Tasty Kitchen,Food,17,4,Nil,9:30-17:00,1496
+TC-843,Dine N Fun,Food,8,4,Nil,9:30-17:00,591
+TC-844,Bai Veetu Kalyanam,Food,13,5,Nil,9:30-17:00,1604
+TC-845,Cafe Arabica,Food,2,5,Nil,9:30-17:00,879
+TC-846,Savoury Sea Shell,Food,10,5,Nil,9:30-17:00,533
+TC-847,Sangeetha Veg Restaurant,Food,5,5,Nil,9:30-17:00,1372
+TC-848,McDonald's,Food,20,4,Nil,9:30-17:00,794
+TC-849,Kovai Alankar Vilas,Food,12,5,Nil,9:30-17:00,933
+TC-850,Hotel Al Buhari,Food,4,5,Nil,9:30-17:00,567
+TC-851,Dindigul Thalappakatti,Food,18,5,Nil,9:30-17:00,1228
+TC-852,Hotel Paramount,Food,3,5,Nil,9:30-17:00,1214
+TC-853,Welcome Hotel,Food,20,5,Nil,9:30-17:00,1085
+TC-854,Arab Street,Food,4,4,Nil,9:30-17:00,1621
+TC-855,Abid's,Food,7,5,Nil,9:30-17:00,1672
+TC-856,Wire Room Bar & Kitchen,Food,0,5,Nil,9:30-17:00,1500
+TC-857,Sukkubhai Biriyani,Food,15,5,Nil,9:30-17:00,1633
+TC-858,SS Hyderabad Biryani,Food,9,4,Nil,9:30-17:00,1712
+TC-859,KFC,Food,10,4,Nil,9:30-17:00,1308
+TC-860,Tasty Kitchen,Food,15,4,Nil,9:30-17:00,961
+TC-861,Dine N Fun,Food,8,4,Nil,9:30-17:00,1509
+TC-862,Bai Veetu Kalyanam,Food,0,4,Nil,9:30-17:00,1222
+TC-863,Cafe Arabica,Food,13,4,Nil,9:30-17:00,1388
+TC-864,Savoury Sea Shell,Food,16,5,Nil,9:30-17:00,1459
+TC-865,Sangeetha Veg Restaurant,Food,8,5,Nil,9:30-17:00,1201
+TC-866,McDonald's,Food,16,5,Nil,9:30-17:00,845
+TC-867,Kovai Alankar Vilas,Food,12,5,Nil,9:30-17:00,881
+TC-868,Hotel Al Buhari,Food,20,4,Nil,9:30-17:00,701
+TC-869,Dindigul Thalappakatti,Food,1,5,Nil,9:30-17:00,1431
+TC-870,Hotel Paramount,Food,3,5,Nil,9:30-17:00,691
+TC-871,Welcome Hotel,Food,19,5,Nil,9:30-17:00,1661
+TC-872,Arab Street,Food,5,4,Nil,9:30-17:00,1137
+TC-873,Abid's,Food,2,5,Nil,9:30-17:00,812
+TC-874,Wire Room Bar & Kitchen,Food,11,5,Nil,9:30-17:00,1429
+TC-875,Sukkubhai Biriyani,Food,17,4,Nil,9:30-17:00,1577
+TC-876,SS Hyderabad Biryani,Food,11,5,Nil,9:30-17:00,950
+TC-877,KFC,Food,3,4,Nil,9:30-17:00,784
+TC-878,Tasty Kitchen,Food,16,4,Nil,9:30-17:00,1414
+TC-879,Dine N Fun,Food,11,5,Nil,9:30-17:00,1231
+TC-880,Bai Veetu Kalyanam,Food,13,5,Nil,9:30-17:00,1223
+TC-881,Cafe Arabica,Food,13,5,Nil,9:30-17:00,1203
+TC-882,Savoury Sea Shell,Food,6,5,Nil,9:30-17:00,687
+TC-883,Sangeetha Veg Restaurant,Food,5,4,Nil,9:30-17:00,669
+TC-884,McDonald's,Food,12,5,Nil,9:30-17:00,1095
+TC-885,Kovai Alankar Vilas,Food,14,4,Nil,9:30-17:00,1315
+TC-886,Hotel Al Buhari,Food,4,4,Nil,9:30-17:00,981
+TC-887,Dindigul Thalappakatti,Food,16,5,Nil,9:30-17:00,647
+TC-888,Hotel Paramount,Food,13,4,Nil,9:30-17:00,1380
+TC-889,Welcome Hotel,Food,18,4,Nil,9:30-17:00,1403
+TC-890,Arab Street,Food,0,4,Nil,9:30-17:00,1159
+TC-891,Abid's,Food,4,5,Nil,9:30-17:00,1197
+TC-892,Wire Room Bar & Kitchen,Food,16,4,Nil,9:30-17:00,557
+TC-893,Sukkubhai Biriyani,Food,5,5,Nil,9:30-17:00,1500
+TC-894,SS Hyderabad Biryani,Food,2,4,Nil,9:30-17:00,1295
+TC-895,KFC,Food,4,4,Nil,9:30-17:00,1277
+TC-896,Tasty Kitchen,Food,2,4,Nil,9:30-17:00,1705
+TC-897,Dine N Fun,Food,16,4,Nil,9:30-17:00,1203
+TC-898,Bai Veetu Kalyanam,Food,2,4,Nil,9:30-17:00,1099
+TC-899,Cafe Arabica,Food,8,5,Nil,9:30-17:00,1420
+TC-900,Savoury Sea Shell,Food,16,4,Nil,9:30-17:00,1657
+TC-901,Sangeetha Veg Restaurant,Food,16,5,Nil,9:30-17:00,916
+TC-902,McDonald's,Food,8,4,Nil,9:30-17:00,898
+TC-903,Kovai Alankar Vilas,Food,12,5,Nil,9:30-17:00,846
+TC-904,Hotel Al Buhari,Food,6,5,Nil,9:30-17:00,915
+TC-905,Dindigul Thalappakatti,Food,12,4,Nil,9:30-17:00,926
+TC-906,Hotel Paramount,Food,10,4,Nil,9:30-17:00,1354
+TC-907,Welcome Hotel,Food,6,5,Nil,9:30-17:00,1382
+TC-908,Arab Street,Food,10,5,Nil,9:30-17:00,1627
+TC-909,Abid's,Food,6,4,Nil,9:30-17:00,556
+TC-910,Wire Room Bar & Kitchen,Food,18,5,Nil,9:30-17:00,749
+TC-911,Sukkubhai Biriyani,Food,16,5,Nil,9:30-17:00,1319
+TC-912,SS Hyderabad Biryani,Food,5,4,Nil,9:30-17:00,1758
+TC-913,KFC,Food,4,4,Nil,9:30-17:00,1321
+TC-914,Tasty Kitchen,Food,16,4,Nil,9:30-17:00,1165
+TC-915,Dine N Fun,Food,13,4,Nil,9:30-17:00,971
+TC-916,Bai Veetu Kalyanam,Food,4,4,Nil,9:30-17:00,1566
+TC-917,Cafe Arabica,Food,14,5,Nil,9:30-17:00,568
+TC-918,Savoury Sea Shell,Food,10,5,Nil,9:30-17:00,534
+TC-919,Sangeetha Veg Restaurant,Food,12,5,Nil,9:30-17:00,606
+TC-920,McDonald's,Food,8,4,Nil,9:30-17:00,796
+TC-921,Kovai Alankar Vilas,Food,11,5,Nil,9:30-17:00,1005
+TC-922,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,551
+TC-923,Dindigul Thalappakatti,Food,9,5,Nil,9:30-17:00,1226
+TC-924,Hotel Paramount,Food,17,5,Nil,9:30-17:00,1012
+TC-925,Welcome Hotel,Food,17,5,Nil,9:30-17:00,1782
+TC-926,Arab Street,Food,6,5,Nil,9:30-17:00,1127
+TC-927,Abid's,Food,7,4,Nil,9:30-17:00,1305
+TC-928,Wire Room Bar & Kitchen,Food,20,5,Nil,9:30-17:00,1391
+TC-929,Sukkubhai Biriyani,Food,9,4,Nil,9:30-17:00,680
+TC-930,SS Hyderabad Biryani,Food,4,5,Nil,9:30-17:00,630
+TC-931,KFC,Food,11,4,Nil,9:30-17:00,1141
+TC-932,Tasty Kitchen,Food,16,4,Nil,9:30-17:00,936
+TC-933,Dine N Fun,Food,5,4,Nil,9:30-17:00,1786
+TC-934,Bai Veetu Kalyanam,Food,20,5,Nil,9:30-17:00,1252
+TC-935,Cafe Arabica,Food,2,4,Nil,9:30-17:00,1790
+TC-936,Savoury Sea Shell,Food,19,4,Nil,9:30-17:00,826
+TC-937,Sangeetha Veg Restaurant,Food,7,5,Nil,9:30-17:00,1685
+TC-938,McDonald's,Food,19,4,Nil,9:30-17:00,549
+TC-939,Kovai Alankar Vilas,Food,20,4,Nil,9:30-17:00,783
+TC-940,Hotel Al Buhari,Food,3,4,Nil,9:30-17:00,1636
+TC-941,Dindigul Thalappakatti,Food,5,4,Nil,9:30-17:00,1508
+TC-942,Hotel Paramount,Food,0,5,Nil,9:30-17:00,1059
+TC-943,Welcome Hotel,Food,5,4,Nil,9:30-17:00,610
+TC-944,Arab Street,Food,5,5,Nil,9:30-17:00,1109
+TC-945,Abid's,Food,4,5,Nil,9:30-17:00,1455
+TC-946,Wire Room Bar & Kitchen,Food,3,5,Nil,9:30-17:00,1468
+TC-947,Sukkubhai Biriyani,Food,12,5,Nil,9:30-17:00,621
+TC-948,SS Hyderabad Biryani,Food,0,5,Nil,9:30-17:00,894
+TC-949,KFC,Food,16,4,Nil,9:30-17:00,914
+TC-950,Tasty Kitchen,Food,14,4,Nil,9:30-17:00,774
+TC-951,Dine N Fun,Food,18,4,Nil,9:30-17:00,1585
+TC-952,Bai Veetu Kalyanam,Food,12,5,Nil,9:30-17:00,1196
+TC-953,Cafe Arabica,Food,9,5,Nil,9:30-17:00,1645
+TC-954,Savoury Sea Shell,Food,4,4,Nil,9:30-17:00,666
+TC-955,Sangeetha Veg Restaurant,Food,16,4,Nil,9:30-17:00,822
+TC-956,McDonald's,Food,8,4,Nil,9:30-17:00,1119
+TC-957,Kovai Alankar Vilas,Food,3,5,Nil,9:30-17:00,838
+TC-958,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,1168
+TC-959,Dindigul Thalappakatti,Food,17,5,Nil,9:30-17:00,1032
+TC-960,Hotel Paramount,Food,19,4,Nil,9:30-17:00,1078
+TC-961,Welcome Hotel,Food,4,5,Nil,9:30-17:00,1590
+TC-962,Arab Street,Food,7,5,Nil,9:30-17:00,732
+TC-963,Abid's,Food,4,5,Nil,9:30-17:00,765
+TC-964,Wire Room Bar & Kitchen,Food,19,4,Nil,9:30-17:00,656
+TC-965,Sukkubhai Biriyani,Food,0,5,Nil,9:30-17:00,627
+TC-966,SS Hyderabad Biryani,Food,9,4,Nil,9:30-17:00,1004
+TC-967,KFC,Food,19,5,Nil,9:30-17:00,1295
+TC-968,Tasty Kitchen,Food,1,5,Nil,9:30-17:00,719
+TC-969,Dine N Fun,Food,8,5,Nil,9:30-17:00,1359
+TC-970,Bai Veetu Kalyanam,Food,19,4,Nil,9:30-17:00,698
+TC-971,Cafe Arabica,Food,20,5,Nil,9:30-17:00,1131
+TC-972,Savoury Sea Shell,Food,0,4,Nil,9:30-17:00,682
+TC-973,Sangeetha Veg Restaurant,Food,4,4,Nil,9:30-17:00,1520
+TC-974,McDonald's,Food,0,5,Nil,9:30-17:00,570
+TC-975,Kovai Alankar Vilas,Food,11,4,Nil,9:30-17:00,760
+TC-976,Hotel Al Buhari,Food,13,4,Nil,9:30-17:00,1509
+TC-977,Dindigul Thalappakatti,Food,20,4,Nil,9:30-17:00,763
+TC-978,Hotel Paramount,Food,9,5,Nil,9:30-17:00,889
+TC-979,Welcome Hotel,Food,18,5,Nil,9:30-17:00,814
+TC-980,Arab Street,Food,5,5,Nil,9:30-17:00,519
+TC-981,Abid's,Food,18,5,Nil,9:30-17:00,1568
+TC-982,Wire Room Bar & Kitchen,Food,11,5,Nil,9:30-17:00,1705
+TC-983,Sukkubhai Biriyani,Food,7,5,Nil,9:30-17:00,982
+TC-984,SS Hyderabad Biryani,Food,19,4,Nil,9:30-17:00,1619
+TC-985,KFC,Food,2,4,Nil,9:30-17:00,670
+TC-986,Tasty Kitchen,Food,3,5,Nil,9:30-17:00,1729
+TC-987,Dine N Fun,Food,0,4,Nil,9:30-17:00,681
+TC-988,Bai Veetu Kalyanam,Food,1,5,Nil,9:30-17:00,1634
+TC-989,Cafe Arabica,Food,12,5,Nil,9:30-17:00,613
+TC-990,Savoury Sea Shell,Food,1,4,Nil,9:30-17:00,1218
+TC-991,Sangeetha Veg Restaurant,Food,18,4,Nil,9:30-17:00,790
+TC-992,McDonald's,Food,4,5,Nil,9:30-17:00,594
+TC-993,Kovai Alankar Vilas,Food,1,4,Nil,9:30-17:00,919
+TC-994,Hotel Al Buhari,Food,9,4,Nil,9:30-17:00,1303
+TC-995,Dindigul Thalappakatti,Food,12,4,Nil,9:30-17:00,1289
+TC-996,Hotel Paramount,Food,15,5,Nil,9:30-17:00,596
+TC-997,Welcome Hotel,Food,6,5,Nil,9:30-17:00,516
+TC-998,Arab Street,Food,5,5,Nil,9:30-17:00,996
+TC-999,Abid's,Food,7,4,Nil,9:30-17:00,588
+TC-1000,Wire Room Bar & Kitchen,Food,19,5,Nil,9:30-17:00,577
+TC-1001,Sukkubhai Biriyani,Food,4,4,Nil,9:30-17:00,970
+TC-1002,SS Hyderabad Biryani,Food,9,5,Nil,9:30-17:00,1306
+TC-1003,KFC,Food,4,5,Nil,9:30-17:00,577
+TC-1004,Tasty Kitchen,Food,14,4,Nil,9:30-17:00,965
+TC-1005,Dine N Fun,Food,19,4,Nil,9:30-17:00,917
+TC-1006,Bai Veetu Kalyanam,Food,0,5,Nil,9:30-17:00,717
+TC-1007,Cafe Arabica,Food,4,4,Nil,9:30-17:00,1383
+TC-1008,Savoury Sea Shell,Food,3,4,Nil,9:30-17:00,1095
+TC-1009,Sangeetha Veg Restaurant,Food,16,5,Nil,9:30-17:00,914
+TC-1010,McDonald's,Food,5,5,Nil,9:30-17:00,1147
+TC-1011,Kovai Alankar Vilas,Food,2,4,Nil,9:30-17:00,556
+TC-1012,Hotel Al Buhari,Food,6,5,Nil,9:30-17:00,557
+TC-1013,Dindigul Thalappakatti,Food,4,5,Nil,9:30-17:00,1239
+TC-1014,Hotel Paramount,Food,16,4,Nil,9:30-17:00,998
+TC-1015,Welcome Hotel,Food,13,4,Nil,9:30-17:00,502
+TC-1016,Arab Street,Food,6,4,Nil,9:30-17:00,761
+TC-1017,Abid's,Food,5,4,Nil,9:30-17:00,1549
+TC-1018,Wire Room Bar & Kitchen,Food,19,5,Nil,9:30-17:00,1127
+TC-1019,Sukkubhai Biriyani,Food,15,4,Nil,9:30-17:00,971
+TC-1020,SS Hyderabad Biryani,Food,17,5,Nil,9:30-17:00,1344
+TC-1021,KFC,Food,0,4,Nil,9:30-17:00,1342
+TC-1022,Tasty Kitchen,Food,6,5,Nil,9:30-17:00,1274
+TC-1023,Dine N Fun,Food,17,5,Nil,9:30-17:00,617
+TC-1024,Bai Veetu Kalyanam,Food,11,4,Nil,9:30-17:00,1407
+TC-1025,Cafe Arabica,Food,11,5,Nil,9:30-17:00,956
+TC-1026,Savoury Sea Shell,Food,12,4,Nil,9:30-17:00,511
+TC-1027,Sangeetha Veg Restaurant,Food,15,4,Nil,9:30-17:00,841
+TC-1028,McDonald's,Food,17,4,Nil,9:30-17:00,548
+TC-1029,Kovai Alankar Vilas,Food,7,4,Nil,9:30-17:00,1265
+TC-1030,Hotel Al Buhari,Food,3,4,Nil,9:30-17:00,1711
+TC-1031,Dindigul Thalappakatti,Food,13,5,Nil,9:30-17:00,1652
+TC-1032,Hotel Paramount,Food,10,4,Nil,9:30-17:00,560
+TC-1033,Welcome Hotel,Food,19,5,Nil,9:30-17:00,1685
+TC-1034,Arab Street,Food,8,5,Nil,9:30-17:00,1623
+TC-1035,Abid's,Food,19,4,Nil,9:30-17:00,640
+TC-1036,Wire Room Bar & Kitchen,Food,6,5,Nil,9:30-17:00,1556
+TC-1037,Sukkubhai Biriyani,Food,6,5,Nil,9:30-17:00,539
+TC-1038,SS Hyderabad Biryani,Food,17,4,Nil,9:30-17:00,1611
+TC-1039,KFC,Food,8,4,Nil,9:30-17:00,590
+TC-1040,Tasty Kitchen,Food,16,5,Nil,9:30-17:00,1748
+TC-1041,Dine N Fun,Food,16,4,Nil,9:30-17:00,809
+TC-1042,Bai Veetu Kalyanam,Food,6,4,Nil,9:30-17:00,1793
+TC-1043,Cafe Arabica,Food,13,5,Nil,9:30-17:00,1653
+TC-1044,Savoury Sea Shell,Food,18,5,Nil,9:30-17:00,543
+TC-1045,Sangeetha Veg Restaurant,Food,19,4,Nil,9:30-17:00,679
+TC-1046,McDonald's,Food,4,4,Nil,9:30-17:00,1059
+TC-1047,Kovai Alankar Vilas,Food,7,4,Nil,9:30-17:00,604
+TC-1048,Hotel Al Buhari,Food,10,4,Nil,9:30-17:00,1047
+TC-1049,Dindigul Thalappakatti,Food,4,5,Nil,9:30-17:00,513
+TC-1050,Hotel Paramount,Food,19,4,Nil,9:30-17:00,1336
+TC-1051,Welcome Hotel,Food,10,4,Nil,9:30-17:00,1044
+TC-1052,Arab Street,Food,17,5,Nil,9:30-17:00,1020
+TC-1053,Abid's,Food,5,5,Nil,9:30-17:00,1153
+TC-1054,Wire Room Bar & Kitchen,Food,14,4,Nil,9:30-17:00,1219
+TC-1055,Sukkubhai Biriyani,Food,9,5,Nil,9:30-17:00,1279
+TC-1056,SS Hyderabad Biryani,Food,10,5,Nil,9:30-17:00,1637
+TC-1057,KFC,Food,7,4,Nil,9:30-17:00,1409
+TC-1058,Tasty Kitchen,Food,7,5,Nil,9:30-17:00,1526
+TC-1059,Dine N Fun,Food,10,4,Nil,9:30-17:00,514
+TC-1060,Bai Veetu Kalyanam,Food,8,4,Nil,9:30-17:00,549
+TC-1061,Cafe Arabica,Food,19,5,Nil,9:30-17:00,1580
+TC-1062,Savoury Sea Shell,Food,6,4,Nil,9:30-17:00,1473
+TC-1063,Sangeetha Veg Restaurant,Food,7,5,Nil,9:30-17:00,1800
+TC-1064,McDonald's,Food,15,5,Nil,9:30-17:00,1131
+TC-1065,Kovai Alankar Vilas,Food,8,4,Nil,9:30-17:00,1205
+TC-1066,Hotel Al Buhari,Food,11,5,Nil,9:30-17:00,1295
+TC-1067,Dindigul Thalappakatti,Food,19,4,Nil,9:30-17:00,1483
+TC-1068,Hotel Paramount,Food,18,5,Nil,9:30-17:00,584
+TC-1069,Welcome Hotel,Food,10,5,Nil,9:30-17:00,1314
+TC-1070,Arab Street,Food,6,4,Nil,9:30-17:00,1498
+TC-1071,Abid's,Food,17,4,Nil,9:30-17:00,698
+TC-1072,Wire Room Bar & Kitchen,Food,15,5,Nil,9:30-17:00,1270
+TC-1073,Sukkubhai Biriyani,Food,15,5,Nil,9:30-17:00,951
+TC-1074,SS Hyderabad Biryani,Food,1,4,Nil,9:30-17:00,1543
+TC-1075,KFC,Food,2,4,Nil,9:30-17:00,1759
+TC-1076,Tasty Kitchen,Food,1,4,Nil,9:30-17:00,928
+TC-1077,Dine N Fun,Food,8,4,Nil,9:30-17:00,718
+TC-1078,Bai Veetu Kalyanam,Food,14,4,Nil,9:30-17:00,1684
+TC-1079,Cafe Arabica,Food,1,4,Nil,9:30-17:00,799
+TC-1080,Savoury Sea Shell,Food,4,5,Nil,9:30-17:00,1642
+TC-1081,Sangeetha Veg Restaurant,Food,3,5,Nil,9:30-17:00,877
+TC-1082,McDonald's,Food,8,5,Nil,9:30-17:00,1717
+TC-1083,Kovai Alankar Vilas,Food,4,4,Nil,9:30-17:00,1118
+TC-1084,Hotel Al Buhari,Food,7,4,Nil,9:30-17:00,1236
+TC-1085,Dindigul Thalappakatti,Food,8,5,Nil,9:30-17:00,713
+TC-1086,Hotel Paramount,Food,11,4,Nil,9:30-17:00,1447
+TC-1087,Welcome Hotel,Food,15,4,Nil,9:30-17:00,1296
+TC-1088,Arab Street,Food,7,5,Nil,9:30-17:00,580
+TC-1089,Abid's,Food,1,5,Nil,9:30-17:00,1717
+TC-1090,Wire Room Bar & Kitchen,Food,0,5,Nil,9:30-17:00,508
+TC-1091,Sukkubhai Biriyani,Food,20,5,Nil,9:30-17:00,1754
+TC-1092,SS Hyderabad Biryani,Food,13,5,Nil,9:30-17:00,500
+TC-1093,KFC,Food,9,5,Nil,9:30-17:00,801
+TC-1094,Tasty Kitchen,Food,15,5,Nil,9:30-17:00,1734
+TC-1095,Dine N Fun,Food,10,5,Nil,9:30-17:00,906
+TC-1096,Bai Veetu Kalyanam,Food,5,5,Nil,9:30-17:00,506
+TC-1097,Cafe Arabica,Food,1,5,Nil,9:30-17:00,843
+TC-1098,Savoury Sea Shell,Food,15,4,Nil,9:30-17:00,1448
+TC-1099,Sangeetha Veg Restaurant,Food,8,5,Nil,9:30-17:00,1059
+TC-1100,McDonald's,Food,4,4,Nil,9:30-17:00,793
+TC-1101,Kovai Alankar Vilas,Food,3,4,Nil,9:30-17:00,561
+TC-1102,Hotel Al Buhari,Food,19,5,Nil,9:30-17:00,1235
+TC-1103,Dindigul Thalappakatti,Food,15,5,Nil,9:30-17:00,1589
+TC-1104,Hotel Paramount,Food,8,4,Nil,9:30-17:00,895
+TC-1105,Welcome Hotel,Food,19,5,Nil,9:30-17:00,1737
+TC-1106,Arab Street,Food,15,4,Nil,9:30-17:00,799
+TC-1107,Abid's,Food,19,4,Nil,9:30-17:00,1477
+TC-1108,Wire Room Bar & Kitchen,Food,12,5,Nil,9:30-17:00,1056
+TC-1109,Sukkubhai Biriyani,Food,7,5,Nil,9:30-17:00,1339
+TC-1110,SS Hyderabad Biryani,Food,18,4,Nil,9:30-17:00,879
+TC-1111,KFC,Food,0,4,Nil,9:30-17:00,1498
+TC-1112,Tasty Kitchen,Food,5,5,Nil,9:30-17:00,1336
+TC-1113,Dine N Fun,Food,13,5,Nil,9:30-17:00,1390
+TC-1114,Bai Veetu Kalyanam,Food,5,4,Nil,9:30-17:00,834
+TC-1115,Cafe Arabica,Food,6,5,Nil,9:30-17:00,1218
+TC-1116,Savoury Sea Shell,Food,16,5,Nil,9:30-17:00,615
+TC-1117,Sangeetha Veg Restaurant,Food,16,5,Nil,9:30-17:00,1634
+TC-1118,McDonald's,Food,13,5,Nil,9:30-17:00,1419
+TC-1119,Kovai Alankar Vilas,Food,7,5,Nil,9:30-17:00,712
+TC-1120,Hotel Al Buhari,Food,9,5,Nil,9:30-17:00,774
+TC-1121,Dindigul Thalappakatti,Food,5,4,Nil,9:30-17:00,1754
+TC-1122,Hotel Paramount,Food,15,5,Nil,9:30-17:00,961
+TC-1123,Welcome Hotel,Food,2,4,Nil,9:30-17:00,1017
+TC-1124,Arab Street,Food,6,5,Nil,9:30-17:00,1430
+TC-1125,Abid's,Food,4,5,Nil,9:30-17:00,1582
+TC-1126,Wire Room Bar & Kitchen,Food,10,5,Nil,9:30-17:00,1208
+TC-1127,Sukkubhai Biriyani,Food,8,5,Nil,9:30-17:00,1744
+TC-1128,SS Hyderabad Biryani,Food,16,4,Nil,9:30-17:00,834
+TC-1129,KFC,Food,12,5,Nil,9:30-17:00,1330
+TC-1130,Tasty Kitchen,Food,1,5,Nil,9:30-17:00,846
+TC-1131,Dine N Fun,Food,6,4,Nil,9:30-17:00,1722
+TC-1132,Bai Veetu Kalyanam,Food,0,5,Nil,9:30-17:00,752
+TC-1133,Cafe Arabica,Food,2,5,Nil,9:30-17:00,598
+TC-1134,Savoury Sea Shell,Food,4,4,Nil,9:30-17:00,933
+TC-1135,Sangeetha Veg Restaurant,Food,8,5,Nil,9:30-17:00,1081
+TC-1136,McDonald's,Food,11,5,Nil,9:30-17:00,818
+TC-1137,Kovai Alankar Vilas,Food,3,4,Nil,9:30-17:00,723
+TC-1138,Hotel Al Buhari,Food,5,4,Nil,9:30-17:00,792
+TC-1139,Dindigul Thalappakatti,Food,12,5,Nil,9:30-17:00,1142
+TC-1140,Hotel Paramount,Food,18,5,Nil,9:30-17:00,1674
+TC-1141,Welcome Hotel,Food,11,4,Nil,9:30-17:00,1392
+TC-1142,Arab Street,Food,12,5,Nil,9:30-17:00,896
+TC-1143,Abid's,Food,19,4,Nil,9:30-17:00,1346
+TC-1144,Wire Room Bar & Kitchen,Food,12,5,Nil,9:30-17:00,1135
+TC-1145,Sukkubhai Biriyani,Food,1,5,Nil,9:30-17:00,1334
+TC-1146,SS Hyderabad Biryani,Food,3,4,Nil,9:30-17:00,1086
+TC-1147,KFC,Food,1,5,Nil,9:30-17:00,982
+TC-1148,Tasty Kitchen,Food,9,5,Nil,9:30-17:00,813
+TC-1149,Dine N Fun,Food,10,5,Nil,9:30-17:00,1741
+TC-1150,Bai Veetu Kalyanam,Food,11,4,Nil,9:30-17:00,618
+TC-1151,Cafe Arabica,Food,20,5,Nil,9:30-17:00,745
+TC-1152,Savoury Sea Shell,Food,8,5,Nil,9:30-17:00,1688
+TC-1153,Sangeetha Veg Restaurant,Food,17,4,Nil,9:30-17:00,891
+TC-1154,McDonald's,Food,0,5,Nil,9:30-17:00,697
+TC-1155,Kovai Alankar Vilas,Food,5,4,Nil,9:30-17:00,1776
+TC-1156,Hotel Al Buhari,Food,10,4,Nil,9:30-17:00,949
+TC-1157,Dindigul Thalappakatti,Food,20,4,Nil,9:30-17:00,537
+TC-1158,Hotel Paramount,Food,20,5,Nil,9:30-17:00,1057
+TC-1159,Welcome Hotel,Food,12,4,Nil,9:30-17:00,1481
+TC-1160,Arab Street,Food,17,4,Nil,9:30-17:00,1103
+TC-1161,Abid's,Food,20,4,Nil,9:30-17:00,1758
+TC-1162,Wire Room Bar & Kitchen,Food,19,4,Nil,9:30-17:00,1559
+TC-1163,Sukkubhai Biriyani,Food,19,4,Nil,9:30-17:00,781
+TC-1164,SS Hyderabad Biryani,Food,7,4,Nil,9:30-17:00,1596
+TC-1165,KFC,Food,1,4,Nil,9:30-17:00,1269
+TC-1166,Tasty Kitchen,Food,20,4,Nil,9:30-17:00,925
+TC-1167,Dine N Fun,Food,16,5,Nil,9:30-17:00,1733
+TC-1168,Bai Veetu Kalyanam,Food,7,5,Nil,9:30-17:00,1656
+TC-1169,Cafe Arabica,Food,6,4,Nil,9:30-17:00,1617
+TC-1170,Savoury Sea Shell,Food,3,4,Nil,9:30-17:00,1027
+TC-1171,Sangeetha Veg Restaurant,Food,5,5,Nil,9:30-17:00,1186
+TC-1172,McDonald's,Food,11,5,Nil,9:30-17:00,1029
+TC-1173,Kovai Alankar Vilas,Food,19,5,Nil,9:30-17:00,609
+TC-1174,Hotel Al Buhari,Food,8,5,Nil,9:30-17:00,1591
+TC-1175,Dindigul Thalappakatti,Food,2,4,Nil,9:30-17:00,1246
+TC-1176,Hotel Paramount,Food,13,4,Nil,9:30-17:00,939
+TC-1177,Welcome Hotel,Food,5,4,Nil,9:30-17:00,1678
+TC-1178,Arab Street,Food,2,5,Nil,9:30-17:00,1352
+TC-1179,Abid's,Food,15,5,Nil,9:30-17:00,913
+TC-1180,Wire Room Bar & Kitchen,Food,8,5,Nil,9:30-17:00,1506
+TC-1181,Sukkubhai Biriyani,Food,7,4,Nil,9:30-17:00,581
+TC-1182,SS Hyderabad Biryani,Food,17,4,Nil,9:30-17:00,536
+TC-1183,KFC,Food,4,5,Nil,9:30-17:00,1313
+TC-1184,Tasty Kitchen,Food,15,4,Nil,9:30-17:00,1453
+TC-1185,Dine N Fun,Food,15,5,Nil,9:30-17:00,742
+TC-1186,Bai Veetu Kalyanam,Food,13,5,Nil,9:30-17:00,1233
+TC-1187,Cafe Arabica,Food,3,5,Nil,9:30-17:00,521
+TC-1188,Savoury Sea Shell,Food,9,4,Nil,9:30-17:00,1641
+TC-1189,Sangeetha Veg Restaurant,Food,15,4,Nil,9:30-17:00,1770
+TC-1190,McDonald's,Food,5,5,Nil,9:30-17:00,1795
+TC-1191,Kovai Alankar Vilas,Food,5,4,Nil,9:30-17:00,881
+TC-1192,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,1705
+TC-1193,Dindigul Thalappakatti,Food,2,4,Nil,9:30-17:00,1574
+TC-1194,Hotel Paramount,Food,2,4,Nil,9:30-17:00,798
+TC-1195,Welcome Hotel,Food,11,5,Nil,9:30-17:00,619
+TC-1196,Arab Street,Food,12,4,Nil,9:30-17:00,1610
+TC-1197,Abid's,Food,1,5,Nil,9:30-17:00,677
+TC-1198,Wire Room Bar & Kitchen,Food,9,4,Nil,9:30-17:00,920
+TC-1199,Sukkubhai Biriyani,Food,6,4,Nil,9:30-17:00,1396
+TC-1200,SS Hyderabad Biryani,Food,10,5,Nil,9:30-17:00,1334
+TC-1201,KFC,Food,15,4,Nil,9:30-17:00,830
+TC-1202,Tasty Kitchen,Food,14,4,Nil,9:30-17:00,1038
+TC-1203,Dine N Fun,Food,12,5,Nil,9:30-17:00,908
+TC-1204,Bai Veetu Kalyanam,Food,18,5,Nil,9:30-17:00,1783
+TC-1205,Cafe Arabica,Food,10,4,Nil,9:30-17:00,1705
+TC-1206,Savoury Sea Shell,Food,15,4,Nil,9:30-17:00,899
+TC-1207,Sangeetha Veg Restaurant,Food,8,4,Nil,9:30-17:00,941
+TC-1208,McDonald's,Food,11,4,Nil,9:30-17:00,982
+TC-1209,Kovai Alankar Vilas,Food,13,4,Nil,9:30-17:00,627
+TC-1210,Hotel Al Buhari,Food,8,4,Nil,9:30-17:00,905
+TC-1211,Dindigul Thalappakatti,Food,13,5,Nil,9:30-17:00,1380
+TC-1212,Hotel Paramount,Food,2,5,Nil,9:30-17:00,1507
+TC-1213,Welcome Hotel,Food,1,5,Nil,9:30-17:00,1732
+TC-1214,Arab Street,Food,12,5,Nil,9:30-17:00,508
+TC-1215,Abid's,Food,1,5,Nil,9:30-17:00,1457
+TC-1216,Wire Room Bar & Kitchen,Food,8,4,Nil,9:30-17:00,1373
+TC-1217,Sukkubhai Biriyani,Food,15,5,Nil,9:30-17:00,872
+TC-1218,SS Hyderabad Biryani,Food,20,4,Nil,9:30-17:00,1217
+TC-1219,KFC,Food,8,5,Nil,9:30-17:00,690
+TC-1220,Tasty Kitchen,Food,13,5,Nil,9:30-17:00,967
+TC-1221,Dine N Fun,Food,15,4,Nil,9:30-17:00,1685
+TC-1222,Bai Veetu Kalyanam,Food,4,5,Nil,9:30-17:00,864
+TC-1223,Cafe Arabica,Food,13,4,Nil,9:30-17:00,1142
+TC-1224,Savoury Sea Shell,Food,11,4,Nil,9:30-17:00,727
+TC-1225,Sangeetha Veg Restaurant,Food,10,4,Nil,9:30-17:00,1349
+TC-1226,McDonald's,Food,2,5,Nil,9:30-17:00,680
+TC-1227,Kovai Alankar Vilas,Food,5,5,Nil,9:30-17:00,900
+TC-1228,Hotel Al Buhari,Food,15,5,Nil,9:30-17:00,1354
+TC-1229,Dindigul Thalappakatti,Food,16,5,Nil,9:30-17:00,711
+TC-1230,Hotel Paramount,Food,4,4,Nil,9:30-17:00,1311
+TC-1231,Welcome Hotel,Food,17,4,Nil,9:30-17:00,1042
+TC-1232,Arab Street,Food,13,4,Nil,9:30-17:00,1313
+TC-1233,Abid's,Food,3,5,Nil,9:30-17:00,1147
+TC-1234,Wire Room Bar & Kitchen,Food,6,4,Nil,9:30-17:00,1180
+TC-1235,Sukkubhai Biriyani,Food,13,4,Nil,9:30-17:00,798
+TC-1236,SS Hyderabad Biryani,Food,3,5,Nil,9:30-17:00,1006
+TC-1237,KFC,Food,19,5,Nil,9:30-17:00,1308
+TC-1238,Tasty Kitchen,Food,0,4,Nil,9:30-17:00,1084
+TC-1239,Dine N Fun,Food,4,4,Nil,9:30-17:00,899
+TC-1240,Bai Veetu Kalyanam,Food,1,5,Nil,9:30-17:00,648
+TC-1241,Cafe Arabica,Food,12,5,Nil,9:30-17:00,832
+TC-1242,Savoury Sea Shell,Food,17,5,Nil,9:30-17:00,1502
+TC-1243,Sangeetha Veg Restaurant,Food,20,4,Nil,9:30-17:00,598
+TC-1244,McDonald's,Food,13,4,Nil,9:30-17:00,625
+TC-1245,Kovai Alankar Vilas,Food,6,5,Nil,9:30-17:00,1508
+TC-1246,Hotel Al Buhari,Food,9,4,Nil,9:30-17:00,1778
+TC-1247,Dindigul Thalappakatti,Food,16,4,Nil,9:30-17:00,1096
+TC-1248,Hotel Paramount,Food,4,4,Nil,9:30-17:00,507
+TC-1249,Welcome Hotel,Food,7,5,Nil,9:30-17:00,1513
+TC-1250,Arab Street,Food,5,5,Nil,9:30-17:00,1713
+TC-1251,Abid's,Food,5,5,Nil,9:30-17:00,544
+TC-1252,Wire Room Bar & Kitchen,Food,18,4,Nil,9:30-17:00,962
+TC-1253,Sukkubhai Biriyani,Food,0,4,Nil,9:30-17:00,973
+TC-1254,SS Hyderabad Biryani,Food,15,5,Nil,9:30-17:00,1054
+TC-1255,KFC,Food,8,5,Nil,9:30-17:00,1212
+TC-1256,Tasty Kitchen,Food,0,4,Nil,9:30-17:00,876
+TC-1257,Dine N Fun,Food,10,4,Nil,9:30-17:00,657
+TC-1258,Bai Veetu Kalyanam,Food,1,4,Nil,9:30-17:00,1794
+TC-1259,Cafe Arabica,Food,13,4,Nil,9:30-17:00,1419
+TC-1260,Savoury Sea Shell,Food,3,5,Nil,9:30-17:00,1614
+TC-1261,Sangeetha Veg Restaurant,Food,14,5,Nil,9:30-17:00,1466
+TC-1262,McDonald's,Food,11,5,Nil,9:30-17:00,1307
+TC-1263,Kovai Alankar Vilas,Food,9,4,Nil,9:30-17:00,1088
+TC-1264,Hotel Al Buhari,Food,6,5,Nil,9:30-17:00,1000
+TC-1265,Dindigul Thalappakatti,Food,14,4,Nil,9:30-17:00,1181
+TC-1266,Hotel Paramount,Food,16,4,Nil,9:30-17:00,806
+TC-1267,Welcome Hotel,Food,10,5,Nil,9:30-17:00,1009
+TC-1268,Arab Street,Food,0,5,Nil,9:30-17:00,1706
+TC-1269,Abid's,Food,18,4,Nil,9:30-17:00,733
+TC-1270,Wire Room Bar & Kitchen,Food,17,5,Nil,9:30-17:00,686
+TC-1271,Sukkubhai Biriyani,Food,12,5,Nil,9:30-17:00,740
+TC-1272,SS Hyderabad Biryani,Food,7,4,Nil,9:30-17:00,1727
+TC-1273,KFC,Food,2,4,Nil,9:30-17:00,553
+TC-1274,Tasty Kitchen,Food,11,5,Nil,9:30-17:00,744
+TC-1275,Dine N Fun,Food,12,5,Nil,9:30-17:00,1306
+TC-1276,Bai Veetu Kalyanam,Food,18,5,Nil,9:30-17:00,1036
+TC-1277,Cafe Arabica,Food,20,5,Nil,9:30-17:00,1563
+TC-1278,Savoury Sea Shell,Food,5,5,Nil,9:30-17:00,1616
+TC-1279,Sangeetha Veg Restaurant,Food,2,5,Nil,9:30-17:00,1038
+TC-1280,McDonald's,Food,3,5,Nil,9:30-17:00,1577
+TC-1281,Kovai Alankar Vilas,Food,13,5,Nil,9:30-17:00,887
+TC-1282,Hotel Al Buhari,Food,17,4,Nil,9:30-17:00,910
+TC-1283,Dindigul Thalappakatti,Food,9,5,Nil,9:30-17:00,1192
+TC-1284,Hotel Paramount,Food,11,5,Nil,9:30-17:00,1722
+TC-1285,Welcome Hotel,Food,5,5,Nil,9:30-17:00,1420
+TC-1286,Arab Street,Food,12,5,Nil,9:30-17:00,635
+TC-1287,Abid's,Food,0,5,Nil,9:30-17:00,1496
+TC-1288,Wire Room Bar & Kitchen,Food,17,4,Nil,9:30-17:00,803
+TC-1289,Sukkubhai Biriyani,Food,8,5,Nil,9:30-17:00,1124
+TC-1290,SS Hyderabad Biryani,Food,1,4,Nil,9:30-17:00,1724
+TC-1291,KFC,Food,16,4,Nil,9:30-17:00,1685
+TC-1292,Tasty Kitchen,Food,1,4,Nil,9:30-17:00,822
+TC-1293,Dine N Fun,Food,19,4,Nil,9:30-17:00,998
+TC-1294,Bai Veetu Kalyanam,Food,14,4,Nil,9:30-17:00,1225
+TC-1295,Cafe Arabica,Food,14,5,Nil,9:30-17:00,1622
+TC-1296,Savoury Sea Shell,Food,19,5,Nil,9:30-17:00,1141
+TC-1297,Sangeetha Veg Restaurant,Food,10,4,Nil,9:30-17:00,868
+TC-1298,McDonald's,Food,16,5,Nil,9:30-17:00,679
+TC-1299,Kovai Alankar Vilas,Food,19,5,Nil,9:30-17:00,843
+TC-1300,Hotel Al Buhari,Food,19,4,Nil,9:30-17:00,1384
+TC-1301,Dindigul Thalappakatti,Food,4,5,Nil,9:30-17:00,540
+TC-1302,Hotel Paramount,Food,19,4,Nil,9:30-17:00,814
+TC-1303,Welcome Hotel,Food,3,5,Nil,9:30-17:00,680
+TC-1304,Arab Street,Food,5,4,Nil,9:30-17:00,988
+TC-1305,Abid's,Food,20,5,Nil,9:30-17:00,960
+TC-1306,Wire Room Bar & Kitchen,Food,18,4,Nil,9:30-17:00,858
+TC-1307,Sukkubhai Biriyani,Food,11,4,Nil,9:30-17:00,1628
+TC-1308,SS Hyderabad Biryani,Food,11,5,Nil,9:30-17:00,1021
+TC-1309,KFC,Food,7,4,Nil,9:30-17:00,741
+TC-1310,Tasty Kitchen,Food,10,4,Nil,9:30-17:00,1266
+TC-1311,Dine N Fun,Food,11,5,Nil,9:30-17:00,1066
+TC-1312,Bai Veetu Kalyanam,Food,8,5,Nil,9:30-17:00,873
+TC-1313,Cafe Arabica,Food,14,5,Nil,9:30-17:00,1749
+TC-1314,Savoury Sea Shell,Food,20,5,Nil,9:30-17:00,1235
+TC-1315,Sangeetha Veg Restaurant,Food,8,5,Nil,9:30-17:00,796
+TC-1316,McDonald's,Food,19,4,Nil,9:30-17:00,1786
+TC-1317,Kovai Alankar Vilas,Food,17,4,Nil,9:30-17:00,1661
+TC-1318,Hotel Al Buhari,Food,12,4,Nil,9:30-17:00,695
+TC-1319,Dindigul Thalappakatti,Food,10,4,Nil,9:30-17:00,838
+TC-1320,Hotel Paramount,Food,15,5,Nil,9:30-17:00,637
+TC-1321,Welcome Hotel,Food,10,4,Nil,9:30-17:00,932
+TC-1322,Arab Street,Food,19,5,Nil,9:30-17:00,1129
+TC-1323,Abid's,Food,3,5,Nil,9:30-17:00,1093
+TC-1324,Wire Room Bar & Kitchen,Food,5,4,Nil,9:30-17:00,1192
+TC-1325,Sukkubhai Biriyani,Food,13,4,Nil,9:30-17:00,1488
+TC-1326,SS Hyderabad Biryani,Food,15,4,Nil,9:30-17:00,1396
+TC-1327,KFC,Food,5,5,Nil,9:30-17:00,1204
+TC-1328,Tasty Kitchen,Food,4,4,Nil,9:30-17:00,926
+TC-1329,Dine N Fun,Food,9,5,Nil,9:30-17:00,1079
+TC-1330,Bai Veetu Kalyanam,Food,16,4,Nil,9:30-17:00,1097
+TC-1331,Cafe Arabica,Food,12,5,Nil,9:30-17:00,937
+TC-1332,Savoury Sea Shell,Food,7,4,Nil,9:30-17:00,750
+TC-1333,Sangeetha Veg Restaurant,Food,12,4,Nil,9:30-17:00,1573
+TC-1334,McDonald's,Food,8,5,Nil,9:30-17:00,1190
+TC-1335,Kovai Alankar Vilas,Food,19,5,Nil,9:30-17:00,1076
+TC-1336,Hotel Al Buhari,Food,19,5,Nil,9:30-17:00,1338
+TC-1337,Dindigul Thalappakatti,Food,2,4,Nil,9:30-17:00,1202
+TC-1338,Hotel Paramount,Food,1,4,Nil,9:30-17:00,1313
+TC-1339,Welcome Hotel,Food,10,4,Nil,9:30-17:00,935
+TC-1340,Arab Street,Food,6,5,Nil,9:30-17:00,868
+TC-1341,Abid's,Food,1,5,Nil,9:30-17:00,505
+TC-1342,Wire Room Bar & Kitchen,Food,3,4,Nil,9:30-17:00,792
+TC-1343,Sukkubhai Biriyani,Food,3,4,Nil,9:30-17:00,1363
+TC-1344,SS Hyderabad Biryani,Food,19,4,Nil,9:30-17:00,1385
+TC-1345,KFC,Food,13,4,Nil,9:30-17:00,1410
+TC-1346,Tasty Kitchen,Food,8,4,Nil,9:30-17:00,1657
+TC-1347,Dine N Fun,Food,6,5,Nil,9:30-17:00,1504
+TC-1348,Bai Veetu Kalyanam,Food,11,5,Nil,9:30-17:00,1765
+TC-1349,Cafe Arabica,Food,11,5,Nil,9:30-17:00,867
+TC-1350,Savoury Sea Shell,Food,11,4,Nil,9:30-17:00,1058
+TC-1351,Sangeetha Veg Restaurant,Food,16,4,Nil,9:30-17:00,1211
+TC-1352,McDonald's,Food,17,5,Nil,9:30-17:00,587
+TC-1353,Kovai Alankar Vilas,Food,20,5,Nil,9:30-17:00,945
+TC-1354,Hotel Al Buhari,Food,1,4,Nil,9:30-17:00,1713
+TC-1355,Dindigul Thalappakatti,Food,6,4,Nil,9:30-17:00,1090
+TC-1356,Hotel Paramount,Food,15,5,Nil,9:30-17:00,1545
+TC-1357,Welcome Hotel,Food,16,5,Nil,9:30-17:00,1376
+TC-1358,Arab Street,Food,8,4,Nil,9:30-17:00,1772
+TC-1359,Abid's,Food,12,5,Nil,9:30-17:00,1292
+TC-1360,Wire Room Bar & Kitchen,Food,12,5,Nil,9:30-17:00,1747
+TC-1361,Sukkubhai Biriyani,Food,15,4,Nil,9:30-17:00,1374
+TC-1362,SS Hyderabad Biryani,Food,10,4,Nil,9:30-17:00,1343
+TC-1363,KFC,Food,17,4,Nil,9:30-17:00,1223
+TC-1364,Tasty Kitchen,Food,0,4,Nil,9:30-17:00,766
+TC-1365,Dine N Fun,Food,1,5,Nil,9:30-17:00,1228
+TC-1366,Bai Veetu Kalyanam,Food,5,5,Nil,9:30-17:00,590
+TC-1367,Cafe Arabica,Food,19,5,Nil,9:30-17:00,613
+TC-1368,Savoury Sea Shell,Food,8,4,Nil,9:30-17:00,1529
+TC-1369,Sangeetha Veg Restaurant,Food,20,4,Nil,9:30-17:00,796
+TC-1370,McDonald's,Food,10,4,Nil,9:30-17:00,1013
+TC-1371,Kovai Alankar Vilas,Food,2,4,Nil,9:30-17:00,1380
+TC-1372,Hotel Al Buhari,Food,16,5,Nil,9:30-17:00,1614
+TC-1373,Dindigul Thalappakatti,Food,11,4,Nil,9:30-17:00,1471
+TC-1374,Hotel Paramount,Food,0,5,Nil,9:30-17:00,1004
+TC-1375,Welcome Hotel,Food,0,5,Nil,9:30-17:00,1098
+TC-1376,Arab Street,Food,8,4,Nil,9:30-17:00,1129
+TC-1377,Abid's,Food,13,4,Nil,9:30-17:00,1566
+TC-1378,Wire Room Bar & Kitchen,Food,18,4,Nil,9:30-17:00,1465
+TC-1379,Sukkubhai Biriyani,Food,4,4,Nil,9:30-17:00,1596
+TC-1380,SS Hyderabad Biryani,Food,7,5,Nil,9:30-17:00,1792
+TC-1381,KFC,Food,13,4,Nil,9:30-17:00,781
+TC-1382,Tasty Kitchen,Food,10,4,Nil,9:30-17:00,1740
+TC-1383,Dine N Fun,Food,0,4,Nil,9:30-17:00,986
+TC-1384,Bai Veetu Kalyanam,Food,15,4,Nil,9:30-17:00,715
+TC-1385,Cafe Arabica,Food,15,5,Nil,9:30-17:00,700
+TC-1386,Savoury Sea Shell,Food,3,5,Nil,9:30-17:00,1758
+TC-1387,Sangeetha Veg Restaurant,Food,17,5,Nil,9:30-17:00,1570
+TC-1388,McDonald's,Food,20,5,Nil,9:30-17:00,1713
+TC-1389,Kovai Alankar Vilas,Food,13,5,Nil,9:30-17:00,1485
+TC-1390,Hotel Al Buhari,Food,6,4,Nil,9:30-17:00,1759
+TC-1391,Dindigul Thalappakatti,Food,11,4,Nil,9:30-17:00,1024
+TC-1392,Hotel Paramount,Food,19,5,Nil,9:30-17:00,520
+TC-1393,Welcome Hotel,Food,17,4,Nil,9:30-17:00,713
+TC-1394,Arab Street,Food,18,5,Nil,9:30-17:00,1223
+TC-1395,Abid's,Food,20,5,Nil,9:30-17:00,1717
+TC-1396,Wire Room Bar & Kitchen,Food,2,4,Nil,9:30-17:00,569
+TC-1397,Sukkubhai Biriyani,Food,17,4,Nil,9:30-17:00,662
+TC-1398,SS Hyderabad Biryani,Food,13,5,Nil,9:30-17:00,1426
+TC-1399,KFC,Food,10,5,Nil,9:30-17:00,688
+TC-1400,Tasty Kitchen,Food,5,5,Nil,9:30-17:00,1052
+TC-1401,Dine N Fun,Food,15,4,Nil,9:30-17:00,508
+TC-1402,Bai Veetu Kalyanam,Food,14,5,Nil,9:30-17:00,790
+TC-1403,Cafe Arabica,Food,1,4,Nil,9:30-17:00,1155
+TC-1404,Savoury Sea Shell,Food,12,5,Nil,9:30-17:00,839
+TC-1405,Sangeetha Veg Restaurant,Food,19,4,Nil,9:30-17:00,1174
+TC-1406,McDonald's,Food,19,4,Nil,9:30-17:00,1759
+TC-1407,Kovai Alankar Vilas,Food,13,4,Nil,9:30-17:00,1046
+TC-1408,Hotel Al Buhari,Food,14,5,Nil,9:30-17:00,543
+TC-1409,Dindigul Thalappakatti,Food,18,5,Nil,9:30-17:00,654
+TC-1410,Hotel Paramount,Food,8,5,Nil,9:30-17:00,1707
+TC-1411,Welcome Hotel,Food,10,4,Nil,9:30-17:00,1720
+TC-1412,Arab Street,Food,18,4,Nil,9:30-17:00,563
+TC-1413,Abid's,Food,12,5,Nil,9:30-17:00,1584
+TC-1414,Wire Room Bar & Kitchen,Food,1,4,Nil,9:30-17:00,1381
+TC-1415,Sukkubhai Biriyani,Food,9,4,Nil,9:30-17:00,781
+TC-1416,SS Hyderabad Biryani,Food,5,5,Nil,9:30-17:00,625
+TC-1417,KFC,Food,4,5,Nil,9:30-17:00,1510
+TC-1418,Tasty Kitchen,Food,14,5,Nil,9:30-17:00,1747
+TC-1419,Dine N Fun,Food,1,4,Nil,9:30-17:00,1487
+TC-1420,Bai Veetu Kalyanam,Food,16,5,Nil,9:30-17:00,1148
+TC-1421,Cafe Arabica,Food,7,4,Nil,9:30-17:00,1262
+TC-1422,Savoury Sea Shell,Food,8,5,Nil,9:30-17:00,853
+TC-1423,Sangeetha Veg Restaurant,Food,12,5,Nil,9:30-17:00,1722
+TC-1424,McDonald's,Food,6,5,Nil,9:30-17:00,962
+TC-1425,Kovai Alankar Vilas,Food,1,5,Nil,9:30-17:00,1213
+TC-1426,Hotel Al Buhari,Food,15,4,Nil,9:30-17:00,620
+TC-1427,Dindigul Thalappakatti,Food,16,4,Nil,9:30-17:00,868
+TC-1428,Hotel Paramount,Food,16,5,Nil,9:30-17:00,753
+TC-1429,Welcome Hotel,Food,0,4,Nil,9:30-17:00,1605
+TC-1430,Arab Street,Food,8,5,Nil,9:30-17:00,738
+TC-1431,Abid's,Food,3,5,Nil,9:30-17:00,621
+TC-1432,Wire Room Bar & Kitchen,Food,15,5,Nil,9:30-17:00,1356
+TC-1433,Sukkubhai Biriyani,Food,15,4,Nil,9:30-17:00,1300
+TC-1434,SS Hyderabad Biryani,Food,15,5,Nil,9:30-17:00,1108
+TC-1435,KFC,Food,5,5,Nil,9:30-17:00,770
+TC-1436,Tasty Kitchen,Food,10,4,Nil,9:30-17:00,1075
+TC-1437,Dine N Fun,Food,5,5,Nil,9:30-17:00,1619

@@ -1,0 +1,1354 @@
+﻿Place_id,Title,Category,Distance,Rating,Closed,Timing,Price
+TB-1,Bangalore Palace,Heritage,0,4.2,Monday,10:00-17:30,863
+TB-2,Lalbagh,Nature,7.3,4.4,Nil,8:00-18:00,781
+TB-3,Nandi Hills,"Nature,Adventure",60,4,Nil,10:00-18:30,1718
+TB-4,Tipu Sultan's Summer Palace,Heritage,3,3.9,Nil,10:00-17:30,606
+TB-5,Cubbon Park,Nature,3.4,4.4,Thursday,6:00-18:00,665
+TB-6,National Gallery Of Modern Art,Museum,2.9,4.4,Monday,11:00-18:00,1596
+TB-7,Ulsoor Lake,Lake,4,4.1,Wednesday,6:00-20:00,1460
+TB-8,Government Museum,"Museum,Heritage",6.2,4.2,Monday,10:00-17:00,1530
+TB-9,Vidhana Soudha,Heritage,2.8,4.6,"Saturday,Sunday",9:00-17:00,907
+TB-10,Krishna Raja Market,Shopping,6.9,4,Nil,7:00-18:00,509
+TB-11,Devanahalli Fort,Heritage,34,3.9,Nil,00:00-11:59,941
+TB-12,Janapada Loka,Museum,54.8,4,Nil,9:00-17:30,1788
+TB-13,Sankey Tank,"Lake,Adventure",2.8,4.5,Friday,6:00-20:00,794
+TB-14,Venkatappa Art Gallery,Museum,5.2,4.2,Monday,10:00-17:00,578
+TB-15,Attara Kacheri,Museum,4.1,4.4,Sunday,10:00-17:00,1715
+TB-16,Wonderla Amusement Park,Adventure,6.1,4.5,Nil,11:00-18:00,1714
+TB-17,Commercial Street,Shopping,5.5,4.8,Nil,11:00-22:00,996
+TB-18,Iskon Temple,Religious,8.3,4.6,Nil,4:15–5:15,1100
+TB-19,Innovative Film City,Adventure,39.2,3.5,Nil,10:00-19:00,988
+TB-20,Jawaharlal Nehru Planeterium,"Museum,Educational",3.4,4.4,Monday,10:00-17:30,1800
+TB-21,HAL Aerospace Museum,"Museum,Educational",14.3,4.4,Nil,9:00-16:30,1037
+TB-22,Bannerghatta National Park,"Nature, Adventure,Museum",26.6,4.2,Tuesday,9:30–21:00,1251
+TB-23,UB City Mall,Shopping,5.2,4.5,Nil,11:00-21:00,1657
+TB-24,Play Arena,Adventure,18.7,4.3,Nil,10:00-22:00,1762
+TB-25,Lumbini Garden,Nature,20,3.5,Nil,11:00-19:00,1449
+TB-26,Visvesvaraya Industrial and Technological Museum,"Educational,Museum",4,4.5,Nil,9:30-18:00,1568
+TB-27,Phoenix Marketcity Bangalore [187][188],Shopping,9,4.4,Nil,11:00-21:00,1327
+TB-28,Inorbit Mall Bangalore [189],Shopping,12,4.2,Nil,11:00-21:00,1190
+TB-29,Lido Mall,Shopping,11,4.5,Nil,11:00-21:00,1206
+TB-30,Leela Galleria[190],Shopping,5,4.3,Nil,11:00-21:00,679
+TB-31,The Forum Value Mall,Shopping,27,3.5,Nil,11:00-21:00,1271
+TB-32,Garuda Mall,Shopping,18,4.5,Nil,11:00-21:00,654
+TB-33,Bangalore Central,Shopping,16,4.4,Nil,11:00-21:00,1133
+TB-34,Gopalan Mall,Shopping,12,4.2,Nil,11:00-21:00,883
+TB-35,Total Mall,Shopping,8,4.5,Nil,11:00-21:00,1598
+TB-36,Garuda Swagath Mall,Shopping,15,4.28,Nil,11:00-21:00,754
+TB-37,Cosmos Mall,Shopping,21,4.2825,Nil,11:00-21:00,1001
+TB-38,The Collection[192],Shopping,30,4.285,Nil,11:00-21:00,1223
+TB-39,Mantri Square,Shopping,12,4.2875,Nil,11:00-21:00,650
+TB-40,Sigma Mall,Shopping,26,4.29,Nil,11:00-21:00,1346
+TB-41,Royal Meenakshi Mall,Shopping,16,4.2925,Nil,11:00-21:00,1432
+TB-42,Jalsa,Food,17,3,Nil,9:30–17:00,568
+TB-43,Spice Elephant,Food,23,2,Nil,9:30–17:01,1150
+TB-44,San Churro Cafe,Food,20,2,Nil,9:30–17:02,574
+TB-45,Addhuri Udupi Bhojana,Food,1,2,Nil,9:30–17:03,1146
+TB-46,Grand Village,Food,26,3,Nil,9:30–17:04,1100
+TB-47,Timepass Dinner,Food,19,3,Nil,9:30–17:05,1629
+TB-48,Rosewood International Hotel - Bar & Restaurant,Food,25,5,Nil,9:30–17:06,1018
+TB-49,Onesta,Food,20,2,Nil,9:30–17:07,613
+TB-50,Penthouse Cafe,Food,26,2,Nil,9:30–17:08,552
+TB-51,,Food,8,1,Nil,9:30–17:09,1236
+TB-52,Smacznego,Food,27,3,Nil,9:30–17:10,630
+TB-53,CafÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚Â‚ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â© Down The Alley,Food,28,3,Nil,9:30–17:11,569
+TB-54,Cafe Shuffle,Food,0,4,Nil,9:30–17:12,578
+TB-55,The Coffee Shack,Food,28,4,Nil,9:30–17:13,967
+TB-56,Caf-Eleven,Food,21,5,Nil,9:30–17:14,937
+TB-57,San Churro Cafe,Food,12,5,Nil,9:30–17:15,1015
+TB-58,Cafe Vivacity,Food,23,2,Nil,9:30–17:16,1011
+TB-59,Catch-up-ino,Food,15,2,Nil,9:30–17:17,1707
+TB-60,Kirthi's Biryani,Food,22,4,Nil,9:30–17:18,1584
+TB-61,T3H Cafe,Food,2,5,Nil,9:30–17:19,615
+TB-62,360 Atoms Restaurant And Cafe,Food,14,1,Nil,9:30–17:20,652
+TB-63,The Vintage Cafe,Food,29,4,Nil,9:30–17:21,1064
+TB-64,Woodee Pizza,Food,25,2,Nil,9:30–17:22,625
+TB-65,Cafe Coffee Day,Food,20,4,Nil,9:30–17:23,1061
+TB-66,My Tea House,Food,27,1,Nil,9:30–17:24,1108
+TB-67,Hide Out Cafe,Food,1,4,Nil,9:30–17:25,1221
+TB-68,CAFE NOVA,Food,0,4,Nil,9:30–17:26,776
+TB-69,Coffee Tindi,Food,25,5,Nil,9:30–17:27,1284
+TB-70,Sea Green Cafe,Food,8,1,Nil,9:30–17:28,575
+TB-71,Cuppa,Food,19,3,Nil,9:30–17:29,1279
+TB-72,Srinathji's Cafe,Food,17,5,Nil,9:30–17:30,1740
+TB-73,Redberrys,Food,17,5,Nil,9:30–17:31,1379
+TB-74,Foodiction,Food,29,5,Nil,9:30–17:32,1684
+TB-75,,Food,22,2,Nil,9:30–17:33,530
+TB-76,Sweet Truth,Food,3,3,Nil,9:30–17:34,1569
+TB-77,Ovenstory Pizza,Food,1,2,Nil,9:30–17:35,1394
+TB-78,Faasos,Food,29,1,Nil,9:30–17:36,725
+TB-79,,Food,12,5,Nil,9:30–17:37,1637
+TB-80, Will Recommend To Everyone.\n\nCheers!!'),Food,19,4,Nil,9:30–17:38,766
+TB-81,Behrouz Biryani,Food,12,5,Nil,9:30–17:39,1258
+TB-82,Fast And Fresh,Food,6,1,Nil,9:30–17:40,1623
+TB-83,Szechuan Dragon,Food,27,4,Nil,9:30–17:41,1385
+TB-84,Empire Restaurant,Food,18,1,Nil,9:30–17:42,1160
+TB-85,,Food,1,4,Nil,9:30–17:43,1206
+TB-86,Maruthi Davangere Benne Dosa,Food,5,4,Nil,9:30–17:44,1796
+TB-87,Chaatimes,Food,5,1,Nil,9:30–17:45,745
+TB-88,Havyaka Mess,Food,20,5,Nil,9:30–17:46,530
+TB-89,McDonald's,Food,16,1,Nil,9:30–17:47,929
+TB-90,Domino's Pizza,Food,27,4,Nil,9:30–17:48,1461
+TB-91,Onesta,Food,1,4,Nil,9:30–17:49,665
+TB-92,,Food,21,1,Nil,9:30–17:50,1177
+TB-93,Hotboxit,Food,15,3,Nil,9:30–17:51,770
+TB-94,Kitchen Garden,Food,18,1,Nil,9:30–17:52,636
+TB-95,Recipe,Food,10,4,Nil,9:30–17:53,1148
+TB-96,Beijing Bites,Food,8,2,Nil,9:30–17:54,1486
+TB-97,Tasty Bytes,Food,12,2,Nil,9:30–17:55,719
+TB-98,Petoo,Food,11,1,Nil,9:30–17:56,579
+TB-99,Shree Cool Point,Food,5,1,Nil,9:30–17:57,1507
+TB-100,Corner House Ice Cream,Food,15,5,Nil,9:30–17:58,639
+TB-101,Biryanis And More,Food,10,2,Nil,9:30–17:59,1705
+TB-102,Roving Feast,Food,11,1,Nil,9:30–17:60,656
+TB-103,FreshMenu,Food,25,4,Nil,9:30–17:61,1653
+TB-104,Banashankari Donne Biriyani,Food,2,1,Nil,9:30–17:62,1286
+TB-105,Wamama,Food,22,2,Nil,9:30–17:63,1488
+TB-106,,Food,19,3,Nil,9:30–17:64,1668
+TB-107, ('Rated 4.0',Food,16,2,Nil,9:30–17:65,754
+TB-108,Five Star Chicken,Food,12,4,Nil,9:30–17:66,1357
+TB-109,XO Belgian Waffle,Food,26,2,Nil,9:30–17:67,1303
+TB-110,Peppy Peppers,Food,7,4,Nil,9:30–17:68,631
+TB-111,,Food,28,4,Nil,9:30–17:69,908
+TB-112, this was amazing,Food,30,4,Nil,9:30–17:70,906
+TB-113,Goa 0 Km,Food,11,1,Nil,9:30–17:71,767
+TB-114,Chinese Kitchen,Food,10,1,Nil,9:30–17:72,1110
+TB-115,1947,Food,19,2,Nil,9:30–17:73,1137
+TB-116,Cake of the Day,Food,5,2,Nil,9:30–17:74,797
+TB-117,Kabab Magic,Food,28,2,Nil,9:30–17:75,1675
+TB-118,Namma Brahmin's Idli,Food,23,3,Nil,9:30–17:76,1175
+TB-119,Gustoes Beer House,Food,18,3,Nil,9:30–17:77,825
+TB-120,Sugar Rush,Food,28,5,Nil,9:30–17:78,1206
+TB-121,Burger King,Food,24,4,Nil,9:30–17:79,506
+TB-122,The Good Bowl,Food,21,2,Nil,9:30–17:80,1713
+TB-123,The Biryani Cafe,Food,25,1,Nil,9:30–17:81,913
+TB-124,Spicy Tandoor,Food,19,2,Nil,9:30–17:82,1764
+TB-125,LSD Cafe,Food,23,3,Nil,9:30–17:83,1434
+TB-126,,Food,29,1,Nil,9:30–17:84,935
+TB-127, 'RATED\n  Best Delivery Restaurants that serve late at night. Ordered #ChickenChanghezi and the quantity was sufficient for two person. It was delivered before time and it was absolute yummy. Will order again soon.. Pretty Soon'),Food,26,3,Nil,9:30–17:85,1429
+TB-128,Rolls On Wheels,Food,16,2,Nil,9:30–17:86,1470
+TB-129,Om Sri Vinayaka Chats,Food,5,2,Nil,9:30–17:87,1652
+TB-130,Sri Guru Kottureshwara Davangere Benne Dosa,Food,16,4,Nil,9:30–17:88,1581
+TB-131,Devanna Dum Biriyani Centre,Food,12,5,Nil,9:30–17:89,1173
+TB-132,Kolbeh,Food,28,3,Nil,9:30–17:90,1039
+TB-133,Upahar Sagar,Food,13,2,Nil,9:30–17:91,953
+TB-134,Kadalu Sea Food Restaurant,Food,2,5,Nil,9:30–17:92,785
+TB-135,Frozen Bottle,Food,2,4,Nil,9:30–17:93,524
+TB-136,Parimala Sweets,Food,3,3,Nil,9:30–17:94,1685
+TB-137,Vaishali Deluxe,Food,6,1,Nil,9:30–17:95,1215
+TB-138,Chill Out,Food,13,2,Nil,9:30–17:96,869
+TB-139,The Big O Bakes,Food,3,4,Nil,9:30–17:97,1156
+TB-140,Meghana Foods,Food,30,3,Nil,9:30–17:98,1780
+TB-141,Krishna Sagar,Food,4,3,Nil,9:30–17:99,1515
+TB-142,Dessert Rose,Food,9,4,Nil,9:30–17:100,1101
+TB-143,Chickpet Donne Biryani House,Food,11,2,Nil,9:30–17:101,1167
+TB-144,Me And My Cake,Food,19,1,Nil,9:30–17:102,1561
+TB-145,Sunsadm,Food,22,5,Nil,9:30–17:103,958
+TB-146,Annapooraneshwari Mess,Food,30,3,Nil,9:30–17:104,1206
+TB-147,Thanco's Natural Ice Creams,Food,19,2,Nil,9:30–17:105,543
+TB-148,Nandhini Deluxe,Food,10,1,Nil,9:30–17:106,1514
+TB-149,Vi Ra's Bar and Restaurant,Food,10,4,Nil,9:30–17:107,1610
+TB-150,Kaggis,Food,24,3,Nil,9:30–17:108,1219
+TB-151,Ayda Persian Kitchen,Food,29,1,Nil,9:30–17:109,514
+TB-152,Chatar Patar,Food,11,2,Nil,9:30–17:110,834
+TB-153,Polar Bear,Food,9,3,Nil,9:30–17:111,745
+TB-154,Kidambi's Kitchen,Food,12,1,Nil,9:30–17:112,788
+TB-155,Mane Thindi,Food,26,5,Nil,9:30–17:113,1688
+TB-156,Kotian Karavali Restaurant,Food,29,5,Nil,9:30–17:114,935
+TB-157,Floured-Baked With Love,Food,10,1,Nil,9:30–17:115,842
+TB-158,CAFE NOVA,Food,19,3,Nil,9:30–17:116,1052
+TB-159,Cakes & Slices,Food,8,5,Nil,9:30–17:117,852
+TB-160,Spice 9,Food,24,2,Nil,9:30–17:118,1231
+TB-161,Coffee Shopee,Food,12,4,Nil,9:30–17:119,1419
+TB-162,Naveen Kabab & Biriyani Mane,Food,23,4,Nil,9:30–17:120,1729
+TB-163,Katriguppe Donne Biryani,Food,7,3,Nil,9:30–17:121,830
+TB-164,Hari Super Sandwich,Food,8,1,Nil,9:30–17:122,1655
+TB-165,Atithi Point Ande Ka Funda,Food,6,1,Nil,9:30–17:123,1551
+TB-166,Just Bake,Food,15,5,Nil,9:30–17:124,1477
+TB-167,Dharwad Line Bazaar Mishra Pedha,Food,10,3,Nil,9:30–17:125,1703
+TB-168,Cake Bite,Food,17,5,Nil,9:30–17:126,523
+TB-169,Aarush's Food Plaza,Food,12,4,Nil,9:30–17:127,853
+TB-170,Wood Stove,Food,29,3,Nil,9:30–17:128,586
+TB-171,Kulfi & More,Food,27,1,Nil,9:30–17:129,1501
+TB-172,Kannadigas Karavali,Food,21,5,Nil,9:30–17:130,908
+TB-173,K27 - The Pub,Food,5,1,Nil,9:30–17:131,1755
+TB-174,Bengaluru Coffee House,Food,1,4,Nil,9:30–17:132,1529
+TB-175,New Mangalore Lunch Home,Food,9,4,Nil,9:30–17:133,1683
+TB-176,Coffee Bytes,Food,5,2,Nil,9:30–17:134,1287
+TB-177,Parjanya Chat Zone,Food,28,3,Nil,9:30–17:135,1704
+TB-178,Kwality Wall's Swirl's Happiness Station,Food,16,4,Nil,9:30–17:136,1136
+TB-179,Soms Kitchen & Bakes,Food,17,1,Nil,9:30–17:137,1800
+TB-180,Banashankari Nati Style,Food,1,5,Nil,9:30–17:138,1471
+TB-181,Ruchi Maayaka,Food,5,3,Nil,9:30–17:139,1609
+TB-182,Mohitesh Hut Roll,Food,10,3,Nil,9:30–17:140,846
+TB-183,Sri Basaveshwar Jolada Rotti Oota,Food,17,2,Nil,9:30–17:141,1037
+TB-184,Roll Magic Fast Food,Food,13,1,Nil,9:30–17:142,514
+TB-185,Foodlieious Multi Cuisine,Food,14,2,Nil,9:30–17:143,1122
+TB-186,Thanishka Nati And Karavali Style,Food,15,2,Nil,9:30–17:144,1415
+TB-187,Swathi Cool Point,Food,11,2,Nil,9:30–17:145,1448
+TB-188,Kaumudis Juoice,Food,1,1,Nil,9:30–17:146,1543
+TB-189,Amma - Manae,Food,22,4,Nil,9:30–17:147,1594
+TB-190,Sri Sai Tiffannies,Food,18,2,Nil,9:30–17:148,1396
+TB-191,Hotel Andhra Speices,Food,29,2,Nil,9:30–17:149,722
+TB-192,Sri Murari Family Restaurant,Food,1,1,Nil,9:30–17:150,640
+TB-193,Aramane Donne Biriyani,Food,20,2,Nil,9:30–17:151,1270
+TB-194,Darkolates,Food,20,2,Nil,9:30–17:152,1319
+TB-195,Swaada Healthy Kitchen,Food,14,4,Nil,9:30–17:153,1595
+TB-196,Gawdaru Mane Beriyani,Food,26,3,Nil,9:30–17:154,1194
+TB-197,Melting Melodies,Food,23,5,Nil,9:30–17:155,1292
+TB-198,New Indraprasta,Food,19,4,Nil,9:30–17:156,1060
+TB-199,Anna Kuteera,Food,15,2,Nil,9:30–17:157,1769
+TB-200,Darbar,Food,30,2,Nil,9:30–17:158,1441
+TB-201,Vijayalakshmi,Food,3,5,Nil,9:30–17:159,731
+TB-202,Sri Udupi Food Hub,Food,5,3,Nil,9:30–17:160,868
+TB-203,Udupi Upahar,Food,0,3,Nil,9:30–17:161,908
+TB-204,House Of Kebabs,Food,22,1,Nil,9:30–17:162,1029
+TB-205,Roll N Rock,Food,19,2,Nil,9:30–17:163,1564
+TB-206,BOX8- Desi Meals,Food,14,1,Nil,9:30–17:164,1285
+TB-207,KFC,Food,26,2,Nil,9:30–17:165,1454
+TB-208,Bitez,Food,21,4,Nil,9:30–17:166,529
+TB-209,Roll Over,Food,3,3,Nil,9:30–17:167,1337
+TB-210,Imperial Restaurant,Food,12,3,Nil,9:30–17:168,1212
+TB-211,Lassi Shop,Food,0,4,Nil,9:30–17:169,620
+TB-212,The Fortuna,Food,18,5,Nil,9:30–17:170,891
+TB-213,Wahab,Food,19,4,Nil,9:30–17:171,1083
+TB-214,Al Diwan Biryanis And More,Food,23,3,Nil,9:30–17:172,1103
+TB-215,New Gowda's Fried Chicken,Food,0,4,Nil,9:30–17:173,1733
+TB-216,Canton,Food,9,4,Nil,9:30–17:174,1435
+TB-217,Diabetics Dezire Sugarless Sweets and Bakes,Food,24,3,Nil,9:30–17:175,1274
+TB-218,The Blue Wagon - Kitchen,Food,8,4,Nil,9:30–17:176,1498
+TB-219,HOT COFFEE,Food,0,1,Nil,9:30–17:177,1355
+TB-220,Patio 805,Food,20,4,Nil,9:30–17:178,1600
+TB-221,Lassi Corner,Food,0,4,Nil,9:30–17:179,984
+TB-222,Sagar Deluxe,Food,18,5,Nil,9:30–17:180,943
+TB-223,Kanti Sweets,Food,13,2,Nil,9:30–17:181,1281
+TB-224,Vegetalia,Food,2,5,Nil,9:30–17:182,844
+TB-225,Aramane Donne Biryani,Food,30,5,Nil,9:30–17:183,1610
+TB-226,Ande Ka Funda,Food,26,2,Nil,9:30–17:184,963
+TB-227,Cake Ghar,Food,16,2,Nil,9:30–17:185,1692
+TB-228,Energy Addaa,Food,12,4,Nil,9:30–17:186,1182
+TB-229,Bhattara Bhojana,Food,19,4,Nil,9:30–17:187,1270
+TB-230,Tandoori Knight,Food,28,5,Nil,9:30–17:188,600
+TB-231,Dev Sagar - Food Street,Food,21,3,Nil,9:30–17:189,1198
+TB-232,Mitraa Da Pizza,Food,18,5,Nil,9:30–17:190,1612
+TB-233,Paradise Premium,Food,27,5,Nil,9:30–17:191,1663
+TB-234,Grazers,Food,4,2,Nil,9:30–17:192,1081
+TB-235,Shakes Theory,Food,20,1,Nil,9:30–17:193,576
+TB-236,@Italy,Food,17,3,Nil,9:30–17:194,1516
+TB-237,Chilli Flakes,Food,23,3,Nil,9:30–17:195,639
+TB-238,Calcutta Cafe,Food,0,1,Nil,9:30–17:196,1482
+TB-239,Old Mumbai Ice Cream,Food,18,4,Nil,9:30–17:197,1606
+TB-240,Donne Biriyani House,Food,6,4,Nil,9:30–17:198,1331
+TB-241,By 2 Coffee,Food,24,4,Nil,9:30–17:199,1034
+TB-242,Kedia's Fun Food,Food,5,1,Nil,9:30–17:200,1006
+TB-243,Davangere Butter Dosa Hotel,Food,17,2,Nil,9:30–17:201,1241
+TB-244,Just Shawarma,Food,30,1,Nil,9:30–17:202,1513
+TB-245,Mini Punjabi Dhaba,Food,29,5,Nil,9:30–17:203,1688
+TB-246,Mulabagilu Dosa,Food,10,1,Nil,9:30–17:204,1598
+TB-247,CafÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚Â‚ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â© Down The Alley,Food,9,5,Nil,9:30–17:205,1151
+TB-248,Gokul Veg,Food,22,3,Nil,9:30–17:206,708
+TB-249,Olive - Era,Food,0,5,Nil,9:30–17:207,680
+TB-250,Udupi Ruchi,Food,1,3,Nil,9:30–17:208,1014
+TB-251,Madhappa Hindu Military Hotel,Food,22,1,Nil,9:30–17:209,806
+TB-252,Gama Gama,Food,9,5,Nil,9:30–17:210,1497
+TB-253,The Vintage Cafe,Food,23,5,Nil,9:30–17:211,708
+TB-254,Pizza Hut,Food,6,1,Nil,9:30–17:212,1444
+TB-255,Mangalore Pearl,Food,0,2,Nil,9:30–17:213,1003
+TB-256,Asha Sweets Centre,Food,0,5,Nil,9:30–17:214,1102
+TB-257,Twiststick House,Food,3,5,Nil,9:30–17:215,616
+TB-258,Cool Corner,Food,19,2,Nil,9:30–17:216,880
+TB-259,Pizza Mane,Food,14,5,Nil,9:30–17:217,881
+TB-260,Dal Tadkaa,Food,14,2,Nil,9:30–17:218,924
+TB-261,,Food,11,2,Nil,9:30–17:219,734
+TB-262," """"RATED\n  The buffet is inr 330 pp all incl. But the quality is very mediocre",Food,9,3,Nil,9:30–17:220,1447
+TB-263,Chutney Chang,Food,10,3,Nil,9:30–17:221,1482
+TB-264,Mystique Palate,Food,8,3,Nil,9:30–17:222,646
+TB-265,Thamboola,Food,18,5,Nil,9:30–17:223,1752
+TB-266,Castle Rock,Food,27,1,Nil,9:30–17:224,1314
+TB-267,Vietnamese Kitchen,Food,5,2,Nil,9:30–17:225,875
+TB-268,Smacznego,Food,18,2,Nil,9:30–17:226,1173
+TB-269,C Corner,Food,6,5,Nil,9:30–17:227,1475
+TB-270,Paratha Merchant,Food,12,3,Nil,9:30–17:228,1595
+TB-271,North Rasoe,Food,25,1,Nil,9:30–17:229,1416
+TB-272,Inchara Restaurant,Food,7,2,Nil,9:30–17:230,1099
+TB-273,Toscano,Food,18,1,Nil,9:30–17:231,911
+TB-274,Lord Of The Kitchen,Food,16,5,Nil,9:30–17:232,778
+TB-275,Stoned Monkey,Food,13,2,Nil,9:30–17:233,919
+TB-276,Central Jail Restaurant,Food,28,5,Nil,9:30–17:234,1415
+TB-277,Bella,Food,28,3,Nil,9:30–17:235,611
+TB-278,Vennela Andhra Meals,Food,29,2,Nil,9:30–17:236,686
+TB-279,New Prashanth Hotel,Food,9,2,Nil,9:30–17:237,693
+TB-280,The Grillo,Food,12,2,Nil,9:30–17:238,1651
+TB-281,Re Malnad Nati Style Hotel,Food,18,5,Nil,9:30–17:239,1185
+TB-282,Karma Kaapi,Food,23,5,Nil,9:30–17:240,958
+TB-283,Tiwari's,Food,19,3,Nil,9:30–17:241,1661
+TB-284,Pizza Stop,Food,13,5,Nil,9:30–17:242,1693
+TB-285,Biggies Burger 'n' More,Food,11,2,Nil,9:30–17:243,1738
+TB-286,Srinathji's Cafe,Food,23,2,Nil,9:30–17:244,749
+TB-287,Kollapuri's,Food,0,5,Nil,9:30–17:245,512
+TB-288,Sugar Stars Co,Food,5,4,Nil,9:30–17:246,1544
+TB-289,Bombay Kulfis,Food,7,2,Nil,9:30–17:247,1526
+TB-290,Kadamba Classic,Food,17,4,Nil,9:30–17:248,1295
+TB-291,RS Shiv Sagar,Food,11,5,Nil,9:30–17:249,1112
+TB-292,Kholi Mane,Food,7,4,Nil,9:30–17:250,1252
+TB-293,Harshi Super Sandwich,Food,19,5,Nil,9:30–17:251,518
+TB-294,Cake Yard,Food,2,1,Nil,9:30–17:252,608
+TB-295,Rosewood International Hotel - Bar & Restaurant,Food,24,4,Nil,9:30–17:253,1613
+TB-296,Sri Udupi Veg,Food,8,3,Nil,9:30–17:254,633
+TB-297,Cake Art,Food,22,4,Nil,9:30–17:255,1159
+TB-298,Aahar Cafe,Food,4,4,Nil,9:30–17:256,1740
+TB-299,Akash Gowdru Biryani Center,Food,7,3,Nil,9:30–17:257,804
+TB-300,New Sri Udupi Restaurant,Food,9,1,Nil,9:30–17:258,1051
+TB-301,Potato House,Food,1,1,Nil,9:30–17:259,1014
+TB-302,Hotel Biriyani Counter,Food,17,2,Nil,9:30–17:260,1544
+TB-303,Matru Sagar,Food,26,5,Nil,9:30–17:261,559
+TB-304,Ugadi,Food,17,4,Nil,9:30–17:262,1472
+TB-305,,Food,30,4,Nil,9:30–17:263,1463
+TB-306," """"RATED\n  The food here is just about an average",Food,4,4,Nil,9:30–17:264,1077
+TB-307,Sri Krishna Sweets,Food,22,5,Nil,9:30–17:265,1307
+TB-308,In Time Cane Juice,Food,8,5,Nil,9:30–17:266,942
+TB-309,Subway,Food,0,1,Nil,9:30–17:267,803
+TB-310,Daal Roti,Food,20,3,Nil,9:30–17:268,1639
+TB-311,The Lassi Park,Food,14,4,Nil,9:30–17:269,1504
+TB-312,Cafe Coffee Day,Food,0,2,Nil,9:30–17:270,1404
+TB-313,A2B - Adyar Ananda Bhavan,Food,21,2,Nil,9:30–17:271,1386
+TB-314,Srikrishna Bhavan,Food,2,3,Nil,9:30–17:272,1403
+TB-315,Timepass Dinner,Food,19,4,Nil,9:30–17:273,900
+TB-316,Green Gardenia,Food,25,2,Nil,9:30–17:274,663
+TB-317,J Spice,Food,16,5,Nil,9:30–17:275,1375
+TB-318,Karavali Family Restaurant,Food,19,5,Nil,9:30–17:276,1014
+TB-319,Karavali Lunch Home,Food,10,4,Nil,9:30–17:277,845
+TB-320,Hatti Kaapi,Food,2,3,Nil,9:30–17:278,857
+TB-321,Kolkata Kathi Roll's,Food,21,1,Nil,9:30–17:279,1458
+TB-322,Upahara Darshini,Food,13,2,Nil,9:30–17:280,610
+TB-323,The Chaat Shop,Food,7,3,Nil,9:30–17:281,1024
+TB-324,Anda Ka Funda,Food,5,3,Nil,9:30–17:282,709
+TB-325,Shri Vinayaka Ice N Juice,Food,12,4,Nil,9:30–17:283,651
+TB-326,My Tea House,Food,7,2,Nil,9:30–17:284,718
+TB-327,Ibaco,Food,5,1,Nil,9:30–17:285,1721
+TB-328,Jalaram Sweets,Food,24,3,Nil,9:30–17:286,1772
+TB-329,Samskruti - Sanman Gardenia,Food,15,2,Nil,9:30–17:287,1409
+TB-330,Bendakaluru Bytes,Food,22,4,Nil,9:30–17:288,1554
+TB-331,Cocoa Bakes,Food,24,3,Nil,9:30–17:289,1100
+TB-332,Chumma Delicious,Food,23,4,Nil,9:30–17:290,1676
+TB-333,New Prashanth Hotel,Food,25,2,Nil,9:30–17:291,1619
+TB-334,SSV Upahar,Food,19,1,Nil,9:30–17:292,750
+TB-335,Dwaraka Grand,Food,4,3,Nil,9:30–17:293,1213
+TB-336,Gufha - The President Hotel,Food,19,1,Nil,9:30–17:294,749
+TB-337,Cafe Vivacity,Food,19,5,Nil,9:30–17:295,1768
+TB-338,Tanna's Kitchen,Food,22,3,Nil,9:30–17:296,709
+TB-339,Shree Mandarathi Grand,Food,26,1,Nil,9:30–17:297,1462
+TB-340,Mojo Pizza - 2X Toppings,Food,23,5,Nil,9:30–17:298,906
+TB-341,Iceberg Icecreams,Food,1,4,Nil,9:30–17:299,1379
+TB-342,South Kitchen,Food,4,5,Nil,9:30–17:300,885
+TB-343,Chung Wah,Food,23,2,Nil,9:30–17:301,725
+TB-344,Shanthi Sagar,Food,28,1,Nil,9:30–17:302,1608
+TB-345,Millet Mama,Food,1,2,Nil,9:30–17:303,633
+TB-346,Bangarpet Chat Express,Food,19,4,Nil,9:30–17:304,1674
+TB-347,South Cool Point,Food,7,2,Nil,9:30–17:305,1726
+TB-348,Prems Graama Bhojanam,Food,28,5,Nil,9:30–17:306,593
+TB-349,Java City,Food,30,5,Nil,9:30–17:307,1095
+TB-350,Kamat Bugle Rock,Food,22,2,Nil,9:30–17:308,1774
+TB-351,Woodee Pizza,Food,1,3,Nil,9:30–17:309,1616
+TB-352,Puliyogare Point,Food,27,5,Nil,9:30–17:310,1416
+TB-353,Bangalore Agarwal Bhavan,Food,9,1,Nil,9:30–17:311,839
+TB-354,Rustic Stove,Food,17,1,Nil,9:30–17:312,846
+TB-355,Udupi Ruchi Grand,Food,30,1,Nil,9:30–17:313,1191
+TB-356,De Thaali,Food,2,2,Nil,9:30–17:314,1155
+TB-357,Spice Elephant,Food,7,1,Nil,9:30–17:315,523
+TB-358,Just Thindi,Food,23,1,Nil,9:30–17:316,1429
+TB-359,Matru Sagar,Food,7,3,Nil,9:30–17:317,1184
+TB-360,Vasanth Vihar - Since 1965,Food,28,3,Nil,9:30–17:318,913
+TB-361,Sea Spice by 7 Star,Food,29,5,Nil,9:30–17:319,714
+TB-362,Desi Dawat,Food,7,5,Nil,9:30–17:320,645
+TB-363,Cafe Aira,Food,23,3,Nil,9:30–17:321,1023
+TB-364,Donne Biriyani combos,Food,26,1,Nil,9:30–17:322,562
+TB-365,Penthouse Cafe,Food,11,5,Nil,9:30–17:323,1441
+TB-366,Mast Punjabi,Food,8,5,Nil,9:30–17:324,527
+TB-367,,Food,18,2,Nil,9:30–17:325,640
+TB-368, 'RATED\n  bad quality'),Food,0,1,Nil,9:30–17:326,749
+TB-369,South Grand,Food,11,4,Nil,9:30–17:327,1671
+TB-370,Catch-up-ino,Food,26,2,Nil,9:30–17:328,588
+TB-371,The Pizzeria,Food,9,4,Nil,9:30–17:329,558
+TB-372,Cafe Zone,Food,16,4,Nil,9:30–17:330,1569
+TB-373,Ruchis Point,Food,22,1,Nil,9:30–17:331,635
+TB-374,Firangi Bake,Food,1,3,Nil,9:30–17:332,1120
+TB-375,The Royal Corner - Pai Viceroy,Food,15,2,Nil,9:30–17:333,1342
+TB-376,Hara Fine Dine,Food,10,5,Nil,9:30–17:334,1637
+TB-377,Chocoberry,Food,4,3,Nil,9:30–17:335,1247
+TB-378,Dakshin Grand,Food,13,1,Nil,9:30–17:336,1207
+TB-379,Sandwichwallas,Food,7,3,Nil,9:30–17:337,1566
+TB-380,Chai Mane,Food,8,2,Nil,9:30–17:338,1798
+TB-381,SLV Upachar,Food,22,4,Nil,9:30–17:339,1634
+TB-382,Waffle-A-Go Go,Food,12,2,Nil,9:30–17:340,1249
+TB-383,Cross Road Cafe,Food,26,2,Nil,9:30–17:341,1558
+TB-384,Anand Donne Biriyani,Food,16,3,Nil,9:30–17:342,1769
+TB-385,Seven Star,Food,6,5,Nil,9:30–17:343,1718
+TB-386,Stop 'N' Joy,Food,11,5,Nil,9:30–17:344,531
+TB-387,Sri Yaksha Shiv Sagar,Food,16,4,Nil,9:30–17:345,1068
+TB-388,Fudge,Food,0,3,Nil,9:30–17:346,1431
+TB-389,Just Bunny,Food,24,2,Nil,9:30–17:347,1373
+TB-390,Bakers Town,Food,0,5,Nil,9:30–17:348,708
+TB-391,Shree Mahalakshmi Sweets,Food,27,5,Nil,9:30–17:349,545
+TB-392,Kaapi Kendra,Food,30,1,Nil,9:30–17:350,1179
+TB-393,Ivy,Food,28,2,Nil,9:30–17:351,1594
+TB-394,The Airos,Food,9,3,Nil,9:30–17:352,532
+TB-395,Chai Kraft,Food,28,1,Nil,9:30–17:353,751
+TB-396,Kirthi's Biryani,Food,30,4,Nil,9:30–17:354,518
+TB-397,South Point Pub,Food,12,2,Nil,9:30–17:355,1099
+TB-398,The Trundle,Food,21,2,Nil,9:30–17:356,627
+TB-399,The Krishna Grand Xpress,Food,24,4,Nil,9:30–17:357,1278
+TB-400,Sri Krishna Darshini,Food,13,1,Nil,9:30–17:358,1708
+TB-401,Shringar Sweets & Snacks,Food,22,2,Nil,9:30–17:359,1383
+TB-402,Udupi Grand,Food,21,4,Nil,9:30–17:360,823
+TB-403,Ganesh Grand,Food,16,5,Nil,9:30–17:361,857
+TB-404,Shreyas Upahar & Burger Point,Food,1,5,Nil,9:30–17:362,1781
+TB-405,Coffee Tindi,Food,10,3,Nil,9:30–17:363,1540
+TB-406,Little Cafe,Food,16,1,Nil,9:30–17:364,890
+TB-407,Mumbai Badam Milk & Lassi Center,Food,17,2,Nil,9:30–17:365,1190
+TB-408,Sri Krishna Sagar,Food,3,2,Nil,9:30–17:366,1584
+TB-409,Mylari Biryani Family Restaurant,Food,25,2,Nil,9:30–17:367,1431
+TB-410,1980s Games Cafe,Food,7,1,Nil,9:30–17:368,1182
+TB-411,Kadala Tarangaa,Food,17,4,Nil,9:30–17:369,615
+TB-412,,Food,8,5,Nil,9:30–17:370,987
+TB-413, 'RATED\n  Not good in taste...'),Food,10,1,Nil,9:30–17:371,1374
+TB-414,Namma Biryani,Food,8,1,Nil,9:30–17:372,1709
+TB-415,Nandhanu's Rasoi,Food,18,4,Nil,9:30–17:373,1550
+TB-416,Hotel Pork Paradise,Food,26,2,Nil,9:30–17:374,1640
+TB-417,As On Fire,Food,20,1,Nil,9:30–17:375,1339
+TB-418,J K Fish Land,Food,22,4,Nil,9:30–17:376,1201
+TB-419,Curry Leaves,Food,11,3,Nil,9:30–17:377,783
+TB-420,Lassi Shop,Food,19,3,Nil,9:30–17:378,1664
+TB-421,Magic Meals,Food,30,1,Nil,9:30–17:379,1231
+TB-422,Desi Cream Junction,Food,0,5,Nil,9:30–17:380,933
+TB-423,Drunken Monkey,Food,12,2,Nil,9:30–17:381,1211
+TB-424,Ruchi's Corner,Food,6,3,Nil,9:30–17:382,1260
+TB-425,Tandoori Bytes,Food,24,2,Nil,9:30–17:383,1145
+TB-426,Bangalore Donne Biriyani,Food,17,3,Nil,9:30–17:384,1303
+TB-427,SGS Non Veg - Gundu Pulav,Food,19,2,Nil,9:30–17:385,1588
+TB-428,Keventers,Food,20,5,Nil,9:30–17:386,616
+TB-429,Sree Sagar,Food,28,4,Nil,9:30–17:387,710
+TB-430,Navi Food Point,Food,25,2,Nil,9:30–17:388,1617
+TB-431,Shawarma Inc,Food,20,2,Nil,9:30–17:389,1639
+TB-432,The Cafe Nuts and Bolts,Food,2,3,Nil,9:30–17:390,1410
+TB-433,AM WOW,Food,21,5,Nil,9:30–17:391,582
+TB-434,Lalbagh Grand,Food,17,1,Nil,9:30–17:392,1787
+TB-435,Funjabi Curries,Food,27,2,Nil,9:30–17:393,854
+TB-436,Eat Repeat,Food,24,4,Nil,9:30–17:394,1598
+TB-437,Salut,Food,22,3,Nil,9:30–17:395,1233
+TB-438,Nammura Donne Biriyani,Food,7,5,Nil,9:30–17:396,1475
+TB-439,Lassi Stop,Food,24,1,Nil,9:30–17:397,554
+TB-440,Dakshin Kitchen,Food,7,3,Nil,9:30–17:398,1458
+TB-441,Sri Sai Cafe,Food,20,2,Nil,9:30–17:399,1232
+TB-442,Sri Sai 99 Variety Dosa,Food,15,3,Nil,9:30–17:400,1528
+TB-443,Utsav Restaurant,Food,26,1,Nil,9:30–17:401,1592
+TB-444,Crunch and Munch,Food,18,3,Nil,9:30–17:402,742
+TB-445,Food Geek,Food,12,4,Nil,9:30–17:403,1398
+TB-446,Sri Krishna Aramane,Food,30,5,Nil,9:30–17:404,1338
+TB-447,Great Indian Rolls,Food,13,5,Nil,9:30–17:405,964
+TB-448,Chats Point,Food,7,1,Nil,9:30–17:406,896
+TB-449,Food Point,Food,21,4,Nil,9:30–17:407,1693
+TB-450,Swarga Ruchi,Food,5,1,Nil,9:30–17:408,1142
+TB-451,Kolkata King,Food,3,3,Nil,9:30–17:409,1120
+TB-452,Sandwich Mama's And Frozen Monster,Food,22,2,Nil,9:30–17:410,742
+TB-453,New Rajadhani Spicy,Food,7,2,Nil,9:30–17:411,978
+TB-454,Big Mishra Pedha,Food,20,1,Nil,9:30–17:412,1516
+TB-455,VEGeatz,Food,6,2,Nil,9:30–17:413,513
+TB-456,Foodizo,Food,22,3,Nil,9:30–17:414,1628
+TB-457,Food Springs,Food,20,3,Nil,9:30–17:415,1130
+TB-458,,Food,21,2,Nil,9:30–17:416,596
+TB-459, 'RATED\n  We had been there to have Paneer pops cos apparently this is the only place where we can get them. Unfortunately they did not have it that day,Food,24,3,Nil,9:30–17:417,1386
+TB-460,Chung's Chinese Corner,Food,19,2,Nil,9:30–17:418,1310
+TB-461,Eurasia Pasta and Barbeque by Little Italy,Food,19,4,Nil,9:30–17:419,1027
+TB-462,Goli Vada Pav No. 1,Food,3,4,Nil,9:30–17:420,1682
+TB-463,Ragoo's,Food,21,1,Nil,9:30–17:421,1597
+TB-464,Pure & Natural,Food,8,3,Nil,9:30–17:422,1140
+TB-465,Maiyas,Food,10,1,Nil,9:30–17:423,958
+TB-466,Sip n Dine,Food,16,1,Nil,9:30–17:424,1576
+TB-467,Cafe Mondo,Food,23,1,Nil,9:30–17:425,993
+TB-468,Jalpaan,Food,9,4,Nil,9:30–17:426,840
+TB-469,Kataria's Pakwan,Food,27,4,Nil,9:30–17:427,898
+TB-470,,Food,24,1,Nil,9:30–17:428,595
+TB-471, 'RATED\n  Regret ordering from this place. No timeliness on delivery. Ridiculous if over committed should let customers know and let them seek other option s instead of making them wait endlessly. Would never recommend this place for home delivery. Not sure of the services at the place.'),Food,7,3,Nil,9:30–17:429,1114
+TB-472,Juicy Momos,Food,17,1,Nil,9:30–17:430,992
+TB-473,Amande Patisserie,Food,29,3,Nil,9:30–17:431,1437
+TB-474,Anand Sweets and Savouries,Food,5,2,Nil,9:30–17:432,1061
+TB-475,Chicken Hunt,Food,28,2,Nil,9:30–17:433,563
+TB-476,Swadesh Tadka,Food,6,3,Nil,9:30–17:434,575
+TB-477,Cane-O-La,Food,19,3,Nil,9:30–17:435,1063
+TB-478,New Biryani Mane,Food,11,1,Nil,9:30–17:436,1702
+TB-479,Upahara Darshini,Food,11,5,Nil,9:30–17:437,1082
+TB-480,Karnataka Bhel House,Food,15,2,Nil,9:30–17:438,857
+TB-481,Sreeraj Lassi Bar,Food,14,4,Nil,9:30–17:439,1122
+TB-482,Juice Junction Food Court,Food,0,5,Nil,9:30–17:440,1080
+TB-483,Bunt's Biriyani Palace,Food,23,4,Nil,9:30–17:441,1427
+TB-484,,Food,27,3,Nil,9:30–17:442,511
+TB-485," """"RATED\n  Best place for chicken leg roast in whole bangalore.Even neer dosa is good.\nBiryani is not good.\nAmbience is not good.\nService is average.\n\nBill won't burn a hole in your pocket."""")",Food,19,2,Nil,9:30–17:443,704
+TB-486,Chai Point,Food,10,3,Nil,9:30–17:444,510
+TB-487,,Food,23,5,Nil,9:30–17:445,1771
+TB-488, ('Rated 4.0',Food,3,4,Nil,9:30–17:446,619
+TB-489,Janahaar,Food,4,1,Nil,9:30–17:447,1159
+TB-490,Redberrys,Food,18,3,Nil,9:30–17:448,1251
+TB-491,Utsav,Food,3,1,Nil,9:30–17:449,927
+TB-492,Meat And Eat,Food,20,4,Nil,9:30–17:450,850
+TB-493,Snacks Bite,Food,1,2,Nil,9:30–17:451,552
+TB-494,The Spice Saga,Food,24,5,Nil,9:30–17:452,1655
+TB-495,Dakshin Cafe,Food,19,4,Nil,9:30–17:453,1367
+TB-496,Mr. Parathewala,Food,13,2,Nil,9:30–17:454,1597
+TB-497,Kaulige Millet Corner,Food,20,2,Nil,9:30–17:455,709
+TB-498,Ifruit Ice Cream,Food,30,5,Nil,9:30–17:456,1667
+TB-499,Havmor,Food,25,5,Nil,9:30–17:457,1251
+TB-500,Grand Food,Food,21,5,Nil,9:30–17:458,1443
+TB-501,Dining Hut,Food,12,3,Nil,9:30–17:459,1364
+TB-502,7 Hills Garden Restaurant,Food,27,3,Nil,9:30–17:460,1248
+TB-503,Desi Swaad,Food,22,4,Nil,9:30–17:461,667
+TB-504,Yummy Momos,Food,14,1,Nil,9:30–17:462,1027
+TB-505,Masale Daan,Food,29,5,Nil,9:30–17:463,1353
+TB-506,Sri Manjunatha Tandoori Corner,Food,27,2,Nil,9:30–17:464,679
+TB-507,Grow Fit,Food,26,2,Nil,9:30–17:465,1758
+TB-508,The House Of Vadapav,Food,8,5,Nil,9:30–17:466,1456
+TB-509,Cutcakes,Food,25,2,Nil,9:30–17:467,1220
+TB-510,Lassi Spot,Food,20,1,Nil,9:30–17:468,1662
+TB-511,Sandwich Hub,Food,16,2,Nil,9:30–17:469,818
+TB-512,Healthy Bakes 'n' Brew,Food,26,1,Nil,9:30–17:470,990
+TB-513,Udupi Sri Krishna Cafe,Food,4,1,Nil,9:30–17:471,1773
+TB-514,Starlite Bakery & Fastfood,Food,28,5,Nil,9:30–17:472,1583
+TB-515,Veganbreak24x7,Food,11,2,Nil,9:30–17:473,1515
+TB-516,Aadhya Hotel,Food,16,4,Nil,9:30–17:474,1712
+TB-517,Dodda Mane Baaduta,Food,13,5,Nil,9:30–17:475,862
+TB-518,Swadd Kitchen,Food,15,3,Nil,9:30–17:476,1168
+TB-519,Nandini Milk Parlour and Restaurant,Food,26,3,Nil,9:30–17:477,992
+TB-520,Happy Chopsticks,Food,19,5,Nil,9:30–17:478,1577
+TB-521,Sai Super Sandwich,Food,11,2,Nil,9:30–17:479,534
+TB-522,Right Pizza,Food,1,3,Nil,9:30–17:480,631
+TB-523,Udupi Upachar,Food,12,1,Nil,9:30–17:481,1193
+TB-524,Davanagere Benne Dose Hut,Food,26,4,Nil,9:30–17:482,701
+TB-525,The Sip Shop,Food,17,1,Nil,9:30–17:483,600
+TB-526,Jalsa,Food,4,1,Nil,9:30–17:484,818
+TB-527,Subz,Food,15,1,Nil,9:30–17:485,1172
+TB-528,Rajastani Rasoi,Food,30,2,Nil,9:30–17:486,1311
+TB-529,Sri Banashankari Upahara,Food,4,2,Nil,9:30–17:487,1032
+TB-530,Cafe Shuffle,Food,26,2,Nil,9:30–17:488,1216
+TB-531,Mint and Mustard,Food,1,4,Nil,9:30–17:489,1080
+TB-532,Chinese Square,Food,30,5,Nil,9:30–17:490,1608
+TB-533,Hyderabad Express,Food,22,1,Nil,9:30–17:491,679
+TB-534,Punjabi Raswada,Food,1,4,Nil,9:30–17:492,1549
+TB-535,Vinny's,Food,8,5,Nil,9:30–17:493,1103
+TB-536,Chetty's Corner,Food,12,3,Nil,9:30–17:494,733
+TB-537,Kapoor's Cafe,Food,15,3,Nil,9:30–17:495,1369
+TB-538,Donne Biryani & Kabab Corner,Food,23,3,Nil,9:30–17:496,840
+TB-539,Sukh Sagar,Food,30,2,Nil,9:30–17:497,641
+TB-540,S M V Snacks Corner,Food,10,1,Nil,9:30–17:498,886
+TB-541,Andhra Ruchulu,Food,30,3,Nil,9:30–17:499,761
+TB-542,The Samosa Co,Food,27,4,Nil,9:30–17:500,874
+TB-543,Steaming Mugs,Food,9,5,Nil,9:30–17:501,906
+TB-544,San Churro Cafe,Food,6,3,Nil,9:30–17:502,576
+TB-545,Rajathadri Food Fort,Food,8,3,Nil,9:30–17:503,846
+TB-546,Brew Meister,Food,5,5,Nil,9:30–17:504,1778
+TB-547,,Food,26,4,Nil,9:30–17:505,1525
+TB-548, ('Rated 3.0',Food,5,2,Nil,9:30–17:506,727
+TB-549,Rasoi,Food,4,5,Nil,9:30–17:507,1584
+TB-550,Mr. Singh Da Dhaba,Food,20,2,Nil,9:30–17:508,723
+TB-551,Kababs N Biryani,Food,22,5,Nil,9:30–17:509,1149
+TB-552,Ayodhya Upachar,Food,29,5,Nil,9:30–17:510,925
+TB-553,Biriyani Mane,Food,5,2,Nil,9:30–17:511,1384
+TB-554,,Food,17,4,Nil,9:30–17:512,1018
+TB-555, ('Rated 3.5',Food,1,4,Nil,9:30–17:513,961
+TB-556,Cafe Ajfan,Food,13,3,Nil,9:30–17:514,595
+TB-557,,Food,6,2,Nil,9:30–17:515,1666
+TB-558, ('Rated 4.0',Food,7,3,Nil,9:30–17:516,1254
+TB-559,Brundhavana Food Point,Food,24,5,Nil,9:30–17:517,1613
+TB-560,SLV Corner Restaurant,Food,16,2,Nil,9:30–17:518,1460
+TB-561,Biryani Royals Garden,Food,1,2,Nil,9:30–17:519,1512
+TB-562,Hotel New Karavali,Food,8,2,Nil,9:30–17:520,634
+TB-563,The Krishna Grand,Food,11,2,Nil,9:30–17:521,961
+TB-564,360 Atoms Restaurant And Cafe,Food,15,3,Nil,9:30–17:522,1557
+TB-565,Roti Ghar,Food,8,5,Nil,9:30–17:523,885
+TB-566,The Coffee Shack,Food,6,4,Nil,9:30–17:524,1665
+TB-567,Multi Snacky Hub,Food,14,1,Nil,9:30–17:525,1081
+TB-568,Kettle & Kegs,Food,5,3,Nil,9:30–17:526,793
+TB-569,Baisakhi,Food,3,1,Nil,9:30–17:527,629
+TB-570,Corner House Ice Cream,Food,25,4,Nil,9:30–17:528,1544
+TB-571,Poonam Sweets,Food,22,3,Nil,9:30–17:529,1466
+TB-572,XO Belgian Waffle,Food,13,1,Nil,9:30–17:530,1188
+TB-573,Old Mumbai Ice Cream,Food,5,5,Nil,9:30–17:531,817
+TB-574,Cake of the Day,Food,21,3,Nil,9:30–17:532,1222
+TB-575,Amma's Pastries,Food,30,3,Nil,9:30–17:533,959
+TB-576,Kanti Sweets,Food,0,5,Nil,9:30–17:534,665
+TB-577,Sugar Rush,Food,26,2,Nil,9:30–17:535,998
+TB-578,Polar Bear,Food,8,4,Nil,9:30–17:536,1597
+TB-579,San Churro Cafe,Food,15,1,Nil,9:30–17:537,1647
+TB-580,Anand Sweets and Savouries,Food,1,3,Nil,9:30–17:538,1316
+TB-581,Ibaco,Food,3,4,Nil,9:30–17:539,528
+TB-582,Kirthi's Biryani,Food,13,2,Nil,9:30–17:540,1447
+TB-583,The Lassi and Juice Park,Food,24,2,Nil,9:30–17:541,627
+TB-584,Stoned Monkey,Food,22,3,Nil,9:30–17:542,1353
+TB-585,Parimala Sweets,Food,1,1,Nil,9:30–17:543,607
+TB-586,The Big O Bakes,Food,14,5,Nil,9:30–17:544,1605
+TB-587,Shree Mahalakshmi Sweets,Food,21,3,Nil,9:30–17:545,708
+TB-588,Keventers,Food,19,3,Nil,9:30–17:546,1000
+TB-589,Dessert Rose,Food,28,4,Nil,9:30–17:547,1439
+TB-590,Thanco's Natural Ice Creams,Food,20,4,Nil,9:30–17:548,1249
+TB-591,Corner Stone,Food,29,2,Nil,9:30–17:549,1038
+TB-592,Kaggis,Food,28,2,Nil,9:30–17:550,1741
+TB-593,Cocoa Bakes,Food,0,5,Nil,9:30–17:551,1058
+TB-594,Floured-Baked With Love,Food,13,1,Nil,9:30–17:552,1376
+TB-595,CAFE NOVA,Food,5,5,Nil,9:30–17:553,1217
+TB-596,Cakes & Slices,Food,4,1,Nil,9:30–17:554,1297
+TB-597,Arun Ice Cream,Food,8,1,Nil,9:30–17:555,1057
+TB-598,Just Bake,Food,1,5,Nil,9:30–17:556,1061
+TB-599,Dharwad Line Bazaar Mishra Pedha,Food,2,1,Nil,9:30–17:557,1056
+TB-600,Cake Bite,Food,21,2,Nil,9:30–17:558,914
+TB-601,Kwality Wall's Swirl's Happiness Station,Food,28,2,Nil,9:30–17:559,1439
+TB-602,Melting Melodies,Food,10,2,Nil,9:30–17:560,880
+TB-603,Sweet N Swirl,Food,17,1,Nil,9:30–17:561,664
+TB-604,Me And My Cake,Food,1,2,Nil,9:30–17:562,987
+TB-605,Mukesh Sweet Centre,Food,15,3,Nil,9:30–17:563,927
+TB-606,Darkolates,Food,28,1,Nil,9:30–17:564,1183
+TB-607,Sai Super Sandwich,Food,13,5,Nil,9:30–17:565,830
+TB-608,Sweet Truth,Food,1,1,Nil,9:30–17:566,841
+TB-609,Waffle-A-Go Go,Food,10,4,Nil,9:30–17:567,1064
+TB-610,Gopi Ice Creams,Food,18,1,Nil,9:30–17:568,1738
+TB-611,Sri Venkateshwara Sweet Meat Stall,Food,5,1,Nil,9:30–17:569,917
+TB-612,Baskin Robbins,Food,24,3,Nil,9:30–17:570,1584
+TB-613,Redberrys,Food,27,4,Nil,9:30–17:571,946
+TB-614,Amande Patisserie,Food,24,2,Nil,9:30–17:572,1691
+TB-615,Srinivasa Brahmins Bakery,Food,24,4,Nil,9:30–17:573,1540
+TB-616,Jain Bakes,Food,20,3,Nil,9:30–17:574,1400
+TB-617,Cake Ghar,Food,1,3,Nil,9:30–17:575,1745
+TB-618,KC Das - Sweet Spot,Food,0,4,Nil,9:30–17:576,1577
+TB-619,Sugar Stars Co,Food,1,4,Nil,9:30–17:577,1284
+TB-620,Diabetics Dezire Sugarless Sweets and Bakes,Food,15,5,Nil,9:30–17:578,1016
+TB-621,Cake Yard,Food,27,1,Nil,9:30–17:579,1395
+TB-622,Iceberg Icecreams,Food,14,4,Nil,9:30–17:580,699
+TB-623,A2B Veg - Adyar Ananda Bhavan,Food,6,5,Nil,9:30–17:581,980
+TB-624,Bombay Kulfis,Food,15,1,Nil,9:30–17:582,1574
+TB-625,Sri Krishna Sweets,Food,24,3,Nil,9:30–17:583,1303
+TB-626,Cake Art,Food,6,3,Nil,9:30–17:584,668
+TB-627,Cakecraft,Food,21,1,Nil,9:30–17:585,879
+TB-628,Asha Sweets Centre,Food,23,3,Nil,9:30–17:586,1440
+TB-629,My Tea House,Food,29,4,Nil,9:30–17:587,817
+TB-630,The Krishna Grand,Food,9,1,Nil,9:30–17:588,1008
+TB-631,Sea Spice by 7 Star,Food,19,4,Nil,9:30–17:589,800
+TB-632,Mini Punjabi Dhaba,Food,12,4,Nil,9:30–17:590,956
+TB-633,Onesta,Food,28,3,Nil,9:30–17:591,1320
+TB-634,Wamama,Food,11,5,Nil,9:30–17:592,568
+TB-635,,Food,5,4,Nil,9:30–17:593,1036
+TB-636, 'RATED\n  First thing about this place is.. PAN Asian cuisine.. there are hardly any place which serves sushi etc in this part of Bangalore.. you can park your vehicle at BDA Complex parking.. and enjoy your evening peacefully.. ambiance is nice... food is delicious..\nwe tried veg dim sum platter,Food,11,5,Nil,9:30–17:594,1475
+TB-637,Jalsa,Food,24,1,Nil,9:30–17:595,1736
+TB-638,Vinny's,Food,28,4,Nil,9:30–17:596,1080
+TB-639,Jcubez,Food,19,4,Nil,9:30–17:597,745
+TB-640,Gustoes Beer House,Food,0,4,Nil,9:30–17:598,865
+TB-641,Penthouse Cafe,Food,2,5,Nil,9:30–17:599,1404
+TB-642,Spice Elephant,Food,17,4,Nil,9:30–17:600,1514
+TB-643,Smacznego,Food,17,3,Nil,9:30–17:601,744
+TB-644,CafÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚Â‚ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â© Down The Alley,Food,26,3,Nil,9:30–17:602,1245
+TB-645,Cafe Shuffle,Food,30,3,Nil,9:30–17:603,565
+TB-646,The Coffee Shack,Food,14,3,Nil,9:30–17:604,1239
+TB-647,Peppy Peppers,Food,21,3,Nil,9:30–17:605,1531
+TB-648,,Food,7,5,Nil,9:30–17:606,981
+TB-649," """"RATED\n  Roof top peppy peppers cafe ...\nIt's really superb ambiance ",Food,15,3,Nil,9:30–17:607,917
+TB-650,Anna Kuteera,Food,25,5,Nil,9:30–17:608,972
+TB-651,Szechuan Dragon,Food,17,5,Nil,9:30–17:609,1180
+TB-652,1947,Food,4,1,Nil,9:30–17:610,663
+TB-653,Caf-Eleven,Food,18,4,Nil,9:30–17:611,826
+TB-654,Thamboola,Food,20,1,Nil,9:30–17:612,745
+TB-655,Ferment,Food,6,2,Nil,9:30–17:613,1225
+TB-656,Havyaka Mess,Food,3,4,Nil,9:30–17:614,1567
+TB-657,San Churro Cafe,Food,23,4,Nil,9:30–17:615,1757
+TB-658,Cafe Vivacity,Food,26,5,Nil,9:30–17:616,895
+TB-659,Chung Wah,Food,8,5,Nil,9:30–17:617,970
+TB-660,Vietnamese Kitchen,Food,26,4,Nil,9:30–17:618,571
+TB-661,Blue Wings Bar & Restaurant,Food,17,4,Nil,9:30–17:619,1175
+TB-662,Anand Sweets and Savouries,Food,30,3,Nil,9:30–17:620,1247
+TB-663,Catch-up-ino,Food,15,5,Nil,9:30–17:621,1779
+TB-664,Kirthi's Biryani,Food,29,1,Nil,9:30–17:622,620
+TB-665,T3H Cafe,Food,29,3,Nil,9:30–17:623,1520
+TB-666,Srikrishna Bhavan,Food,13,3,Nil,9:30–17:624,1182
+TB-667,Dal Tadkaa,Food,28,4,Nil,9:30–17:625,1006
+TB-668,,Food,3,1,Nil,9:30–17:626,1243
+TB-669," """"RATED\n  The buffet is inr 330 pp all incl. But the quality is very mediocre",Food,3,3,Nil,9:30–17:627,1700
+TB-670,360 Atoms Restaurant And Cafe,Food,10,5,Nil,9:30–17:628,1101
+TB-671,New Imperial Restaurant,Food,19,5,Nil,9:30–17:629,878
+TB-672,The Vintage Cafe,Food,21,5,Nil,9:30–17:630,1013
+TB-673,Green Gardenia,Food,17,2,Nil,9:30–17:631,1413
+TB-674,Parimala Sweets,Food,6,2,Nil,9:30–17:632,1652
+TB-675,Vaishali Deluxe,Food,22,2,Nil,9:30–17:633,793
+TB-676,Paradise Premium,Food,16,1,Nil,9:30–17:634,1258
+TB-677,Kadala Tarangaa,Food,5,4,Nil,9:30–17:635,1625
+TB-678,,Food,12,3,Nil,9:30–17:636,523
+TB-679, 'RATED\n  The Fish thali here was amazing! The fish curry to be specific was really nice and the quantity given is also a lot. One portion is enough for two people! Easy on the pocket and really good taste too!'),Food,21,5,Nil,9:30–17:637,1524
+TB-680,My Tea House,Food,25,1,Nil,9:30–17:638,679
+TB-681,Vi Ra's Bar and Restaurant,Food,23,2,Nil,9:30–17:639,1454
+TB-682,Annapooraneshwari Mess,Food,19,4,Nil,9:30–17:640,1009
+TB-683,Sri Yaksha Shiv Sagar,Food,15,3,Nil,9:30–17:641,938
+TB-684,7 Hills Restaurant,Food,21,5,Nil,9:30–17:642,1391
+TB-685,Nandhini Deluxe,Food,14,1,Nil,9:30–17:643,1387
+TB-686,Corner Stone,Food,11,2,Nil,9:30–17:644,1424
+TB-687,Karavali Fish Center,Food,3,5,Nil,9:30–17:645,920
+TB-688,Ayda Persian Kitchen,Food,30,1,Nil,9:30–17:646,909
+TB-689,J Spice,Food,20,3,Nil,9:30–17:647,1285
+TB-690,Swadesh Tadka,Food,20,4,Nil,9:30–17:648,980
+TB-691,Iyer's Tiffin Centre,Food,5,1,Nil,9:30–17:649,816
+TB-692,Kydz Adda,Food,26,4,Nil,9:30–17:650,1012
+TB-693,K27 - The Pub,Food,12,4,Nil,9:30–17:651,1620
+TB-694,Kotian Karavali Restaurant,Food,19,2,Nil,9:30–17:652,855
+TB-695,Food Box Cafe,Food,11,3,Nil,9:30–17:653,1676
+TB-696,Hide Out Cafe,Food,12,4,Nil,9:30–17:654,531
+TB-697,Linnet Bar & Restaurant,Food,7,4,Nil,9:30–17:655,701
+TB-698,CAFE NOVA,Food,21,3,Nil,9:30–17:656,1577
+TB-699,Darbar,Food,25,1,Nil,9:30–17:657,1305
+TB-700,Sri Ganesh Juice and Chats,Food,8,1,Nil,9:30–17:658,1300
+TB-701,Manifest Cafe,Food,12,1,Nil,9:30–17:659,1661
+TB-702,Beijing Bites,Food,4,5,Nil,9:30–17:660,1227
+TB-703,Karavali Lunch Home,Food,17,1,Nil,9:30–17:661,638
+TB-704,The Pizzeria,Food,23,2,Nil,9:30–17:662,620
+TB-705,Sri Krishna Sagar,Food,6,4,Nil,9:30–17:663,1792
+TB-706,Lassi Stop,Food,11,1,Nil,9:30–17:664,1171
+TB-707,Banashankari Nati Style,Food,30,2,Nil,9:30–17:665,961
+TB-708,Sea Green Cafe,Food,23,2,Nil,9:30–17:666,1395
+TB-709,Cafe Coffee Day,Food,29,3,Nil,9:30–17:667,1511
+TB-710,SLN Bar and Restaurant,Food,13,4,Nil,9:30–17:668,775
+TB-711,Kaumudis Juoice,Food,25,2,Nil,9:30–17:669,1027
+TB-712,Parijatha Paradise,Food,7,2,Nil,9:30–17:670,1709
+TB-713,As On Fire,Food,13,4,Nil,9:30–17:671,945
+TB-714,Pizza Hut,Food,29,2,Nil,9:30–17:672,1181
+TB-715,New Prashanth Hotel,Food,19,1,Nil,9:30–17:673,1718
+TB-716,Taaza Thindi,Food,28,1,Nil,9:30–17:674,1133
+TB-717,Hyderabad Express,Food,10,5,Nil,9:30–17:675,1089
+TB-718,Ayodhya Upachar,Food,14,5,Nil,9:30–17:676,1390
+TB-719,Petoo,Food,9,1,Nil,9:30–17:677,567
+TB-720,Roving Feast,Food,30,1,Nil,9:30–17:678,965
+TB-721,KFC,Food,27,5,Nil,9:30–17:679,551
+TB-722,Five Star Chicken,Food,11,2,Nil,9:30–17:680,1592
+TB-723,Gama Gama,Food,13,3,Nil,9:30–17:681,1747
+TB-724,Hotel New Karavali,Food,8,2,Nil,9:30–17:682,1447
+TB-725,Kaapi Corner,Food,14,1,Nil,9:30–17:683,1393
+TB-726,McDonald's,Food,18,1,Nil,9:30–17:684,1683
+TB-727,Sri Laxmi Venkateshwara Coffee Bar,Food,14,2,Nil,9:30–17:685,1765
+TB-728,Bhattara Bhojana,Food,30,5,Nil,9:30–17:686,1641
+TB-729,Davanagere Benne Dose Hut,Food,3,3,Nil,9:30–17:687,858
+TB-730,Utsav Restaurant,Food,29,4,Nil,9:30–17:688,1706
+TB-731,Messy Bowl,Food,1,5,Nil,9:30–17:689,741
+TB-732,Devanna Dum Biriyani Centre,Food,25,5,Nil,9:30–17:690,1337
+TB-733,Janahaar,Food,13,4,Nil,9:30–17:691,774
+TB-734,Stop 'N' Joy,Food,1,3,Nil,9:30–17:692,1598
+TB-735,Dodda Mane Baaduta,Food,9,4,Nil,9:30–17:693,1648
+TB-736,Chickpet Donne Biryani House,Food,28,2,Nil,9:30–17:694,1230
+TB-737,Brahmin Cafe,Food,10,2,Nil,9:30–17:695,732
+TB-738,Chumma Delicious,Food,21,5,Nil,9:30–17:696,1632
+TB-739,Udupi Upachar,Food,24,2,Nil,9:30–17:697,1168
+TB-740,Bengaluru Coffee House,Food,3,3,Nil,9:30–17:698,671
+TB-741,Foodiction,Food,28,1,Nil,9:30–17:699,797
+TB-742,,Food,14,3,Nil,9:30–17:700,1738
+TB-743, 'RATED\n  satisfactory'),Food,23,2,Nil,9:30–17:701,1291
+TB-744,The Biryani Cafe,Food,22,1,Nil,9:30–17:702,977
+TB-745,Spicy Tandoor,Food,26,2,Nil,9:30–17:703,594
+TB-746,Banashankari Donne Biriyani,Food,5,2,Nil,9:30–17:704,1161
+TB-747,Addhuri Udupi Bhojana,Food,14,4,Nil,9:30–17:705,905
+TB-748,Vasanth Vihar - Since 1965,Food,14,2,Nil,9:30–17:706,1701
+TB-749,Subway,Food,18,2,Nil,9:30–17:707,1578
+TB-750,SGS Non Veg - Gundu Pulav,Food,13,3,Nil,9:30–17:708,1491
+TB-751,Udupi Ruchi Grand,Food,16,5,Nil,9:30–17:709,1559
+TB-752,Hotel Mangala,Food,22,3,Nil,9:30–17:710,620
+TB-753,Simple Thindies,Food,6,4,Nil,9:30–17:711,821
+TB-754,Rolls On Wheels,Food,7,4,Nil,9:30–17:712,624
+TB-755,Chilli Flakes,Food,13,5,Nil,9:30–17:713,1533
+TB-756,Kababs N Biryani,Food,20,2,Nil,9:30–17:714,1714
+TB-757,Udupi Ruchi,Food,1,3,Nil,9:30–17:715,1794
+TB-758,SLV Swadishta,Food,27,5,Nil,9:30–17:716,1689
+TB-759,Kolbeh,Food,30,5,Nil,9:30–17:717,546
+TB-760,Kolkata Kathi Roll's,Food,27,2,Nil,9:30–17:718,912
+TB-761,Mylari Biryani Family Restaurant,Food,9,4,Nil,9:30–17:719,1583
+TB-762,Upahar Sagar,Food,1,2,Nil,9:30–17:720,1299
+TB-763,Domino's Pizza,Food,13,4,Nil,9:30–17:721,891
+TB-764,New Sagar Fast Food,Food,4,2,Nil,9:30–17:722,1311
+TB-765,Namma Biryani,Food,27,4,Nil,9:30–17:723,1724
+TB-766,Chill Out,Food,9,1,Nil,9:30–17:724,619
+TB-767,Parama Ruchi,Food,15,1,Nil,9:30–17:725,1335
+TB-768,Thrilok Restaurant,Food,24,5,Nil,9:30–17:726,1309
+TB-769,Meat And Eat,Food,2,3,Nil,9:30–17:727,1563
+TB-770,Ande Ka Funda,Food,24,1,Nil,9:30–17:728,1722
+TB-771,Dakshin Grand,Food,16,5,Nil,9:30–17:729,1106
+TB-772,Chicken Hunt,Food,4,5,Nil,9:30–17:730,1570
+TB-773,7 Hills Garden Restaurant,Food,20,2,Nil,9:30–17:731,1464
+TB-774,Maruthi Davangere Benne Dosa,Food,12,1,Nil,9:30–17:732,609
+TB-775,Shri Guru Raghavendra Grand Veg,Food,6,4,Nil,9:30–17:733,1322
+TB-776,Pizza Stop,Food,21,5,Nil,9:30–17:734,757
+TB-777,Madhappa Hindu Military Hotel,Food,8,3,Nil,9:30–17:735,1390
+TB-778,Krishna Sagar,Food,19,1,Nil,9:30–17:736,785
+TB-779,Hanumanthanagar Biryani Junction,Food,8,4,Nil,9:30–17:737,601
+TB-780,Faasos,Food,4,4,Nil,9:30–17:738,840
+TB-781,,Food,29,1,Nil,9:30–17:739,762
+TB-782, 'RATED\n  I had ordered the paneer cheese melt and chicken mayo wraps from this place. Both had a really generous amount of cheese in them just as the names suggest. The seasoning given alongside goes well with the wraps,Food,20,4,Nil,9:30–17:740,1256
+TB-783,Rasoi,Food,17,3,Nil,9:30–17:741,1337
+TB-784,SLV Refreshment,Food,16,5,Nil,9:30–17:742,940
+TB-785,Kaggis,Food,29,4,Nil,9:30–17:743,578
+TB-786,Chatar Patar,Food,12,3,Nil,9:30–17:744,1192
+TB-787,Seven Star,Food,1,5,Nil,9:30–17:745,1707
+TB-788,SVKP Daily Fresh,Food,27,4,Nil,9:30–17:746,1555
+TB-789,Kidambi's Kitchen,Food,6,4,Nil,9:30–17:747,1339
+TB-790,Ruchi's Corner,Food,6,4,Nil,9:30–17:748,1274
+TB-791,Tandoori Knight,Food,22,5,Nil,9:30–17:749,1013
+TB-792,Utsav,Food,2,5,Nil,9:30–17:750,1453
+TB-793,Mane Thindi,Food,15,5,Nil,9:30–17:751,1499
+TB-794,Fast And Fresh,Food,4,3,Nil,9:30–17:752,1624
+TB-795,New Gowda's Fried Chicken,Food,30,4,Nil,9:30–17:753,1645
+TB-796,Juicy Momos,Food,23,5,Nil,9:30–17:754,1291
+TB-797,Donne Biriyani House,Food,20,2,Nil,9:30–17:755,1125
+TB-798,Srinagar Kabab Corner,Food,15,4,Nil,9:30–17:756,1240
+TB-799,Sri Venkateshwara Chat Centre,Food,4,1,Nil,9:30–17:757,596
+TB-800,Vinay Bhel Corner,Food,7,3,Nil,9:30–17:758,882
+TB-801,Spice 9,Food,4,2,Nil,9:30–17:759,1607
+TB-802,Roti Land,Food,28,1,Nil,9:30–17:760,1112
+TB-803,Naveen Kabab & Biriyani Mane,Food,6,2,Nil,9:30–17:761,1777
+TB-804,Nandi Chats and Juice,Food,23,3,Nil,9:30–17:762,1096
+TB-805,Atithi Point Ande Ka Funda,Food,10,1,Nil,9:30–17:763,1070
+TB-806,Yaarub Hotel,Food,8,4,Nil,9:30–17:764,1435
+TB-807,Aarush's Food Plaza,Food,22,4,Nil,9:30–17:765,774
+TB-808,Rotti Mane,Food,24,5,Nil,9:30–17:766,1583
+TB-809,Karnataka Bhel House,Food,16,4,Nil,9:30–17:767,1785
+TB-810,Kannadigas Karavali,Food,11,3,Nil,9:30–17:768,888
+TB-811,The Coorg Kitchen,Food,30,4,Nil,9:30–17:769,792
+TB-812,Just Shawarma,Food,0,2,Nil,9:30–17:770,1308
+TB-813,Aramane Donne Biryani,Food,17,4,Nil,9:30–17:771,899
+TB-814,FOOD ADDA,Food,1,1,Nil,9:30–17:772,740
+TB-815,New Mangalore Lunch Home,Food,1,4,Nil,9:30–17:773,1209
+TB-816,Hotel Nisarga,Food,6,3,Nil,9:30–17:774,808
+TB-817,Coffee Bytes,Food,24,1,Nil,9:30–17:775,598
+TB-818,Parjanya Chat Zone,Food,0,1,Nil,9:30–17:776,1529
+TB-819,Yo Roll Corner,Food,8,4,Nil,9:30–17:777,1657
+TB-820,New Quality Dum Biryani,Food,18,1,Nil,9:30–17:778,1214
+TB-821,Sri Lakshmi Kabab Center,Food,23,4,Nil,9:30–17:779,1733
+TB-822,Cueferia A-Cafe,Food,15,3,Nil,9:30–17:780,1654
+TB-823,Sri Basaveshwar Jolada Rotti Oota,Food,7,1,Nil,9:30–17:781,1027
+TB-824,Dtink Lab,Food,12,3,Nil,9:30–17:782,672
+TB-825,Shree Udupi South kitchen,Food,6,2,Nil,9:30–17:783,1013
+TB-826,Foodlieious Multi Cuisine,Food,6,4,Nil,9:30–17:784,593
+TB-827,Tasty Bites,Food,16,1,Nil,9:30–17:785,1541
+TB-828,Raams Chicken,Food,23,1,Nil,9:30–17:786,971
+TB-829,Panchami,Food,28,1,Nil,9:30–17:787,923
+TB-830,Bangalore Kabab Palace,Food,8,2,Nil,9:30–17:788,945
+TB-831,Hotel Andhra Speices,Food,13,1,Nil,9:30–17:789,787
+TB-832,Quality Dum Biriyani,Food,20,1,Nil,9:30–17:790,1626
+TB-833,Sri Murari Family Restaurant,Food,10,5,Nil,9:30–17:791,1562
+TB-834,Taja Coffee,Food,30,1,Nil,9:30–17:792,844
+TB-835,Aramane Donne Biriyani,Food,15,4,Nil,9:30–17:793,1722
+TB-836,Swaada Healthy Kitchen,Food,15,1,Nil,9:30–17:794,673
+TB-837,New Prakash Hotel,Food,15,5,Nil,9:30–17:795,1459
+TB-838,Gawdaru Mane Beriyani,Food,17,3,Nil,9:30–17:796,1494
+TB-839,Kings Court Daba,Food,13,2,Nil,9:30–17:797,1567
+TB-840,MM Tiffen Center,Food,23,4,Nil,9:30–17:798,1671
+TB-841,Sri Raghavendra Prasanna Coffee Beans Club,Food,15,1,Nil,9:30–17:799,1533
+TB-842,Sri Balaji Tiffin Centre,Food,12,2,Nil,9:30–17:800,785
+TB-843,New Indraprasta,Food,30,3,Nil,9:30–17:801,607
+TB-844,Sree Sagar,Food,7,5,Nil,9:30–17:802,875
+TB-845,VEGeatz,Food,16,2,Nil,9:30–17:803,500
+TB-846,Grand Food,Food,4,1,Nil,9:30–17:804,1319
+TB-847,The House Of Vadapav,Food,4,3,Nil,9:30–17:805,1442
+TB-848,Matru Sagar,Food,25,2,Nil,9:30–17:806,1022
+TB-849,Kavali,Food,1,1,Nil,9:30–17:807,591
+TB-850,Bitez,Food,29,4,Nil,9:30–17:808,1142
+TB-851,Bunt's Biriyani Palace,Food,6,4,Nil,9:30–17:809,1475
+TB-852,Funjabi Curries,Food,19,3,Nil,9:30–17:810,612
+TB-853,Udupi Upahar,Food,22,5,Nil,9:30–17:811,1486
+TB-854,Ranganna Military Hotel,Food,4,5,Nil,9:30–17:812,694
+TB-855,Roti Ghar,Food,11,1,Nil,9:30–17:813,591
+TB-856,Grand Village,Food,1,2,Nil,9:30–17:814,1352
+TB-857,Vidyarthi Bhavan,Food,2,3,Nil,9:30–17:815,997
+TB-858,,Food,19,5,Nil,9:30–17:816,1482
+TB-859," go Sanz sambar. Recommended to celebrate the 75 years of history!"""")",Food,9,4,Nil,9:30–17:817,1478
+TB-860,Bharjari Oota,Food,5,4,Nil,9:30–17:818,639
+TB-861,Gokul Veg,Food,7,3,Nil,9:30–17:819,1549
+TB-862,SLV Corner Restaurant,Food,13,3,Nil,9:30–17:820,999
+TB-863,Timepass Dinner,Food,23,5,Nil,9:30–17:821,1566
+TB-864,Baisakhi,Food,5,2,Nil,9:30–17:822,535
+TB-865,Eat Repeat,Food,22,4,Nil,9:30–17:823,844
+TB-866,Sri Guru Kottureshwara Davangere Benne Dosa,Food,25,4,Nil,9:30–17:824,997
+TB-867,Bridgeway,Food,24,2,Nil,9:30–17:825,1610
+TB-868,Srinathji's Cafe,Food,26,5,Nil,9:30–17:826,1680
+TB-869,Soho Bar & Grill,Food,12,4,Nil,9:30–17:827,1234
+TB-870,Kollapuri's,Food,16,4,Nil,9:30–17:828,1129
+TB-871,Aadhya Hotel,Food,26,4,Nil,9:30–17:829,671
+TB-872,Bhavani Restaurant,Food,0,4,Nil,9:30–17:830,1513
+TB-873,Puliyogare Point,Food,26,5,Nil,9:30–17:831,1042
+TB-874,Zephyr,Food,8,2,Nil,9:30–17:832,1503
+TB-875,Redberrys,Food,3,1,Nil,9:30–17:833,1319
+TB-876,Hotel Dwarka,Food,22,2,Nil,9:30–17:834,1047
+TB-877,Nisarga Garden Restaurant,Food,25,3,Nil,9:30–17:835,719
+TB-878,Ma-Arya Family Restaurant,Food,23,5,Nil,9:30–17:836,623
+TB-879,A2B - Adyar Ananda Bhavan,Food,3,4,Nil,9:30–17:837,556
+TB-880,Ragoo's,Food,18,4,Nil,9:30–17:838,636
+TB-881,Imperial Restaurant,Food,27,4,Nil,9:30–17:839,695
+TB-882,New Prashanth Hotel,Food,23,3,Nil,9:30–17:840,1589
+TB-883,Udupi Sri Krishna Bhavan,Food,30,5,Nil,9:30–17:841,878
+TB-884,Chinese Kitchen,Food,2,3,Nil,9:30–17:842,884
+TB-885,Vijayalakshmi,Food,23,2,Nil,9:30–17:843,1358
+TB-886,Nammura Donne Biriyani,Food,3,3,Nil,9:30–17:844,1555
+TB-887,Curry Leaves,Food,23,1,Nil,9:30–17:845,1033
+TB-888,Goli Vada Pav No. 1,Food,22,4,Nil,9:30–17:846,913
+TB-889,Ice Thunder,Food,6,3,Nil,9:30–17:847,1162
+TB-890,South Kitchen,Food,21,4,Nil,9:30–17:848,633
+TB-891,Upahara Darshini,Food,25,1,Nil,9:30–17:849,1061
+TB-892,Mahalaxmi Tiffin Room,Food,20,5,Nil,9:30–17:850,1602
+TB-893,Starlite Bakery & Fastfood,Food,19,3,Nil,9:30–17:851,1738
+TB-894,Sandwichwallas,Food,24,4,Nil,9:30–17:852,1447
+TB-895,J K Fish Land,Food,23,4,Nil,9:30–17:853,948
+TB-896,Udupi Grand,Food,20,3,Nil,9:30–17:854,1722
+TB-897,,Food,27,1,Nil,9:30–17:855,715
+TB-898, 'RATED\n  Very nice place and really friendly staff... I did go here 5 (during different days of the week and time) before posting my review. The best part is the quality and quantity of food. But parking is a problem,Food,0,4,Nil,9:30–17:856,1452
+TB-899,Chinese Square,Food,27,3,Nil,9:30–17:857,967
+TB-900,Castle Rock,Food,19,1,Nil,9:30–17:858,655
+TB-901,Swadd Kitchen,Food,19,5,Nil,9:30–17:859,1712
+TB-902,Right Pizza,Food,19,4,Nil,9:30–17:860,1180
+TB-903,Kamat Bugle Rock,Food,25,5,Nil,9:30–17:861,1376
+TB-904,Basavanagudi Mylari,Food,2,5,Nil,9:30–17:862,1397
+TB-905,RS Shiv Sagar,Food,22,3,Nil,9:30–17:863,1754
+TB-906,New Prashanth Hotel,Food,8,5,Nil,9:30–17:864,1124
+TB-907,Shrinidhi Military Hotel,Food,24,2,Nil,9:30–17:865,1035
+TB-908,Dakshin Kitchen,Food,3,1,Nil,9:30–17:866,1143
+TB-909,Pramukh Family Restaurant,Food,23,2,Nil,9:30–17:867,576
+TB-910,Chaatimes,Food,19,4,Nil,9:30–17:868,898
+TB-911,Vybhava,Food,12,2,Nil,9:30–17:869,1786
+TB-912,Shree Venkateshwara North Karnataka Hotel,Food,16,2,Nil,9:30–17:870,867
+TB-913,Kadamba Classic,Food,17,1,Nil,9:30–17:871,1413
+TB-914,Food Geek,Food,6,3,Nil,9:30–17:872,1305
+TB-915,Rosewood International Hotel - Bar & Restaurant,Food,22,1,Nil,9:30–17:873,1071
+TB-916,Anand Sagar Inn,Food,16,4,Nil,9:30–17:874,634
+TB-917,Sangam Military Hotel,Food,20,4,Nil,9:30–17:875,1252
+TB-918,Kholi Mane,Food,16,5,Nil,9:30–17:876,1672
+TB-919,Harshi Super Sandwich,Food,9,5,Nil,9:30–17:877,898
+TB-920,Hotel Pork Paradise,Food,10,3,Nil,9:30–17:878,1280
+TB-921,Pallavi Bar & Restaurant,Food,6,4,Nil,9:30–17:879,1783
+TB-922,Belly Squad Food Truck,Food,6,1,Nil,9:30–17:880,769
+TB-923,Tejas Bar and Restaurant,Food,28,2,Nil,9:30–17:881,595
+TB-924,Old Days North Indian Restaurant,Food,15,3,Nil,9:30–17:882,1334
+TB-925,New Rajadhani Spicy,Food,22,3,Nil,9:30–17:883,1144
+TB-926,Matru Sagar,Food,21,4,Nil,9:30–17:884,1063
+TB-927,Sri Udupi Veg,Food,2,5,Nil,9:30–17:885,850
+TB-928,50-50 EATING HOUSE,Food,11,4,Nil,9:30–17:886,660
+TB-929,Aahar Cafe,Food,8,4,Nil,9:30–17:887,1422
+TB-930,Om Shiva Shakthi Chats Centre,Food,18,3,Nil,9:30–17:888,734
+TB-931,Juice Junction Food Court,Food,14,1,Nil,9:30–17:889,937
+TB-932,Burger King,Food,21,3,Nil,9:30–17:890,923
+TB-933,Inchara Restaurant,Food,2,1,Nil,9:30–17:891,1708
+TB-934,Rolls Corner,Food,8,4,Nil,9:30–17:892,642
+TB-935,Charisma's Matru Sagar,Food,1,5,Nil,9:30–17:893,1759
+TB-936,New Ambur Hot Dum Biryani,Food,21,1,Nil,9:30–17:894,1281
+TB-937,Sticke2Waffles,Food,21,4,Nil,9:30–17:895,794
+TB-938,Nimmoora Thindi,Food,28,3,Nil,9:30–17:896,1468
+TB-939,Oasis Food Center,Food,19,2,Nil,9:30–17:897,1450
+TB-940,Godumana Moddha Hotel,Food,14,5,Nil,9:30–17:898,1257
+TB-941,Akash Gowdru Biryani Center,Food,4,4,Nil,9:30–17:899,935
+TB-942,New Sri Udupi Restaurant,Food,5,3,Nil,9:30–17:900,1663
+TB-943,Shri Vinayaka Ice N Juice,Food,30,4,Nil,9:30–17:901,1689
+TB-944,Happy Chopsticks,Food,22,1,Nil,9:30–17:902,1136
+TB-945,Ambur Dum Biriyani,Food,24,5,Nil,9:30–17:903,1620
+TB-946,Food Plaza,Food,29,3,Nil,9:30–17:904,604
+TB-947,Jcubez,Food,0,1,Nil,9:30–17:905,1539
+TB-948,Gustoes Beer House,Food,24,3,Nil,9:30–17:906,777
+TB-949,Blue Wings Bar & Restaurant,Food,5,4,Nil,9:30–17:907,1012
+TB-950,Vi Ra's Bar and Restaurant,Food,21,3,Nil,9:30–17:908,1384
+TB-951,K27 - The Pub,Food,3,5,Nil,9:30–17:909,764
+TB-952,Linnet Bar & Restaurant,Food,20,3,Nil,9:30–17:910,1248
+TB-953,Darbar,Food,21,4,Nil,9:30–17:911,1726
+TB-954,Soho Bar & Grill,Food,26,3,Nil,9:30–17:912,974
+TB-955,Deja Vu Resto Bar,Food,10,4,Nil,9:30–17:913,1572
+TB-956,,Food,2,2,Nil,9:30–17:914,1538
+TB-957, 'RATED\n  DÃƒÂƒ\x83ÃƒÂ‚\x83ÃƒÂƒ\x82ÃƒÂ‚\x83ÃƒÂƒ\x83ÃƒÂ‚\x82ÃƒÂƒ\x82ÃƒÂ‚Ã‚Â©jÃƒÂƒ\x83ÃƒÂ‚\x83ÃƒÂƒ\x82ÃƒÂ‚\x83ÃƒÂƒ\x83ÃƒÂ‚\x82ÃƒÂƒ\x82ÃƒÂ‚\xa0 vu,Food,27,1,Nil,9:30–17:915,594
+TB-958,Fattoush,Food,4,3,Nil,9:30–17:916,799
+TB-959,Empire Restaurant,Food,1,2,Nil,9:30–17:917,911
+TB-960,Abhiruchi Hotel,Food,15,1,Nil,9:30–17:918,742
+TB-961,Tulips,Food,11,5,Nil,9:30–17:919,986
+TB-962,Barbeque Nation,Food,24,2,Nil,9:30–17:920,1343
+TB-963,Sattvam,Food,3,4,Nil,9:30–17:921,1681
+TB-964,24th Main,Food,14,5,Nil,9:30–17:922,1094
+TB-965,Zaitoon,Food,9,5,Nil,9:30–17:923,820
+TB-966,Mango Greens,Food,7,1,Nil,9:30–17:924,651
+TB-967,Oye Amritsar,Food,26,5,Nil,9:30–17:925,1553
+TB-968,Melt - Eden Park,Food,19,1,Nil,9:30–17:926,592
+TB-969,Crave Bit Cafe,Food,7,2,Nil,9:30–17:927,1261
+TB-970,Spice Code,Food,19,5,Nil,9:30–17:928,1286
+TB-971,The Onyx - The HHI Select Bengaluru,Food,23,2,Nil,9:30–17:929,994
+TB-972,,Food,20,1,Nil,9:30–17:930,1382
+TB-973, \n\nAmbience - 4\nService  - 3.5\nQuality  - 4\n\nCost - 4'),Food,26,5,Nil,9:30–17:931,1131
+TB-974,The Pavillion,Food,6,3,Nil,9:30–17:932,812
+TB-975,Sankranthi Veg Restaurant,Food,14,5,Nil,9:30–17:933,804
+TB-976,Tisano Cafe,Food,8,2,Nil,9:30–17:934,1405
+TB-977,Cafe Kabana,Food,16,3,Nil,9:30–17:935,1065
+TB-978,Butterly,Food,18,4,Nil,9:30–17:936,801
+TB-979,Cafe Conico,Food,30,2,Nil,9:30–17:937,662
+TB-980,Black Mug Cafe,Food,3,2,Nil,9:30–17:938,1362
+TB-981,#refuel,Food,21,2,Nil,9:30–17:939,536
+TB-982,WAFL,Food,24,2,Nil,9:30–17:940,1510
+TB-983,Vaho Kafe & Pressery,Food,28,2,Nil,9:30–17:941,768
+TB-984,,Food,1,4,Nil,9:30–17:942,657
+TB-985, 'RATED\n  Never again. Ordered a millet dosa and millet bisibelebath for breakfast through swiggy. After a swiggy screw-up,Food,17,3,Nil,9:30–17:943,1418
+TB-986,Dreamcatcher,Food,29,1,Nil,9:30–17:944,1189
+TB-987,Cafe Coffee Day,Food,25,5,Nil,9:30–17:945,909
+TB-988,Cafe Arabica,Food,0,1,Nil,9:30–17:946,1287
+TB-989,Starbucks,Food,27,1,Nil,9:30–17:947,1414
+TB-990,Smoor,Food,11,2,Nil,9:30–17:948,1110
+TB-991,Kalmane Koffees,Food,7,1,Nil,9:30–17:949,971
+TB-992,Shee-Sha Cafe,Food,30,1,Nil,9:30–17:950,694
+TB-993,Brews N Bites,Food,15,4,Nil,9:30–17:951,881
+TB-994,D2V Cafe,Food,29,2,Nil,9:30–17:952,1793
+TB-995,Wellness Cafe,Food,13,4,Nil,9:30–17:953,1196
+TB-996,Cafe Talk,Food,21,5,Nil,9:30–17:954,1678
+TB-997,Cafe Choco Craze,Food,27,1,Nil,9:30–17:955,530
+TB-998,Healthy Smoothie,Food,19,1,Nil,9:30–17:956,1788
+TB-999,Me N U,Food,2,2,Nil,9:30–17:957,558
+TB-1000,Slate Cafe,Food,3,3,Nil,9:30–17:958,971
+TB-1001,Dialogues,Food,14,5,Nil,9:30–17:959,1517
+TB-1002,Cafe Zuppa,Food,4,1,Nil,9:30–17:960,1139
+TB-1003,Mudpipe Cafe,Food,16,5,Nil,9:30–17:961,764
+TB-1004,Crave Bit Cafe,Food,3,4,Nil,9:30–17:962,777
+TB-1005,TAB - Take A Break,Food,18,5,Nil,9:30–17:963,1388
+TB-1006,Biggies Burger 'n' More,Food,20,1,Nil,9:30–17:964,965
+TB-1007,Onesta,Food,29,1,Nil,9:30–17:965,1650
+TB-1008,,Food,14,4,Nil,9:30–17:966,1537
+TB-1009, ('Rated 5.0',Food,30,4,Nil,9:30–17:967,1627
+TB-1010,Cafe Potpourri,Food,19,4,Nil,9:30–17:968,937
+TB-1011,De Oxford Cafe,Food,21,5,Nil,9:30–17:969,1374
+TB-1012,Vinaya Coffee Moments,Food,22,3,Nil,9:30–17:970,1192
+TB-1013,Brew Point,Food,6,4,Nil,9:30–17:971,1502
+TB-1014,The Cravery,Food,7,3,Nil,9:30–17:972,1227
+TB-1015,Cuppa,Food,20,2,Nil,9:30–17:973,1421
+TB-1016,Anju's Cafe,Food,6,3,Nil,9:30–17:974,1396
+TB-1017,Furry Fairy Paw Paradise,Food,18,3,Nil,9:30–17:975,824
+TB-1018,Junkealth,Food,23,4,Nil,9:30–17:976,1129
+TB-1019,Skytouch Le Cafe,Food,18,3,Nil,9:30–17:977,1514
+TB-1020,Woodee Pizza,Food,15,4,Nil,9:30–17:978,1740
+TB-1021,Hearts Unlock Cafe,Food,0,2,Nil,9:30–17:979,1527
+TB-1022,eat.fit,Food,14,4,Nil,9:30–17:980,1613
+TB-1023,Sai Abhiruchi,Food,8,2,Nil,9:30–17:981,1089
+TB-1024,Capsicum Family Restaurant,Food,23,1,Nil,9:30–17:982,1390
+TB-1025,Box Magic,Food,22,2,Nil,9:30–17:983,1485
+TB-1026,Maa'r Rannaghor,Food,8,1,Nil,9:30–17:984,564
+TB-1027,Easy Bites,Food,8,5,Nil,9:30–17:985,1726
+TB-1028,Hiyar Majhe Kolkata,Food,12,4,Nil,9:30–17:986,1564
+TB-1029,Dabba Gosht,Food,19,1,Nil,9:30–17:987,1508
+TB-1030,Empire Restaurant,Food,22,4,Nil,9:30–17:988,1746
+TB-1031,Punjabites,Food,8,4,Nil,9:30–17:989,1256
+TB-1032,Sri Lakshmi Dhaba,Food,1,4,Nil,9:30–17:990,1640
+TB-1033,XO Belgian Waffle,Food,26,5,Nil,9:30–17:991,537
+TB-1034,Swadista Aahar,Food,4,4,Nil,9:30–17:992,1633
+TB-1035,Vegetarea,Food,20,3,Nil,9:30–17:993,1700
+TB-1036,Al-Bek,Food,30,1,Nil,9:30–17:994,1124
+TB-1037,Aniram's,Food,20,3,Nil,9:30–17:995,607
+TB-1038,Punjabi Nawabi,Food,25,4,Nil,9:30–17:996,1185
+TB-1039,YummRajj,Food,30,2,Nil,9:30–17:997,663
+TB-1040,Swad Punjab Da,Food,28,4,Nil,9:30–17:998,758
+TB-1041,,Food,21,4,Nil,9:30–17:999,847
+TB-1042, take the left beside McDonalds's,Food,16,4,Nil,9:30–17:1000,1784
+TB-1043,BOX8- Desi Meals,Food,29,3,Nil,9:30–17:1001,987
+TB-1044,Roti Wala,Food,30,4,Nil,9:30–17:1002,1167
+TB-1045,Midnight Mania,Food,28,2,Nil,9:30–17:1003,1668
+TB-1046,Kitchens@JP Nagar,Food,20,2,Nil,9:30–17:1004,1579
+TB-1047,Krishna Kuteera,Food,7,3,Nil,9:30–17:1005,1213
+TB-1048,Apna Punjab,Food,4,1,Nil,9:30–17:1006,1416
+TB-1049,Paratha Junction,Food,16,2,Nil,9:30–17:1007,814
+TB-1050,Nellore Bhojanam,Food,0,1,Nil,9:30–17:1008,595
+TB-1051,Momoz,Food,22,4,Nil,9:30–17:1009,1623
+TB-1052,Kalingas,Food,3,2,Nil,9:30–17:1010,1752
+TB-1053,Kanteen The Eatery,Food,24,2,Nil,9:30–17:1011,647
+TB-1054,Kullad Cafe,Food,4,1,Nil,9:30–17:1012,1248
+TB-1055,Donne Biriyani House,Food,2,3,Nil,9:30–17:1013,1527
+TB-1056,Litti Twist,Food,9,2,Nil,9:30–17:1014,1009
+TB-1057,FreshMenu,Food,21,1,Nil,9:30–17:1015,1039
+TB-1058,Shanthi Sagar,Food,2,1,Nil,9:30–17:1016,716
+TB-1059,Cakebuy,Food,24,1,Nil,9:30–17:1017,1624
+TB-1060,Five Star Chicken,Food,22,2,Nil,9:30–17:1018,1265
+TB-1061,Poha House,Food,15,5,Nil,9:30–17:1019,1166
+TB-1062,Bathinda Tandoor,Food,9,1,Nil,9:30–17:1020,1168
+TB-1063,Corner House Ice Cream,Food,18,3,Nil,9:30–17:1021,505
+TB-1064,Delight Food,Food,22,1,Nil,9:30–17:1022,1473
+TB-1065,Andhra Kitchen,Food,16,3,Nil,9:30–17:1023,1683
+TB-1066,Veg By Nature,Food,19,2,Nil,9:30–17:1024,1068
+TB-1067,Fattoush,Food,2,2,Nil,9:30–17:1025,818
+TB-1068,,Food,22,4,Nil,9:30–17:1026,1682
+TB-1069, 'RATED\n  After reading a lot of reviews,Food,11,1,Nil,9:30–17:1027,1092
+TB-1070,Chicken Magic,Food,11,2,Nil,9:30–17:1028,962
+TB-1071,Behrouz Biryani,Food,23,1,Nil,9:30–17:1029,742
+TB-1072,Abhiruchi Hotel,Food,16,2,Nil,9:30–17:1030,737
+TB-1073,Swathi Restaurant,Food,14,4,Nil,9:30–17:1031,1288
+TB-1074,Fresh Kitchen,Food,21,5,Nil,9:30–17:1032,529
+TB-1075,Hind Ka Chulah,Food,0,2,Nil,9:30–17:1033,1780
+TB-1076,Kuttanad,Food,30,3,Nil,9:30–17:1034,1216
+TB-1077,New Mahesh Friends Food Corner,Food,19,3,Nil,9:30–17:1035,602
+TB-1078,Bohra Bohra CafÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚ÂƒÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚Â‚ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â©,Food,7,2,Nil,9:30–17:1036,581
+TB-1079,Pizza Hut,Food,24,2,Nil,9:30–17:1037,852
+TB-1080,Shree Krishna Sannidhi,Food,19,5,Nil,9:30–17:1038,1149
+TB-1081,BingeJoy!,Food,6,3,Nil,9:30–17:1039,1342
+TB-1082,Shiv Sai Hotel,Food,10,2,Nil,9:30–17:1040,891
+TB-1083,MRA,Food,2,5,Nil,9:30–17:1041,1509
+TB-1084,Beijing Bites,Food,15,4,Nil,9:30–17:1042,1447
+TB-1085,A2B - Adyar Ananda Bhavan,Food,17,1,Nil,9:30–17:1043,915
+TB-1086,Burj Hotel,Food,2,2,Nil,9:30–17:1044,1427
+TB-1087,Shaadi Ki Biryani,Food,8,2,Nil,9:30–17:1045,1178
+TB-1088,Subway,Food,4,4,Nil,9:30–17:1046,1585
+TB-1089,Madeena Hotel,Food,17,3,Nil,9:30–17:1047,721
+TB-1090,Biryani Durbar,Food,27,3,Nil,9:30–17:1048,1382
+TB-1091,Adyar Ananda Bhavan Sweets,Food,4,5,Nil,9:30–17:1049,1086
+TB-1092,The Good Bowl,Food,15,3,Nil,9:30–17:1050,1484
+TB-1093,Mahesh Friends Food Center,Food,18,4,Nil,9:30–17:1051,1742
+TB-1094,,Food,16,3,Nil,9:30–17:1052,1792
+TB-1095, 'RATED\n  Paneer thali is full with turmeric powder'),Food,26,2,Nil,9:30–17:1053,1014
+TB-1096,Juice Shop,Food,7,3,Nil,9:30–17:1054,1083
+TB-1097,Kabab Magic,Food,12,2,Nil,9:30–17:1055,1549
+TB-1098,Nammura Donne Biriyani,Food,27,2,Nil,9:30–17:1056,1223
+TB-1099,Burger King,Food,7,1,Nil,9:30–17:1057,1682
+TB-1100,Dadi's Dum Biryani,Food,18,5,Nil,9:30–17:1058,1181
+TB-1101,,Food,9,5,Nil,9:30–17:1059,1038
+TB-1102, 'RATED\n  Tasteless!\n\nHad been here the other day to have our dinner. We taught to directly start with the main course so we ordered Dadi?s Special Chicken Biryani. They served us with the biryani in less time. When the waiter got the biryani at the first sight it just looked like ghee rice. It was so colourless. The biryani was bland. Only the chicken chunk had a bit of masala,Food,20,1,Nil,9:30–17:1060,1185
+TB-1103,Krishna Kuteera South,Food,10,2,Nil,9:30–17:1061,1211
+TB-1104,Alankrutha,Food,5,4,Nil,9:30–17:1062,1602
+TB-1105,Paradise,Food,12,3,Nil,9:30–17:1063,1745
+TB-1106,,Food,21,3,Nil,9:30–17:1064,629
+TB-1107," """"RATED\n  So I have had chicken here before. Had no idea about the vegetarian food. We ordered veg biryani for two and the quantity was so much 4 of us ate all of it. Heart warming lovely food with huge pieces of paneer and vegetables served with Curry and raita. It's good. Not at all disappointing for a veg biryani"""")",Food,10,4,Nil,9:30–17:1065,1755
+TB-1108,Kabab Mehal,Food,19,5,Nil,9:30–17:1066,1141
+TB-1109,Mughlai Kitchen,Food,24,1,Nil,9:30–17:1067,1756
+TB-1110,Andhra Ruchulu,Food,18,5,Nil,9:30–17:1068,1149
+TB-1111,Sri Punjabi Dhaba,Food,5,2,Nil,9:30–17:1069,739
+TB-1112,Arabian Mexico,Food,13,1,Nil,9:30–17:1070,760
+TB-1113,CakeZone,Food,2,5,Nil,9:30–17:1071,1080
+TB-1114,Fujian Express,Food,15,3,Nil,9:30–17:1072,949
+TB-1115,Indian Food,Food,28,1,Nil,9:30–17:1073,665
+TB-1116,Tandoori Paradise,Food,5,5,Nil,9:30–17:1074,537
+TB-1117,Kolkata Kathi Rolls,Food,13,2,Nil,9:30–17:1075,679
+TB-1118,Adithya,Food,2,1,Nil,9:30–17:1076,1302
+TB-1119,Cheesiano Pizza,Food,25,3,Nil,9:30–17:1077,1632
+TB-1120,Polar Bear,Food,11,2,Nil,9:30–17:1078,1409
+TB-1121,Le Arabia,Food,19,2,Nil,9:30–17:1079,1567
+TB-1122,Nati Palace,Food,23,1,Nil,9:30–17:1080,1043
+TB-1123,KFC,Food,11,3,Nil,9:30–17:1081,1560
+TB-1124,Dande's Hyderabad Biryani,Food,2,4,Nil,9:30–17:1082,1672
+TB-1125,Onesta,Food,11,5,Nil,9:30–17:1083,847
+TB-1126,,Food,20,4,Nil,9:30–17:1084,1774
+TB-1127, but the cake got mashed against each other which made the entire experience a sour one.'),Food,21,5,Nil,9:30–17:1085,573
+TB-1128,Upahara Bhavan,Food,14,4,Nil,9:30–17:1086,1650
+TB-1129,Sher-E-Punjab,Food,24,5,Nil,9:30–17:1087,1664
+TB-1130,Shuddh Desi Khana,Food,24,5,Nil,9:30–17:1088,1008
+TB-1131,Karama Restaurant,Food,28,4,Nil,9:30–17:1089,771
+TB-1132,Jaganath Hotel and Restaurant,Food,22,4,Nil,9:30–17:1090,1016
+TB-1133,Five Star Chicken,Food,7,1,Nil,9:30–17:1091,1221
+TB-1134,Sankranthi Veg Restaurant,Food,23,2,Nil,9:30–17:1092,1022
+TB-1135,Aramane Donne Biriyani,Food,24,3,Nil,9:30–17:1093,1344
+TB-1136,,Food,11,1,Nil,9:30–17:1094,1307
+TB-1137, 'RATED\n  Biryani comes with the manner one would expect: authentic style and taste. Quantity is good and quality is standard.\n\nTheir starters are worth trying especially Ghee Roast. Have tried their kabab as well and it did not disappoint me.\n\nHowever they need to work on their ambience.'),Food,28,1,Nil,9:30–17:1095,873
+TB-1138,Cafe Potpourri,Food,1,2,Nil,9:30–17:1096,862
+TB-1139,Mani's Dum Biryani,Food,2,2,Nil,9:30–17:1097,795
+TB-1140,Amontron,Food,19,3,Nil,9:30–17:1098,605
+TB-1141,A M Biryani Hotel,Food,21,1,Nil,9:30–17:1099,1036
+TB-1142,Birinz,Food,14,2,Nil,9:30–17:1100,1566
+TB-1143,,Food,10,5,Nil,9:30–17:1101,651
+TB-1144," cinnamon and bay leaves.\nAnother interesting fact about this place is that they use firewood to cook their biryani.\nI highly recommend this place for some good and affordable biryani.\nWe tried -\nPaneer Biryani\nReddy's Special Biryani\nGhonghura Biryani\nChicken biryani\nChicken shorba\nChicken Cashew Fry\nPapad chicken\nAndhra style Chicken"""")",Food,26,3,Nil,9:30–17:1102,863
+TB-1145,Just Shawarma,Food,16,3,Nil,9:30–17:1103,770
+TB-1146,Hyderabadi Bawarchi,Food,12,2,Nil,9:30–17:1104,1750
+TB-1147,,Food,26,4,Nil,9:30–17:1105,669
+TB-1148, 'RATED\n  A wide menu. Okay food. Most of the items are on the spicy side. The gravy items are poor and have too much oil. The dry veggie and non veggie starters are okay.'),Food,15,2,Nil,9:30–17:1106,1570
+TB-1149,Fish Chain,Food,22,1,Nil,9:30–17:1107,1423
+TB-1150,Prasiddhi Food Corner,Food,18,3,Nil,9:30–17:1108,1559
+TB-1151,Biriyani Bhatti,Food,27,5,Nil,9:30–17:1109,1138
+TB-1152,Hyderabad Biryaani House,Food,21,2,Nil,9:30–17:1110,608
+TB-1153,Galito's,Food,19,3,Nil,9:30–17:1111,1500
+TB-1154,,Food,30,2,Nil,9:30–17:1112,1172
+TB-1155, 'RATED\n  Another sure shot 5 ? for me!\nThis is the place you want to go if you are sick of the every day take-out menu. The number of items may be limited,Food,27,2,Nil,9:30–17:1113,768
+TB-1156,C. K. Mega Hot Food,Food,22,2,Nil,9:30–17:1114,1270
+TB-1157,Lassi Shop,Food,8,1,Nil,9:30–17:1115,1117
+TB-1158,Red Chilli Restaurant,Food,20,5,Nil,9:30–17:1116,1302
+TB-1159,RSS Donne Biryani,Food,14,4,Nil,9:30–17:1117,1422
+TB-1160,Rajdhani Thali Restaurant,Food,10,5,Nil,9:30–17:1118,821
+TB-1161,PHEW (Play Hard Eat Wild),Food,10,2,Nil,9:30–17:1119,1411
+TB-1162,New Kabab Zone,Food,19,5,Nil,9:30–17:1120,525
+TB-1163,,Food,26,1,Nil,9:30–17:1121,920
+TB-1164," which was irritating. The roomali roti felt raw. I had loose motions next morning :(\nSo I'm not coming back here."""")",Food,28,3,Nil,9:30–17:1122,576
+TB-1165,Bawarchi Paradise,Food,22,4,Nil,9:30–17:1123,1092
+TB-1166,Shree Udupi Grand,Food,15,4,Nil,9:30–17:1124,649
+TB-1167,Chicken County Grand,Food,13,3,Nil,9:30–17:1125,584
+TB-1168,Roll Over,Food,15,3,Nil,9:30–17:1126,1530
+TB-1169,Darjeeling Momos & Fast Food Center,Food,25,4,Nil,9:30–17:1127,1677
+TB-1170,Veruthe Oru Thattukada,Food,30,2,Nil,9:30–17:1128,1423
+TB-1171,Savoury - Sea Shell Restaurant,Food,9,1,Nil,9:30–17:1129,511
+TB-1172,Warm Oven,Food,25,3,Nil,9:30–17:1130,1108
+TB-1173,Firangi Bake,Food,9,2,Nil,9:30–17:1131,500
+TB-1174,Zaitoon,Food,19,1,Nil,9:30–17:1132,1310
+TB-1175,Kundana,Food,29,2,Nil,9:30–17:1133,545
+TB-1176,Food Ka Masti,Food,22,3,Nil,9:30–17:1134,1219
+TB-1177,The Shawarma Shop,Food,23,3,Nil,9:30–17:1135,1306
+TB-1178,Momo Junction,Food,16,5,Nil,9:30–17:1136,751
+TB-1179,Antilla Aromas,Food,28,4,Nil,9:30–17:1137,770
+TB-1180,Faasos,Food,22,1,Nil,9:30–17:1138,613
+TB-1181,Punjabi Food Corner,Food,14,1,Nil,9:30–17:1139,1002
+TB-1182,Mealer.in,Food,6,2,Nil,9:30–17:1140,865
+TB-1183,Pathaan Sir,Food,2,1,Nil,9:30–17:1141,948
+TB-1184,Cold Stone Creamery,Food,27,5,Nil,9:30–17:1142,1696
+TB-1185,Hari Super Sandwich,Food,15,1,Nil,9:30–17:1143,539
+TB-1186,Amritsari Kulcha Land,Food,19,5,Nil,9:30–17:1144,541
+TB-1187,Chokha Chowka,Food,29,1,Nil,9:30–17:1145,678
+TB-1188,Gorbandh,Food,22,1,Nil,9:30–17:1146,1336
+TB-1189,Grills & Rolls,Food,18,2,Nil,9:30–17:1147,662
+TB-1190,Bathinda Junction,Food,28,1,Nil,9:30–17:1148,624
+TB-1191,Stories,Food,10,3,Nil,9:30–17:1149,840
+TB-1192,,Food,6,3,Nil,9:30–17:1150,628
+TB-1193, better and spacious. Jp nagar one Is too congested,Food,26,5,Nil,9:30–17:1151,1046
+TB-1194,New Gongura's,Food,10,5,Nil,9:30–17:1152,1085
+TB-1195,Sagar Grand,Food,23,1,Nil,9:30–17:1153,1263
+TB-1196,Kanti Sweets,Food,14,3,Nil,9:30–17:1154,569
+TB-1197,UBQ By Barbeque Nation,Food,30,4,Nil,9:30–17:1155,783
+TB-1198,Agarwal Food Service,Food,2,3,Nil,9:30–17:1156,512
+TB-1199,Daniyal's,Food,23,2,Nil,9:30–17:1157,1167
+TB-1200,Seasons,Food,26,2,Nil,9:30–17:1158,1465
+TB-1201,Chef Delicacies,Food,19,4,Nil,9:30–17:1159,1457
+TB-1202,Chung Wah,Food,28,4,Nil,9:30–17:1160,545
+TB-1203,Indiana Burgers,Food,15,2,Nil,9:30–17:1161,1397
+TB-1204,Moksha,Food,4,5,Nil,9:30–17:1162,1620
+TB-1205,Marwa Restaurant,Food,17,1,Nil,9:30–17:1163,1424
+TB-1206,Chaatimes,Food,29,4,Nil,9:30–17:1164,861
+TB-1207,Shanghai Court,Food,3,3,Nil,9:30–17:1165,1516
+TB-1208,Akshaya Donne Biriyani,Food,6,4,Nil,9:30–17:1166,867
+TB-1209,Sweet Truth,Food,18,3,Nil,9:30–17:1167,1433
+TB-1210,Bhojohori Manna,Food,26,4,Nil,9:30–17:1168,997
+TB-1211,Richie Rich,Food,8,3,Nil,9:30–17:1169,1762
+TB-1212,Hunger Bee,Food,3,3,Nil,9:30–17:1170,722
+TB-1213,Yum In My Tum,Food,28,3,Nil,9:30–17:1171,1552
+TB-1214,Maggi N Maggi House,Food,0,5,Nil,9:30–17:1172,849
+TB-1215,Fresh Dinner,Food,23,3,Nil,9:30–17:1173,1478
+TB-1216,B.M.W Bhookh Mitaane Wala,Food,29,1,Nil,9:30–17:1174,1685
+TB-1217,Biryani Miya,Food,23,2,Nil,9:30–17:1175,1764
+TB-1218,Krispy Kreme,Food,3,1,Nil,9:30–17:1176,821
+TB-1219,Paani Kum Chai,Food,28,5,Nil,9:30–17:1177,704
+TB-1220,Chulha Chauki Da Dhaba,Food,27,3,Nil,9:30–17:1178,698
+TB-1221,Hotel Brundavan,Food,1,1,Nil,9:30–17:1179,1787
+TB-1222,SGS Non Veg - Gundu Pulav,Food,8,5,Nil,9:30–17:1180,1057
+TB-1223,Dreamcatcher,Food,17,1,Nil,9:30–17:1181,1769
+TB-1224,Magix's Parattha Roll,Food,10,1,Nil,9:30–17:1182,1738
+TB-1225,,Food,14,2,Nil,9:30–17:1183,1617
+TB-1226, 'RATED\n  Magix was just a road side roll corner,Food,11,2,Nil,9:30–17:1184,1747
+TB-1227,Elegant Dining,Food,16,2,Nil,9:30–17:1185,1610
+TB-1228,AlienSip,Food,0,3,Nil,9:30–17:1186,1286
+TB-1229,Masale Daan,Food,25,1,Nil,9:30–17:1187,796
+TB-1230,Waffle Head,Food,1,2,Nil,9:30–17:1188,1202
+TB-1231,Samruddhi Biryani,Food,22,2,Nil,9:30–17:1189,1169
+TB-1232,Ande Ka Funda,Food,28,4,Nil,9:30–17:1190,759
+TB-1233,Basmati Delights,Food,26,2,Nil,9:30–17:1191,1763
+TB-1234,Charlee's Chicken,Food,27,2,Nil,9:30–17:1192,771
+TB-1235,Samosa Singh,Food,1,1,Nil,9:30–17:1193,1024
+TB-1236,Cravings,Food,24,2,Nil,9:30–17:1194,897
+TB-1237,Nagas,Food,16,4,Nil,9:30–17:1195,790
+TB-1238,Thalassery Restaurant,Food,5,3,Nil,9:30–17:1196,1375
+TB-1239,Matka,Food,19,3,Nil,9:30–17:1197,558
+TB-1240,Punjabi Swag,Food,21,1,Nil,9:30–17:1198,1035
+TB-1241,Taco Bell,Food,2,2,Nil,9:30–17:1199,1173
+TB-1242,Ambur Star Dum Biryani,Food,24,5,Nil,9:30–17:1200,536
+TB-1243,Ahmed's Little Hut,Food,19,4,Nil,9:30–17:1201,897
+TB-1244,Mother's Rasoi,Food,26,1,Nil,9:30–17:1202,1252
+TB-1245,Dosa Bazaar,Food,28,4,Nil,9:30–17:1203,1135
+TB-1246,Babu Moshai,Food,6,3,Nil,9:30–17:1204,1229
+TB-1247,The Bong Palate,Food,10,2,Nil,9:30–17:1205,1437
+TB-1248,Gowdru Mane Oota,Food,27,5,Nil,9:30–17:1206,1272
+TB-1249,Banashankari Nati Style,Food,11,5,Nil,9:30–17:1207,1237
+TB-1250,Upahara Darshini,Food,10,3,Nil,9:30–17:1208,1361
+TB-1251,Chandrima's Kitchen,Food,10,4,Nil,9:30–17:1209,996
+TB-1252,Keventers,Food,15,1,Nil,9:30–17:1210,1660
+TB-1253,Bikaner Jn,Food,15,5,Nil,9:30–17:1211,1485
+TB-1254,Crunch Pizzas,Food,25,1,Nil,9:30–17:1212,1594
+TB-1255,,Food,18,5,Nil,9:30–17:1213,1202
+TB-1256, 'RATED\n  We ordered a small Margherita pizza with extra sauce and mushrooms. It come with fresh mozzarella cheese chunks all over the pizza and the crust is crispy and moist. I loved it! We ended up finishing up the whole pizza. Can you say fatty? Burp! It was worth every last calorie.'),Food,21,5,Nil,9:30–17:1214,1156
+TB-1257,Slurpy Shakes,Food,28,5,Nil,9:30–17:1215,1571
+TB-1258,Lassi Berg,Food,9,4,Nil,9:30–17:1216,1021
+TB-1259,Kakal-Kai Ruchi,Food,7,3,Nil,9:30–17:1217,1155
+TB-1260,Manchu Cafe,Food,12,1,Nil,9:30–17:1218,887
+TB-1261,Calorie Express,Food,30,5,Nil,9:30–17:1219,588
+TB-1262,Thalis Of India,Food,14,1,Nil,9:30–17:1220,1024
+TB-1263,BANGALORE BOX,Food,17,2,Nil,9:30–17:1221,888
+TB-1264,Yummy Momos,Food,13,3,Nil,9:30–17:1222,1275
+TB-1265,Hotel Khaaja,Food,22,5,Nil,9:30–17:1223,1492
+TB-1266,The Gujarat Express,Food,13,3,Nil,9:30–17:1224,1612
+TB-1267,Ovenstory Pizza,Food,7,3,Nil,9:30–17:1225,942
+TB-1268,Slate Cafe,Food,27,3,Nil,9:30–17:1226,1297
+TB-1269,Vishal Foods,Food,25,5,Nil,9:30–17:1227,764
+TB-1270,Lassi Darbar,Food,11,1,Nil,9:30–17:1228,553
+TB-1271,Chavadi,Food,22,5,Nil,9:30–17:1229,599
+TB-1272,Nanna Munna Paratha House,Food,12,2,Nil,9:30–17:1230,520
+TB-1273,Cucumber Town,Food,22,2,Nil,9:30–17:1231,989
+TB-1274,Sri Sai 99 Variety Dosa,Food,12,1,Nil,9:30–17:1232,1489
+TB-1275,Artinci Artisanal Ice Cream,Food,1,1,Nil,9:30–17:1233,1318
+TB-1276,Oye Amritsar,Food,7,2,Nil,9:30–17:1234,509
+TB-1277,Kolkata Famous Kati Roll,Food,8,1,Nil,9:30–17:1235,1027
+TB-1278,Nellore Ruchulu,Food,15,1,Nil,9:30–17:1236,1359
+TB-1279,Brewsky,Food,18,5,Nil,9:30–17:1237,752
+TB-1280,Chefeana,Food,0,5,Nil,9:30–17:1238,1743
+TB-1281,Bangaliana,Food,10,2,Nil,9:30–17:1239,983
+TB-1282,Gud Dhani,Food,14,5,Nil,9:30–17:1240,1618
+TB-1283,The Hunger Room,Food,2,3,Nil,9:30–17:1241,1003
+TB-1284,McDonald's,Food,21,3,Nil,9:30–17:1242,553
+TB-1285,Parisar Veg Restaurant,Food,23,4,Nil,9:30–17:1243,1117
+TB-1286,WAFL,Food,30,4,Nil,9:30–17:1244,754
+TB-1287,Deejas Kitchen,Food,27,3,Nil,9:30–17:1245,1369
+TB-1288,Pancuzzi,Food,1,4,Nil,9:30–17:1246,955
+TB-1289,Totus,Food,2,2,Nil,9:30–17:1247,1525
+TB-1290,Zhang's - Chinese Restaurant,Food,19,2,Nil,9:30–17:1248,1705
+TB-1291,Shagun Sweets & Foods,Food,5,5,Nil,9:30–17:1249,1586
+TB-1292,Eat Well,Food,5,2,Nil,9:30–17:1250,1112
+TB-1293,Dev's Gugababa,Food,23,5,Nil,9:30–17:1251,969
+TB-1294,Oogway Express,Food,0,4,Nil,9:30–17:1252,1597
+TB-1295,Domino's Pizza,Food,26,3,Nil,9:30–17:1253,1286
+TB-1296,,Food,4,2,Nil,9:30–17:1254,1244
+TB-1297, ('Rated 4.0',Food,28,3,Nil,9:30–17:1255,966
+TB-1298,Pizza Stop,Food,19,5,Nil,9:30–17:1256,1172
+TB-1299,Balaji Bombay Vada Pav Gujrati Dalebi,Food,22,5,Nil,9:30–17:1257,506
+TB-1300,The Cake Ville,Food,10,2,Nil,9:30–17:1258,1288
+TB-1301,The Egg Factory,Food,12,4,Nil,9:30–17:1259,1534
+TB-1302,Chow San,Food,29,4,Nil,9:30–17:1260,1239
+TB-1303,,Food,17,4,Nil,9:30–17:1261,1275
+TB-1304, ('Rated 1.0',Food,24,4,Nil,9:30–17:1262,1625
+TB-1305,New Udupi Grand,Food,14,2,Nil,9:30–17:1263,746
+TB-1306,New Karawali Lunch Home,Food,11,3,Nil,9:30–17:1264,1025
+TB-1307,SR Choco Station,Food,2,4,Nil,9:30–17:1265,1466
+TB-1308,Bangalore Pantry,Food,2,1,Nil,9:30–17:1266,516
+TB-1309,Momo Jojo,Food,18,1,Nil,9:30–17:1267,593
+TB-1310,Pizza Palace,Food,11,1,Nil,9:30–17:1268,985
+TB-1311,Simply Indian,Food,28,4,Nil,9:30–17:1269,530
+TB-1312,Delhi Biryani Cafe,Food,1,3,Nil,9:30–17:1270,1192
+TB-1313,Rithika's Kitchen,Food,28,3,Nil,9:30–17:1271,1519
+TB-1314,Punjabi Times,Food,13,1,Nil,9:30–17:1272,1311
+TB-1315,Tarbouche,Food,17,4,Nil,9:30–17:1273,1488
+TB-1316,Omleterian,Food,2,4,Nil,9:30–17:1274,1121
+TB-1317,Chai Point,Food,18,4,Nil,9:30–17:1275,1096
+TB-1318,Cafe Coffee Day,Food,30,1,Nil,9:30–17:1276,969
+TB-1319,Cravy Wings,Food,21,4,Nil,9:30–17:1277,1766
+TB-1320,Funky Punjab,Food,19,2,Nil,9:30–17:1278,1527
+TB-1321,A1 Garam Masala,Food,10,3,Nil,9:30–17:1279,999
+TB-1322,Punjabi Corner,Food,1,3,Nil,9:30–17:1280,1646
+TB-1323,Guru Palace,Food,10,4,Nil,9:30–17:1281,1514
+TB-1324,#refuel,Food,19,2,Nil,9:30–17:1282,1418
+TB-1325,Biggies Burger 'n' More,Food,23,4,Nil,9:30–17:1283,822
+TB-1326,Zeeshan,Food,27,5,Nil,9:30–17:1284,648
+TB-1327,Ambara Gardenia,Food,10,4,Nil,9:30–17:1285,729
+TB-1328,LayerBite,Food,10,4,Nil,9:30–17:1286,612
+TB-1329,Five Star Chicken,Food,9,2,Nil,9:30–17:1287,1450
+TB-1330,Bhavani Chats,Food,17,5,Nil,9:30–17:1288,1696
+TB-1331,Tandoor Chai House,Food,4,4,Nil,9:30–17:1289,990
+TB-1332,Shawarma Inc,Food,5,2,Nil,9:30–17:1290,1211
+TB-1333,More Pizza,Food,27,4,Nil,9:30–17:1291,1332
+TB-1334,Appana Restaurant,Food,10,2,Nil,9:30–17:1292,844
+TB-1335,Butterly,Food,29,4,Nil,9:30–17:1293,1073
+TB-1336,Crafted Plate,Food,18,3,Nil,9:30–17:1294,1737
+TB-1337,Shetty's Kitchen,Food,27,4,Nil,9:30–17:1295,880
+TB-1338,Machali Port,Food,0,5,Nil,9:30–17:1296,1766
+TB-1339,Naati Manae,Food,0,4,Nil,9:30–17:1297,1638
+TB-1340,Bottle Genie,Food,16,4,Nil,9:30–17:1298,611
+TB-1341,Mad Over Biryani,Food,8,2,Nil,9:30–17:1299,1117
+TB-1342,Garma Garam,Food,0,4,Nil,9:30–17:1300,1040
+TB-1343,Sambram Biriyani Paradise,Food,2,5,Nil,9:30–17:1301,1131
+TB-1344,Mr. Meetharam,Food,3,3,Nil,9:30–17:1302,534
+TB-1345,The Coastal Crew by Fujian on 24th,Food,17,2,Nil,9:30–17:1303,1753
+TB-1346,BIB - Breakfast in the Box,Food,7,3,Nil,9:30–17:1304,1670
+TB-1347,Angel Restaurant,Food,21,2,Nil,9:30–17:1305,1759
+TB-1348,Wow Momo,Food,18,3,Nil,9:30–17:1306,1367
+TB-1349,Pizza Da Dhaba,Food,22,1,Nil,9:30–17:1307,1584
+TB-1350,Kalpavruksha,Food,30,3,Nil,9:30–17:1308,1615
+TB-1351,Innerchef,Food,10,3,Nil,9:30–17:1309,1279
+TB-1352,Juice Land,Food,17,1,Nil,9:30–17:1310,589
+TB-1353,Bombay Sandwich Company,Food,14,5,Nil,9:30–17:1311,1580

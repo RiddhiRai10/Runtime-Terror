@@ -1,0 +1,1354 @@
+﻿Place_id,Title,Category,Distance,Rating,Price,Timing,Closed
+TD-1,Red Fort,Heritage,4,3.57,1186,10:00-17:30,Monday
+TD-2,Qutub Minar,Heritage,4,3.52,748,8:00-18:00,Nil
+TD-3,Humayun's Tomb,Heritage,15,3.59,782,10:00-18:30,Nil
+TD-4,Jantar Mantar,Heritage,8,4.28,550,10:00-17:30,Nil
+TD-5,Akshardham Temple / Swaminarayan Temple,Heritage,3,3.57,1070,6:00-18:00,Thursday
+TD-6,Lotus Temple / Bahai Temple,Heritage,10,3.97,1065,11:00-18:00,Monday
+TD-7,Jama Masjid,Heritage,10,4.43,646,6:00-20:00,Wednesday
+TD-8,Raj Ghat,Pilgrimage,15,3.47,1149,10:00-17:00,Monday
+TD-9,Safdarjung Tomb,Heritage,3,3.7,975,9:00-17:00,"Saturday,Sunday"
+TD-10,India Gate,Heritage,5,4.86,1034,7:00-18:00,Nil
+TD-11,Dargah Hazrat Nizamuddin,Heritage,7,3.67,731,00:00-11:59,Nil
+TD-12,Lodi Garden,Heritage,7,4.77,872,9:00-17:30,Nil
+TD-13,Birla Mandir / Laksminarayan Temple,Heritage,4,3.32,871,6:00-20:00,Friday
+TD-14,Aadya Katyayani Shakti Peeth Mandir - Chhatarpur,Heritage,3,3.69,1188,10:00-17:00,Monday
+TD-15,ISKON Temple,Heritage,6,4.93,717,10:00-17:00,Sunday
+TD-16,National Museum,Pilgrimage,4,4.42,967,11:00-18:00,Nil
+TD-17,Mehrauli Archaeological Park,Pilgrimage,4,4.3,926,11:00-22:00,Nil
+TD-18,National Zoological Park,Pilgrimage,4,3.75,629,4:15–5:15,Nil
+TD-19,National Museum Of Natural History,Pilgrimage,15,4.33,623,10:00-19:00,Nil
+TD-20,National Science Centre,Museum,4,4.01,767,10:00-17:30,Monday
+TD-21,National Gallery Of Modern Art,Heritage,17,4.08,533,9:00-16:30,Nil
+TD-22,Alai Minar,Heritage,17,3.42,934,9:30–21:00,Tuesday
+TD-23,Alai Darwaza,Wildlife,7,3.55,819,11:00-21:00,Nil
+TD-24,Alauddin Khilji Tomb And Madrasa,Museum,3,4.58,520,10:00-22:00,Nil
+TD-25,Tomb Of Iltutmish,Museum,6,4.75,507,11:00-19:00,Nil
+TD-26,Isa Khan's Tomb And Mosque,Museum,5,4.2,1068,9:30-18:00,Nil
+TD-27,Chausath Khamba / Chaunsath Khamba,Museum,5,3.16,1187,11:00-21:00,Nil
+TD-28,Barakhamba,Heritage,15,3.63,1095,11:00-21:00,Nil
+TD-29,Old Fort / Purana Qila,Heritage,15,4.37,712,11:00-21:00,Nil
+TD-30,Tughlaqabad Fort,Heritage,15,3.8,1132,11:00-21:00,Nil
+TD-31,Jahaz Mahal,Heritage,15,3.6,651,11:00-21:00,Nil
+TD-32,Sri Digambar Jain Lal Temple / Lal Mandir,Heritage,15,4.8,1021,11:00-21:00,Nil
+TD-33,Mughal Garden,Heritage,8,4.81,1100,11:00-21:00,Nil
+TD-34,Iron Pillar,Heritage,8,4.34,701,11:00-21:00,Nil
+TD-35,"Ambience Mall, Vasant Kunj",Heritage,7,3.97,679,11:00-21:00,Nil
+TD-36,Vegas Mall,Shopping,5,4.995716092,955,11:00-21:00,Nil
+TD-37,"Parsvnath Mall, Azadpur",Shopping,6,4.751450596,1414,11:00-21:00,Nil
+TD-38,Select Citywalk,Shopping,7,4.66351272,1251,11:00-21:00,Nil
+TD-39,"Pacific Mall, Tagore Garden",Shopping,8,4.23645339,1655,11:00-21:00,Nil
+TD-40,Moments Mall,Shopping,9,4.16625615,863,11:00-21:00,Nil
+TD-41,DLF Avenue (Formerly DLF Place),Shopping,19,4.285807198,1297,11:00-21:00,Nil
+TD-42,"Unity One, Janakpuri",Shopping,2,4.511554563,1178,9:30–17:00,Nil
+TD-43,DLF Promenade,Shopping,16,4.15624194,758,9:30–17:01,Nil
+TD-44,MGF City Square,Shopping,4,4.508914224,1654,9:30–17:02,Nil
+TD-45,"Unity One, Rohini",Shopping,22,4.981996033,1077,9:30–17:03,Nil
+TD-46,"Ambience Mall, Rohini",Shopping,17,4.745706602,1608,9:30–17:04,Nil
+TD-47,"D Mall, Pitampura",Shopping,12,4.464591542,982,9:30–17:05,Nil
+TD-48,DLF Emporio,Shopping,6,4.473855472,1305,9:30–17:06,Nil
+TD-49,"D Mall, Rohini",Shopping,15,4.832517172,826,9:30–17:07,Nil
+TD-50,V3S East Centre Mall,Shopping,10,4.130189445,1026,9:30–17:08,Nil
+TD-51,WorldMark (The Walk),Shopping,4,4.070745697,1276,9:30–17:09,Nil
+TD-52,Pacific D21 Mall,Shopping,14,4.368723354,809,9:30–17:10,Nil
+TD-53,"Parsvnath Mall, Akshardham",Shopping,14,4.626899624,678,9:30–17:11,Nil
+TD-54,"DT City Centre, Delhi",Shopping,25,4.450879494,889,9:30–17:12,Nil
+TD-55,Cross River Mall,Shopping,1,4.371641515,1463,9:30–17:13,Nil
+TD-56,Vasant Square Mall,Shopping,3,4.909895471,1209,9:30–17:14,Nil
+TD-57,Metro Walk,Shopping,16,4.46670648,1155,9:30–17:15,Nil
+TD-58,"Parsvnath Mall, Netaji Subhash Place",Shopping,22,4.828021179,1536,9:30–17:16,Nil
+TD-59,"MGF Metropolitan Mall, Delhi",Shopping,24,4.050251324,753,9:30–17:17,Nil
+TD-60,"Aggarwal City Mall, Pitampura",Shopping,17,4.748086571,1489,9:30–17:18,Nil
+TD-61,"City Centre, Rohini",Shopping,13,4.204815826,1656,9:30–17:19,Nil
+TD-62,North Gate Orbit Plaza,Shopping,8,4.800372774,800,9:30–17:20,Nil
+TD-63,"City Centre, Dwarka",Shopping,4,4.250767661,1178,9:30–17:21,Nil
+TD-64,The Chanakya Mall,Shopping,15,4.266569141,548,9:30–17:22,Nil
+TD-65,"Ansal Plaza, Delhi",Shopping,18,4.97199465,1297,9:30–17:23,Nil
+TD-66,JMD Kohinoor Mall,Shopping,11,4.14587736,1378,9:30–17:24,Nil
+TD-67,Kings Mall,Shopping,14,4.210039425,1187,9:30–17:25,Nil
+TD-68,"Westend Mall, Delhi",Shopping,23,4.957185533,1147,9:30–17:26,Nil
+TD-69,"Parsvnath Mall, Inderlok",Shopping,17,4.081054977,624,9:30–17:27,Nil
+TD-70,North Square Mall,Shopping,7,4.673132241,683,9:30–17:28,Nil
+TD-71,"Unity One Mall, CBD, Shahdara (Formerly Aggarwal Funcity Mall)",Shopping,3,4.528379166,1066,9:30–17:29,Nil
+TD-72,"D Mall, Paschim Vihar",Shopping,5,4.368401501,1137,9:30–17:30,Nil
+TD-73,Aditya Mega Mall,Shopping,13,4.985323394,1510,9:30–17:31,Nil
+TD-74,TDI Paragon Mall,Shopping,0,4.296620463,1050,9:30–17:32,Nil
+TD-75,Dum-Pukht - ITC Maurya,,11,4.472751546,526,9:30–17:33,Nil
+TD-76,Burma Burma,Food,2,4.742558443,642,9:30–17:34,Nil
+TD-77,The Big Chill,Food,10,4.098463918,871,9:30–17:35,Nil
+TD-78,Carnatic Cafe,Food,19,4.243376161,994,9:30–17:36,Nil
+TD-79,"Cocktails & Dreams, Speakeasy",Food,3,4.84596818,589,9:30–17:37,Nil
+TD-80,Natural Ice Cream,Food,22,4.693678352,1319,9:30–17:38,Nil
+TD-81,Kuremal Mohan Lal Kulfi Wale,Food,20,4.361684268,601,9:30–17:39,Nil
+TD-82,Juggernaut,Food,21,4.375144693,773,9:30–17:40,Nil
+TD-83,Comorin,Food,15,4.37118814,1674,9:30–17:41,Nil
+TD-84,Viet:Nom,Food,6,4.188372417,840,9:30–17:42,Nil
+TD-85,Cafeteria & Co.,Food,25,4.945864561,1612,9:30–17:43,Nil
+TD-86,Sana-Di-Ge,Food,25,4.272018012,1506,9:30–17:44,Nil
+TD-87,Pa Pa Ya,Food,2,4.579808452,1212,9:30–17:45,Nil
+TD-88,Yum Yum Cha,Food,6,4.857071922,1288,9:30–17:46,Nil
+TD-89,Coast Cafe,Food,17,4.389262842,1153,9:30–17:47,Nil
+TD-90,PizzaExpress,Food,15,4.652677646,1374,9:30–17:48,Nil
+TD-91,The Big Chill Cakery,Food,4,4.452946947,880,9:30–17:49,Nil
+TD-92,Music & Mountains - Hillside Cafe,Food,2,4.825292269,634,9:30–17:50,Nil
+TD-93,Gulati,Food,21,4.724347113,1033,9:30–17:51,Nil
+TD-94,Olive Bar & Kitchen,Food,17,4.710934082,916,9:30–17:52,Nil
+TD-95,The Grammar Room,Food,20,4.812881355,513,9:30–17:53,Nil
+TD-96,Chaina Ram Sindhi Confectioners,Food,19,4.602725583,702,9:30–17:54,Nil
+TD-97,Sevilla - The Claridges,Food,21,4.385075813,635,9:30–17:55,Nil
+TD-98,Bo Tai,Food,24,4.544679294,584,9:30–17:56,Nil
+TD-99,Cafe Wink,Food,9,4.280328925,1082,9:30–17:57,Nil
+TD-100,Dum-Pukht - ITC Maurya,Food,21,4.996944404,1463,9:30–17:58,Nil
+TD-101,Burma Burma,Food,18,4.195528035,1349,9:30–17:59,Nil
+TD-102,The Big Chill,Food,24,4.338718604,807,9:30–17:60,Nil
+TD-103,Carnatic Cafe,Food,17,4.261695673,1608,9:30–17:61,Nil
+TD-104,"Cocktails & Dreams, Speakeasy",Food,5,4.027182045,1283,9:30–17:62,Nil
+TD-105,Natural Ice Cream,Food,14,4.86030444,767,9:30–17:63,Nil
+TD-106,Kuremal Mohan Lal Kulfi Wale,Food,17,4.368200063,1012,9:30–17:64,Nil
+TD-107,Juggernaut,Food,18,4.967286895,720,9:30–17:65,Nil
+TD-108,Comorin,Food,12,4.02057656,1164,9:30–17:66,Nil
+TD-109,Viet:Nom,Food,5,4.047138163,936,9:30–17:67,Nil
+TD-110,Cafeteria & Co.,Food,21,4.928223193,504,9:30–17:68,Nil
+TD-111,Sana-Di-Ge,Food,9,4.620522136,1099,9:30–17:69,Nil
+TD-112,Pa Pa Ya,Food,5,4.931911157,528,9:30–17:70,Nil
+TD-113,Yum Yum Cha,Food,19,4.161983906,1099,9:30–17:71,Nil
+TD-114,Coast Cafe,Food,23,4.265006807,1627,9:30–17:72,Nil
+TD-115,PizzaExpress,Food,0,4.831170763,880,9:30–17:73,Nil
+TD-116,The Big Chill Cakery,Food,17,4.576960317,840,9:30–17:74,Nil
+TD-117,Music & Mountains - Hillside Cafe,Food,16,4.158567323,621,9:30–17:75,Nil
+TD-118,Gulati,Food,3,4.945375473,767,9:30–17:76,Nil
+TD-119,Olive Bar & Kitchen,Food,24,4.949448808,874,9:30–17:77,Nil
+TD-120,The Grammar Room,Food,5,4.699454729,810,9:30–17:78,Nil
+TD-121,Chaina Ram Sindhi Confectioners,Food,4,4.606420645,1457,9:30–17:79,Nil
+TD-122,Sevilla - The Claridges,Food,3,4.185647466,967,9:30–17:80,Nil
+TD-123,Bo Tai,Food,2,4.2177152,1565,9:30–17:81,Nil
+TD-124,Cafe Wink,Food,20,4.275239342,532,9:30–17:82,Nil
+TD-125,Dum-Pukht - ITC Maurya,Food,1,4.166475724,1508,9:30–17:83,Nil
+TD-126,Burma Burma,Food,21,4.603557466,1587,9:30–17:84,Nil
+TD-127,The Big Chill,Food,23,4.608539518,1061,9:30–17:85,Nil
+TD-128,Carnatic Cafe,Food,6,4.936685043,1633,9:30–17:86,Nil
+TD-129,"Cocktails & Dreams, Speakeasy",Food,16,4.170677298,544,9:30–17:87,Nil
+TD-130,Natural Ice Cream,Food,10,4.867447877,891,9:30–17:88,Nil
+TD-131,Kuremal Mohan Lal Kulfi Wale,Food,18,4.262457505,1468,9:30–17:89,Nil
+TD-132,Juggernaut,Food,7,4.615056368,584,9:30–17:90,Nil
+TD-133,Comorin,Food,14,4.393920427,690,9:30–17:91,Nil
+TD-134,Viet:Nom,Food,9,4.808975349,771,9:30–17:92,Nil
+TD-135,Cafeteria & Co.,Food,20,4.58700725,1469,9:30–17:93,Nil
+TD-136,Sana-Di-Ge,Food,21,4.884250259,1274,9:30–17:94,Nil
+TD-137,Pa Pa Ya,Food,24,4.558993435,1595,9:30–17:95,Nil
+TD-138,Yum Yum Cha,Food,12,4.901058607,1209,9:30–17:96,Nil
+TD-139,Coast Cafe,Food,12,4.122918274,505,9:30–17:97,Nil
+TD-140,PizzaExpress,Food,13,4.334721961,844,9:30–17:98,Nil
+TD-141,The Big Chill Cakery,Food,9,4.689352244,1187,9:30–17:99,Nil
+TD-142,Music & Mountains - Hillside Cafe,Food,1,4.354242128,1365,9:30–17:100,Nil
+TD-143,Gulati,Food,23,4.634492469,882,9:30–17:101,Nil
+TD-144,Olive Bar & Kitchen,Food,11,4.137603218,1317,9:30–17:102,Nil
+TD-145,The Grammar Room,Food,17,4.673181622,1595,9:30–17:103,Nil
+TD-146,Chaina Ram Sindhi Confectioners,Food,10,4.152339356,1128,9:30–17:104,Nil
+TD-147,Sevilla - The Claridges,Food,0,4.266173463,742,9:30–17:105,Nil
+TD-148,Bo Tai,Food,0,4.891618977,1395,9:30–17:106,Nil
+TD-149,Cafe Wink,Food,25,4.625641866,1384,9:30–17:107,Nil
+TD-150,Dum-Pukht - ITC Maurya,Food,13,4.220176996,1514,9:30–17:108,Nil
+TD-151,Burma Burma,Food,23,4.944894061,1069,9:30–17:109,Nil
+TD-152,The Big Chill,Food,17,4.31715526,955,9:30–17:110,Nil
+TD-153,Carnatic Cafe,Food,20,4.833516756,932,9:30–17:111,Nil
+TD-154,"Cocktails & Dreams, Speakeasy",Food,19,4.528501273,1161,9:30–17:112,Nil
+TD-155,Natural Ice Cream,Food,3,4.977173362,1381,9:30–17:113,Nil
+TD-156,Kuremal Mohan Lal Kulfi Wale,Food,15,4.814351837,1696,9:30–17:114,Nil
+TD-157,Juggernaut,Food,9,4.032146456,1165,9:30–17:115,Nil
+TD-158,Comorin,Food,14,4.175708302,1024,9:30–17:116,Nil
+TD-159,Viet:Nom,Food,7,4.820602339,818,9:30–17:117,Nil
+TD-160,Cafeteria & Co.,Food,25,4.395604297,1472,9:30–17:118,Nil
+TD-161,Sana-Di-Ge,Food,2,4.566128297,1690,9:30–17:119,Nil
+TD-162,Pa Pa Ya,Food,19,4.924934911,1197,9:30–17:120,Nil
+TD-163,Yum Yum Cha,Food,17,4.749886229,1109,9:30–17:121,Nil
+TD-164,Coast Cafe,Food,14,4.54165681,1647,9:30–17:122,Nil
+TD-165,PizzaExpress,Food,3,4.145362862,1488,9:30–17:123,Nil
+TD-166,The Big Chill Cakery,Food,21,4.344811986,1283,9:30–17:124,Nil
+TD-167,Music & Mountains - Hillside Cafe,Food,15,4.910830821,710,9:30–17:125,Nil
+TD-168,Gulati,Food,14,4.482719943,719,9:30–17:126,Nil
+TD-169,Olive Bar & Kitchen,Food,19,4.132080599,1259,9:30–17:127,Nil
+TD-170,The Grammar Room,Food,10,4.838388993,974,9:30–17:128,Nil
+TD-171,Chaina Ram Sindhi Confectioners,Food,20,4.200264756,1236,9:30–17:129,Nil
+TD-172,Sevilla - The Claridges,Food,17,4.669297846,1116,9:30–17:130,Nil
+TD-173,Bo Tai,Food,1,4.781542669,904,9:30–17:131,Nil
+TD-174,Cafe Wink,Food,11,4.40446399,1122,9:30–17:132,Nil
+TD-175,Dum-Pukht - ITC Maurya,Food,21,4.143981149,1077,9:30–17:133,Nil
+TD-176,Burma Burma,Food,17,4.965368517,1697,9:30–17:134,Nil
+TD-177,The Big Chill,Food,17,4.373422463,1696,9:30–17:135,Nil
+TD-178,Carnatic Cafe,Food,20,4.678545302,1139,9:30–17:136,Nil
+TD-179,"Cocktails & Dreams, Speakeasy",Food,5,4.37893689,920,9:30–17:137,Nil
+TD-180,Natural Ice Cream,Food,6,4.246178349,1642,9:30–17:138,Nil
+TD-181,Kuremal Mohan Lal Kulfi Wale,Food,2,4.308772492,855,9:30–17:139,Nil
+TD-182,Juggernaut,Food,10,4.95233063,851,9:30–17:140,Nil
+TD-183,Comorin,Food,17,4.684195362,785,9:30–17:141,Nil
+TD-184,Viet:Nom,Food,5,4.572316773,1484,9:30–17:142,Nil
+TD-185,Cafeteria & Co.,Food,13,4.695826437,620,9:30–17:143,Nil
+TD-186,Sana-Di-Ge,Food,18,4.233400831,1190,9:30–17:144,Nil
+TD-187,Pa Pa Ya,Food,22,4.235843564,1199,9:30–17:145,Nil
+TD-188,Yum Yum Cha,Food,15,4.921707486,1141,9:30–17:146,Nil
+TD-189,Coast Cafe,Food,25,4.872548913,1218,9:30–17:147,Nil
+TD-190,PizzaExpress,Food,8,4.955152131,1644,9:30–17:148,Nil
+TD-191,The Big Chill Cakery,Food,13,4.051052555,1341,9:30–17:149,Nil
+TD-192,Music & Mountains - Hillside Cafe,Food,19,4.304793401,654,9:30–17:150,Nil
+TD-193,Gulati,Food,14,4.782361945,821,9:30–17:151,Nil
+TD-194,Olive Bar & Kitchen,Food,25,4.820321179,697,9:30–17:152,Nil
+TD-195,The Grammar Room,Food,2,4.677509489,632,9:30–17:153,Nil
+TD-196,Chaina Ram Sindhi Confectioners,Food,20,4.911030777,1571,9:30–17:154,Nil
+TD-197,Sevilla - The Claridges,Food,10,4.057582151,1277,9:30–17:155,Nil
+TD-198,Bo Tai,Food,15,4.364853664,1634,9:30–17:156,Nil
+TD-199,Cafe Wink,Food,10,4.220007791,766,9:30–17:157,Nil
+TD-200,Dum-Pukht - ITC Maurya,Food,15,4.657930206,710,9:30–17:158,Nil
+TD-201,Burma Burma,Food,22,4.724219647,1623,9:30–17:159,Nil
+TD-202,The Big Chill,Food,1,4.87451728,1066,9:30–17:160,Nil
+TD-203,Carnatic Cafe,Food,8,4.402242532,978,9:30–17:161,Nil
+TD-204,"Cocktails & Dreams, Speakeasy",Food,7,4.840377236,693,9:30–17:162,Nil
+TD-205,Natural Ice Cream,Food,13,4.089531367,878,9:30–17:163,Nil
+TD-206,Kuremal Mohan Lal Kulfi Wale,Food,11,4.357846078,504,9:30–17:164,Nil
+TD-207,Juggernaut,Food,16,4.965583751,1186,9:30–17:165,Nil
+TD-208,Comorin,Food,16,4.823641002,1202,9:30–17:166,Nil
+TD-209,Viet:Nom,Food,23,4.06576489,1178,9:30–17:167,Nil
+TD-210,Cafeteria & Co.,Food,4,4.917197583,1066,9:30–17:168,Nil
+TD-211,Sana-Di-Ge,Food,10,4.979604632,1142,9:30–17:169,Nil
+TD-212,Pa Pa Ya,Food,2,4.758745457,1393,9:30–17:170,Nil
+TD-213,Yum Yum Cha,Food,25,4.814633953,1606,9:30–17:171,Nil
+TD-214,Coast Cafe,Food,13,4.698096069,1154,9:30–17:172,Nil
+TD-215,PizzaExpress,Food,13,4.841154134,746,9:30–17:173,Nil
+TD-216,The Big Chill Cakery,Food,22,4.408128931,1367,9:30–17:174,Nil
+TD-217,Music & Mountains - Hillside Cafe,Food,6,4.680057717,1523,9:30–17:175,Nil
+TD-218,Gulati,Food,18,4.617709971,1164,9:30–17:176,Nil
+TD-219,Olive Bar & Kitchen,Food,3,4.648578633,1234,9:30–17:177,Nil
+TD-220,The Grammar Room,Food,11,4.357712421,937,9:30–17:178,Nil
+TD-221,Chaina Ram Sindhi Confectioners,Food,19,4.829425719,1404,9:30–17:179,Nil
+TD-222,Sevilla - The Claridges,Food,22,4.249373491,1581,9:30–17:180,Nil
+TD-223,Bo Tai,Food,1,4.108474562,1157,9:30–17:181,Nil
+TD-224,Cafe Wink,Food,14,4.963953225,627,9:30–17:182,Nil
+TD-225,Dum-Pukht - ITC Maurya,Food,0,4.813515061,1514,9:30–17:183,Nil
+TD-226,Burma Burma,Food,16,4.066324107,1349,9:30–17:184,Nil
+TD-227,The Big Chill,Food,3,4.549348248,671,9:30–17:185,Nil
+TD-228,Carnatic Cafe,Food,8,4.260769368,1531,9:30–17:186,Nil
+TD-229,"Cocktails & Dreams, Speakeasy",Food,4,4.051300432,609,9:30–17:187,Nil
+TD-230,Natural Ice Cream,Food,25,4.596334844,535,9:30–17:188,Nil
+TD-231,Kuremal Mohan Lal Kulfi Wale,Food,9,4.649918888,544,9:30–17:189,Nil
+TD-232,Juggernaut,Food,25,4.251834323,1556,9:30–17:190,Nil
+TD-233,Comorin,Food,23,4.38188942,1525,9:30–17:191,Nil
+TD-234,Viet:Nom,Food,17,4.072912752,1090,9:30–17:192,Nil
+TD-235,Cafeteria & Co.,Food,9,4.426544773,651,9:30–17:193,Nil
+TD-236,Sana-Di-Ge,Food,13,4.383356233,1569,9:30–17:194,Nil
+TD-237,Pa Pa Ya,Food,9,4.496600619,1456,9:30–17:195,Nil
+TD-238,Yum Yum Cha,Food,2,4.115512287,1398,9:30–17:196,Nil
+TD-239,Coast Cafe,Food,16,4.97824429,503,9:30–17:197,Nil
+TD-240,PizzaExpress,Food,8,4.163818292,1144,9:30–17:198,Nil
+TD-241,The Big Chill Cakery,Food,11,4.831283551,1156,9:30–17:199,Nil
+TD-242,Music & Mountains - Hillside Cafe,Food,11,4.792683841,702,9:30–17:200,Nil
+TD-243,Gulati,Food,0,4.259213861,519,9:30–17:201,Nil
+TD-244,Olive Bar & Kitchen,Food,23,4.293666451,1199,9:30–17:202,Nil
+TD-245,The Grammar Room,Food,4,4.869599924,714,9:30–17:203,Nil
+TD-246,Chaina Ram Sindhi Confectioners,Food,8,4.150175572,900,9:30–17:204,Nil
+TD-247,Sevilla - The Claridges,Food,12,4.90502942,1089,9:30–17:205,Nil
+TD-248,Bo Tai,Food,15,4.642330712,704,9:30–17:206,Nil
+TD-249,Cafe Wink,Food,21,4.397442359,589,9:30–17:207,Nil
+TD-250,Dum-Pukht - ITC Maurya,Food,25,4.999785555,512,9:30–17:208,Nil
+TD-251,Burma Burma,Food,22,4.68887395,1543,9:30–17:209,Nil
+TD-252,The Big Chill,Food,2,4.570406064,573,9:30–17:210,Nil
+TD-253,Carnatic Cafe,Food,24,4.765304678,1097,9:30–17:211,Nil
+TD-254,"Cocktails & Dreams, Speakeasy",Food,21,4.17469738,925,9:30–17:212,Nil
+TD-255,Natural Ice Cream,Food,7,4.061101317,511,9:30–17:213,Nil
+TD-256,Kuremal Mohan Lal Kulfi Wale,Food,0,4.239581257,725,9:30–17:214,Nil
+TD-257,Juggernaut,Food,15,4.138265707,1478,9:30–17:215,Nil
+TD-258,Comorin,Food,24,4.683231339,1334,9:30–17:216,Nil
+TD-259,Viet:Nom,Food,3,4.701084446,1224,9:30–17:217,Nil
+TD-260,Cafeteria & Co.,Food,8,4.782007822,1699,9:30–17:218,Nil
+TD-261,Sana-Di-Ge,Food,4,4.338905735,1679,9:30–17:219,Nil
+TD-262,Pa Pa Ya,Food,18,4.561296535,978,9:30–17:220,Nil
+TD-263,Yum Yum Cha,Food,2,4.209309194,1644,9:30–17:221,Nil
+TD-264,Coast Cafe,Food,14,4.959254294,1480,9:30–17:222,Nil
+TD-265,PizzaExpress,Food,24,4.287507506,551,9:30–17:223,Nil
+TD-266,The Big Chill Cakery,Food,17,4.414077915,1302,9:30–17:224,Nil
+TD-267,Music & Mountains - Hillside Cafe,Food,12,4.487983794,1496,9:30–17:225,Nil
+TD-268,Gulati,Food,14,4.620521934,1633,9:30–17:226,Nil
+TD-269,Olive Bar & Kitchen,Food,1,4.951483803,595,9:30–17:227,Nil
+TD-270,The Grammar Room,Food,15,4.407511072,1643,9:30–17:228,Nil
+TD-271,Chaina Ram Sindhi Confectioners,Food,8,4.357068795,1336,9:30–17:229,Nil
+TD-272,Sevilla - The Claridges,Food,22,4.249122982,1513,9:30–17:230,Nil
+TD-273,Bo Tai,Food,20,4.880657947,1268,9:30–17:231,Nil
+TD-274,Cafe Wink,Food,22,4.646913172,1296,9:30–17:232,Nil
+TD-275,Dum-Pukht - ITC Maurya,Food,10,4.55343477,630,9:30–17:233,Nil
+TD-276,Burma Burma,Food,23,4.083087883,1210,9:30–17:234,Nil
+TD-277,The Big Chill,Food,10,4.221124796,622,9:30–17:235,Nil
+TD-278,Carnatic Cafe,Food,1,4.995035274,1509,9:30–17:236,Nil
+TD-279,"Cocktails & Dreams, Speakeasy",Food,20,4.507010307,1636,9:30–17:237,Nil
+TD-280,Natural Ice Cream,Food,8,4.370620452,853,9:30–17:238,Nil
+TD-281,Kuremal Mohan Lal Kulfi Wale,Food,6,4.441874465,889,9:30–17:239,Nil
+TD-282,Juggernaut,Food,2,4.834987272,794,9:30–17:240,Nil
+TD-283,Comorin,Food,5,4.910425655,886,9:30–17:241,Nil
+TD-284,Viet:Nom,Food,19,4.261901137,958,9:30–17:242,Nil
+TD-285,Cafeteria & Co.,Food,7,4.233979253,1644,9:30–17:243,Nil
+TD-286,Sana-Di-Ge,Food,16,4.647291237,716,9:30–17:244,Nil
+TD-287,Pa Pa Ya,Food,0,4.42268419,641,9:30–17:245,Nil
+TD-288,Yum Yum Cha,Food,24,4.798003916,574,9:30–17:246,Nil
+TD-289,Coast Cafe,Food,9,4.837079184,566,9:30–17:247,Nil
+TD-290,PizzaExpress,Food,2,4.734440446,1011,9:30–17:248,Nil
+TD-291,The Big Chill Cakery,Food,21,4.899220376,774,9:30–17:249,Nil
+TD-292,Music & Mountains - Hillside Cafe,Food,17,4.370477043,1254,9:30–17:250,Nil
+TD-293,Gulati,Food,8,4.07169272,509,9:30–17:251,Nil
+TD-294,Olive Bar & Kitchen,Food,7,4.595115994,1125,9:30–17:252,Nil
+TD-295,The Grammar Room,Food,5,4.008380994,698,9:30–17:253,Nil
+TD-296,Chaina Ram Sindhi Confectioners,Food,16,4.325186926,508,9:30–17:254,Nil
+TD-297,Sevilla - The Claridges,Food,16,4.835669283,1449,9:30–17:255,Nil
+TD-298,Bo Tai,Food,16,4.813329335,1330,9:30–17:256,Nil
+TD-299,Cafe Wink,Food,8,4.665533292,1244,9:30–17:257,Nil
+TD-300,Dum-Pukht - ITC Maurya,Food,17,4.892277392,1242,9:30–17:258,Nil
+TD-301,Burma Burma,Food,24,4.792840545,955,9:30–17:259,Nil
+TD-302,The Big Chill,Food,7,4.630593446,530,9:30–17:260,Nil
+TD-303,Carnatic Cafe,Food,8,4.91357529,649,9:30–17:261,Nil
+TD-304,"Cocktails & Dreams, Speakeasy",Food,25,4.583550702,1668,9:30–17:262,Nil
+TD-305,Natural Ice Cream,Food,1,4.25045158,1261,9:30–17:263,Nil
+TD-306,Kuremal Mohan Lal Kulfi Wale,Food,17,4.236598965,511,9:30–17:264,Nil
+TD-307,Juggernaut,Food,6,4.06374392,766,9:30–17:265,Nil
+TD-308,Comorin,Food,17,4.871437353,779,9:30–17:266,Nil
+TD-309,Viet:Nom,Food,24,4.803833575,1352,9:30–17:267,Nil
+TD-310,Cafeteria & Co.,Food,4,4.394961062,1545,9:30–17:268,Nil
+TD-311,Sana-Di-Ge,Food,16,4.970193016,1500,9:30–17:269,Nil
+TD-312,Pa Pa Ya,Food,12,4.608527694,1006,9:30–17:270,Nil
+TD-313,Yum Yum Cha,Food,11,4.588930774,1361,9:30–17:271,Nil
+TD-314,Coast Cafe,Food,21,4.306628058,961,9:30–17:272,Nil
+TD-315,PizzaExpress,Food,11,4.710850815,650,9:30–17:273,Nil
+TD-316,The Big Chill Cakery,Food,5,4.996074997,1472,9:30–17:274,Nil
+TD-317,Music & Mountains - Hillside Cafe,Food,15,4.716255958,1108,9:30–17:275,Nil
+TD-318,Gulati,Food,4,4.034347138,1363,9:30–17:276,Nil
+TD-319,Olive Bar & Kitchen,Food,12,4.368797513,1633,9:30–17:277,Nil
+TD-320,The Grammar Room,Food,17,4.192062418,1580,9:30–17:278,Nil
+TD-321,Chaina Ram Sindhi Confectioners,Food,9,4.06308186,943,9:30–17:279,Nil
+TD-322,Sevilla - The Claridges,Food,20,4.897758178,955,9:30–17:280,Nil
+TD-323,Bo Tai,Food,13,4.00169913,664,9:30–17:281,Nil
+TD-324,Cafe Wink,Food,18,4.454202983,1385,9:30–17:282,Nil
+TD-325,Dum-Pukht - ITC Maurya,Food,3,4.77269381,865,9:30–17:283,Nil
+TD-326,Burma Burma,Food,17,4.370007074,879,9:30–17:284,Nil
+TD-327,The Big Chill,Food,2,4.173585133,1433,9:30–17:285,Nil
+TD-328,Carnatic Cafe,Food,11,4.20848037,1618,9:30–17:286,Nil
+TD-329,"Cocktails & Dreams, Speakeasy",Food,17,4.814901761,548,9:30–17:287,Nil
+TD-330,Natural Ice Cream,Food,23,4.217361704,783,9:30–17:288,Nil
+TD-331,Kuremal Mohan Lal Kulfi Wale,Food,3,4.659958445,1576,9:30–17:289,Nil
+TD-332,Juggernaut,Food,10,4.878533375,734,9:30–17:290,Nil
+TD-333,Comorin,Food,6,4.06715906,1413,9:30–17:291,Nil
+TD-334,Viet:Nom,Food,25,4.269545513,1017,9:30–17:292,Nil
+TD-335,Cafeteria & Co.,Food,13,4.047005717,1103,9:30–17:293,Nil
+TD-336,Sana-Di-Ge,Food,11,4.233129663,1613,9:30–17:294,Nil
+TD-337,Pa Pa Ya,Food,0,4.016380034,1591,9:30–17:295,Nil
+TD-338,Yum Yum Cha,Food,25,4.520660777,810,9:30–17:296,Nil
+TD-339,Coast Cafe,Food,2,4.700833398,1349,9:30–17:297,Nil
+TD-340,PizzaExpress,Food,15,4.440991957,1100,9:30–17:298,Nil
+TD-341,The Big Chill Cakery,Food,6,4.438946094,1580,9:30–17:299,Nil
+TD-342,Music & Mountains - Hillside Cafe,Food,21,4.699750024,1278,9:30–17:300,Nil
+TD-343,Gulati,Food,5,4.320057375,1018,9:30–17:301,Nil
+TD-344,Olive Bar & Kitchen,Food,12,4.100670077,943,9:30–17:302,Nil
+TD-345,The Grammar Room,Food,0,4.72245814,665,9:30–17:303,Nil
+TD-346,Chaina Ram Sindhi Confectioners,Food,25,4.493237229,1304,9:30–17:304,Nil
+TD-347,Sevilla - The Claridges,Food,22,4.19953718,785,9:30–17:305,Nil
+TD-348,Bo Tai,Food,15,4.541772724,834,9:30–17:306,Nil
+TD-349,Cafe Wink,Food,14,4.663381608,992,9:30–17:307,Nil
+TD-350,Dum-Pukht - ITC Maurya,Food,20,4.149992147,1071,9:30–17:308,Nil
+TD-351,Burma Burma,Food,6,4.888764185,783,9:30–17:309,Nil
+TD-352,The Big Chill,Food,2,4.774754838,1251,9:30–17:310,Nil
+TD-353,Carnatic Cafe,Food,20,4.275484327,1213,9:30–17:311,Nil
+TD-354,"Cocktails & Dreams, Speakeasy",Food,14,4.823058666,1274,9:30–17:312,Nil
+TD-355,Natural Ice Cream,Food,0,4.716209365,972,9:30–17:313,Nil
+TD-356,Kuremal Mohan Lal Kulfi Wale,Food,5,4.468467517,1528,9:30–17:314,Nil
+TD-357,Juggernaut,Food,1,4.907282263,621,9:30–17:315,Nil
+TD-358,Comorin,Food,16,4.441693938,651,9:30–17:316,Nil
+TD-359,Viet:Nom,Food,10,4.926848665,1667,9:30–17:317,Nil
+TD-360,Cafeteria & Co.,Food,7,4.725587919,1628,9:30–17:318,Nil
+TD-361,Sana-Di-Ge,Food,8,4.584389687,745,9:30–17:319,Nil
+TD-362,Pa Pa Ya,Food,20,4.553206701,1683,9:30–17:320,Nil
+TD-363,Yum Yum Cha,Food,2,4.446189557,663,9:30–17:321,Nil
+TD-364,Coast Cafe,Food,14,4.115777015,815,9:30–17:322,Nil
+TD-365,PizzaExpress,Food,20,4.78819399,842,9:30–17:323,Nil
+TD-366,The Big Chill Cakery,Food,2,4.602067998,1032,9:30–17:324,Nil
+TD-367,Music & Mountains - Hillside Cafe,Food,6,4.852017198,940,9:30–17:325,Nil
+TD-368,Gulati,Food,12,4.122633838,1179,9:30–17:326,Nil
+TD-369,Olive Bar & Kitchen,Food,2,4.848856751,1208,9:30–17:327,Nil
+TD-370,The Grammar Room,Food,22,4.690746646,1601,9:30–17:328,Nil
+TD-371,Chaina Ram Sindhi Confectioners,Food,8,4.544458345,1307,9:30–17:329,Nil
+TD-372,Sevilla - The Claridges,Food,4,4.371209961,838,9:30–17:330,Nil
+TD-373,Bo Tai,Food,8,4.823094507,1626,9:30–17:331,Nil
+TD-374,Cafe Wink,Food,5,4.879755255,1442,9:30–17:332,Nil
+TD-375,Dum-Pukht - ITC Maurya,Food,0,4.44291511,1296,9:30–17:333,Nil
+TD-376,Burma Burma,Food,23,4.97403953,1044,9:30–17:334,Nil
+TD-377,The Big Chill,Food,7,4.585581485,1625,9:30–17:335,Nil
+TD-378,Carnatic Cafe,Food,22,4.932799631,1571,9:30–17:336,Nil
+TD-379,"Cocktails & Dreams, Speakeasy",Food,19,4.864302461,756,9:30–17:337,Nil
+TD-380,Natural Ice Cream,Food,10,4.549310719,967,9:30–17:338,Nil
+TD-381,Kuremal Mohan Lal Kulfi Wale,Food,1,4.767385282,1028,9:30–17:339,Nil
+TD-382,Juggernaut,Food,5,4.91781165,1664,9:30–17:340,Nil
+TD-383,Comorin,Food,18,4.036342819,645,9:30–17:341,Nil
+TD-384,Viet:Nom,Food,12,4.444164036,848,9:30–17:342,Nil
+TD-385,Cafeteria & Co.,Food,11,4.173350509,667,9:30–17:343,Nil
+TD-386,Sana-Di-Ge,Food,17,4.449590427,972,9:30–17:344,Nil
+TD-387,Pa Pa Ya,Food,8,4.296102548,553,9:30–17:345,Nil
+TD-388,Yum Yum Cha,Food,9,4.585174235,790,9:30–17:346,Nil
+TD-389,Coast Cafe,Food,7,4.16559545,879,9:30–17:347,Nil
+TD-390,PizzaExpress,Food,11,4.223104025,562,9:30–17:348,Nil
+TD-391,The Big Chill Cakery,Food,13,4.791137732,1429,9:30–17:349,Nil
+TD-392,Music & Mountains - Hillside Cafe,Food,0,4.819755752,1437,9:30–17:350,Nil
+TD-393,Gulati,Food,15,4.59329108,1112,9:30–17:351,Nil
+TD-394,Olive Bar & Kitchen,Food,16,4.709637679,862,9:30–17:352,Nil
+TD-395,The Grammar Room,Food,21,4.626176289,510,9:30–17:353,Nil
+TD-396,Chaina Ram Sindhi Confectioners,Food,6,4.135044144,1087,9:30–17:354,Nil
+TD-397,Sevilla - The Claridges,Food,14,4.352771489,995,9:30–17:355,Nil
+TD-398,Bo Tai,Food,22,4.120072781,690,9:30–17:356,Nil
+TD-399,Cafe Wink,Food,24,4.799948337,858,9:30–17:357,Nil
+TD-400,Dum-Pukht - ITC Maurya,Food,16,4.747296473,527,9:30–17:358,Nil
+TD-401,Burma Burma,Food,12,4.430572608,1345,9:30–17:359,Nil
+TD-402,The Big Chill,Food,3,4.264150208,1610,9:30–17:360,Nil
+TD-403,Carnatic Cafe,Food,1,4.058729476,1319,9:30–17:361,Nil
+TD-404,"Cocktails & Dreams, Speakeasy",Food,7,4.659507966,847,9:30–17:362,Nil
+TD-405,Natural Ice Cream,Food,3,4.154231645,569,9:30–17:363,Nil
+TD-406,Kuremal Mohan Lal Kulfi Wale,Food,11,4.687599682,1133,9:30–17:364,Nil
+TD-407,Juggernaut,Food,8,4.178138963,1610,9:30–17:365,Nil
+TD-408,Comorin,Food,6,4.948968595,804,9:30–17:366,Nil
+TD-409,Viet:Nom,Food,24,4.305336844,588,9:30–17:367,Nil
+TD-410,Cafeteria & Co.,Food,4,4.486012513,685,9:30–17:368,Nil
+TD-411,Sana-Di-Ge,Food,0,4.881723743,1097,9:30–17:369,Nil
+TD-412,Pa Pa Ya,Food,2,4.779714259,1433,9:30–17:370,Nil
+TD-413,Yum Yum Cha,Food,18,4.324566521,1560,9:30–17:371,Nil
+TD-414,Coast Cafe,Food,17,4.102723949,1608,9:30–17:372,Nil
+TD-415,PizzaExpress,Food,1,4.707020449,994,9:30–17:373,Nil
+TD-416,The Big Chill Cakery,Food,8,4.562801611,1691,9:30–17:374,Nil
+TD-417,Music & Mountains - Hillside Cafe,Food,21,4.728492804,918,9:30–17:375,Nil
+TD-418,Gulati,Food,21,4.141205544,1687,9:30–17:376,Nil
+TD-419,Olive Bar & Kitchen,Food,19,4.66164212,1474,9:30–17:377,Nil
+TD-420,The Grammar Room,Food,18,4.178800963,1010,9:30–17:378,Nil
+TD-421,Chaina Ram Sindhi Confectioners,Food,12,4.043804936,1527,9:30–17:379,Nil
+TD-422,Sevilla - The Claridges,Food,2,4.44787757,787,9:30–17:380,Nil
+TD-423,Bo Tai,Food,20,4.03249759,1169,9:30–17:381,Nil
+TD-424,Cafe Wink,Food,11,4.335495015,670,9:30–17:382,Nil
+TD-425,Dum-Pukht - ITC Maurya,Food,14,4.588211801,1461,9:30–17:383,Nil
+TD-426,Burma Burma,Food,10,4.754775551,965,9:30–17:384,Nil
+TD-427,The Big Chill,Food,20,4.333845673,604,9:30–17:385,Nil
+TD-428,Carnatic Cafe,Food,24,4.775980877,1244,9:30–17:386,Nil
+TD-429,"Cocktails & Dreams, Speakeasy",Food,10,4.963456742,1670,9:30–17:387,Nil
+TD-430,Natural Ice Cream,Food,6,4.690326707,1237,9:30–17:388,Nil
+TD-431,Kuremal Mohan Lal Kulfi Wale,Food,12,4.313968752,585,9:30–17:389,Nil
+TD-432,Juggernaut,Food,10,4.809155679,1348,9:30–17:390,Nil
+TD-433,Comorin,Food,13,4.267798202,1595,9:30–17:391,Nil
+TD-434,Viet:Nom,Food,23,4.653603488,1044,9:30–17:392,Nil
+TD-435,Cafeteria & Co.,Food,14,4.585095937,779,9:30–17:393,Nil
+TD-436,Sana-Di-Ge,Food,3,4.681752128,1100,9:30–17:394,Nil
+TD-437,Pa Pa Ya,Food,23,4.43778302,1354,9:30–17:395,Nil
+TD-438,Yum Yum Cha,Food,18,4.548448621,539,9:30–17:396,Nil
+TD-439,Coast Cafe,Food,13,4.161108211,781,9:30–17:397,Nil
+TD-440,PizzaExpress,Food,9,4.561385999,1178,9:30–17:398,Nil
+TD-441,The Big Chill Cakery,Food,1,4.062986075,1200,9:30–17:399,Nil
+TD-442,Music & Mountains - Hillside Cafe,Food,9,4.470897532,1315,9:30–17:400,Nil
+TD-443,Gulati,Food,6,4.542727013,1091,9:30–17:401,Nil
+TD-444,Olive Bar & Kitchen,Food,9,4.753340391,1535,9:30–17:402,Nil
+TD-445,The Grammar Room,Food,20,4.00928098,1379,9:30–17:403,Nil
+TD-446,Chaina Ram Sindhi Confectioners,Food,5,4.019571205,688,9:30–17:404,Nil
+TD-447,Sevilla - The Claridges,Food,15,4.630529482,655,9:30–17:405,Nil
+TD-448,Bo Tai,Food,22,4.68248722,720,9:30–17:406,Nil
+TD-449,Cafe Wink,Food,15,4.96533838,1119,9:30–17:407,Nil
+TD-450,Dum-Pukht - ITC Maurya,Food,6,4.403265528,975,9:30–17:408,Nil
+TD-451,Burma Burma,Food,13,4.456130002,1281,9:30–17:409,Nil
+TD-452,The Big Chill,Food,22,4.166852447,832,9:30–17:410,Nil
+TD-453,Carnatic Cafe,Food,8,4.0777644,1224,9:30–17:411,Nil
+TD-454,"Cocktails & Dreams, Speakeasy",Food,1,4.088584256,935,9:30–17:412,Nil
+TD-455,Natural Ice Cream,Food,18,4.37073597,1679,9:30–17:413,Nil
+TD-456,Kuremal Mohan Lal Kulfi Wale,Food,6,4.981012311,601,9:30–17:414,Nil
+TD-457,Juggernaut,Food,14,4.73677767,1296,9:30–17:415,Nil
+TD-458,Comorin,Food,14,4.293934716,1237,9:30–17:416,Nil
+TD-459,Viet:Nom,Food,2,4.18995034,1187,9:30–17:417,Nil
+TD-460,Cafeteria & Co.,Food,20,4.367564953,1579,9:30–17:418,Nil
+TD-461,Sana-Di-Ge,Food,10,4.385247279,1319,9:30–17:419,Nil
+TD-462,Pa Pa Ya,Food,8,4.253285759,1512,9:30–17:420,Nil
+TD-463,Yum Yum Cha,Food,4,4.559693366,1370,9:30–17:421,Nil
+TD-464,Coast Cafe,Food,14,4.935123414,852,9:30–17:422,Nil
+TD-465,PizzaExpress,Food,3,4.17499026,660,9:30–17:423,Nil
+TD-466,The Big Chill Cakery,Food,19,4.694115929,1100,9:30–17:424,Nil
+TD-467,Music & Mountains - Hillside Cafe,Food,2,4.996375774,1472,9:30–17:425,Nil
+TD-468,Gulati,Food,9,4.259693613,1641,9:30–17:426,Nil
+TD-469,Olive Bar & Kitchen,Food,25,4.026558871,624,9:30–17:427,Nil
+TD-470,The Grammar Room,Food,14,4.658614781,987,9:30–17:428,Nil
+TD-471,Chaina Ram Sindhi Confectioners,Food,21,4.331779682,1006,9:30–17:429,Nil
+TD-472,Sevilla - The Claridges,Food,25,4.524056404,1239,9:30–17:430,Nil
+TD-473,Bo Tai,Food,7,4.189215393,587,9:30–17:431,Nil
+TD-474,Cafe Wink,Food,7,4.445541459,1392,9:30–17:432,Nil
+TD-475,Dum-Pukht - ITC Maurya,Food,19,4.79207612,910,9:30–17:433,Nil
+TD-476,Burma Burma,Food,15,4.317563176,726,9:30–17:434,Nil
+TD-477,The Big Chill,Food,5,4.168371582,675,9:30–17:435,Nil
+TD-478,Carnatic Cafe,Food,14,4.433601539,1604,9:30–17:436,Nil
+TD-479,"Cocktails & Dreams, Speakeasy",Food,18,4.192399262,1368,9:30–17:437,Nil
+TD-480,Natural Ice Cream,Food,0,4.011435972,795,9:30–17:438,Nil
+TD-481,Kuremal Mohan Lal Kulfi Wale,Food,1,4.595037155,1265,9:30–17:439,Nil
+TD-482,Juggernaut,Food,5,4.082001915,1560,9:30–17:440,Nil
+TD-483,Comorin,Food,23,4.820468897,914,9:30–17:441,Nil
+TD-484,Viet:Nom,Food,4,4.836950944,608,9:30–17:442,Nil
+TD-485,Cafeteria & Co.,Food,1,4.915105985,1146,9:30–17:443,Nil
+TD-486,Sana-Di-Ge,Food,15,4.705179469,1618,9:30–17:444,Nil
+TD-487,Pa Pa Ya,Food,15,4.223492063,1523,9:30–17:445,Nil
+TD-488,Yum Yum Cha,Food,8,4.781078739,960,9:30–17:446,Nil
+TD-489,Coast Cafe,Food,4,4.682038279,1470,9:30–17:447,Nil
+TD-490,PizzaExpress,Food,21,4.461666004,1100,9:30–17:448,Nil
+TD-491,The Big Chill Cakery,Food,5,4.111035983,993,9:30–17:449,Nil
+TD-492,Music & Mountains - Hillside Cafe,Food,11,4.343164946,1669,9:30–17:450,Nil
+TD-493,Gulati,Food,7,4.584990238,1693,9:30–17:451,Nil
+TD-494,Olive Bar & Kitchen,Food,19,4.246025769,1057,9:30–17:452,Nil
+TD-495,The Grammar Room,Food,4,4.13325534,1572,9:30–17:453,Nil
+TD-496,Chaina Ram Sindhi Confectioners,Food,4,4.40495256,1681,9:30–17:454,Nil
+TD-497,Sevilla - The Claridges,Food,5,4.544194926,581,9:30–17:455,Nil
+TD-498,Bo Tai,Food,3,4.254471466,553,9:30–17:456,Nil
+TD-499,Cafe Wink,Food,17,4.50496573,1567,9:30–17:457,Nil
+TD-500,Dum-Pukht - ITC Maurya,Food,10,4.588016813,1060,9:30–17:458,Nil
+TD-501,Burma Burma,Food,23,4.115477316,1105,9:30–17:459,Nil
+TD-502,The Big Chill,Food,0,4.071623766,1070,9:30–17:460,Nil
+TD-503,Carnatic Cafe,Food,25,4.164575875,1629,9:30–17:461,Nil
+TD-504,"Cocktails & Dreams, Speakeasy",Food,4,4.636912045,1292,9:30–17:462,Nil
+TD-505,Natural Ice Cream,Food,25,4.52615312,1186,9:30–17:463,Nil
+TD-506,Kuremal Mohan Lal Kulfi Wale,Food,2,4.557132402,1424,9:30–17:464,Nil
+TD-507,Juggernaut,Food,24,4.933644396,1368,9:30–17:465,Nil
+TD-508,Comorin,Food,14,4.865039015,1250,9:30–17:466,Nil
+TD-509,Viet:Nom,Food,18,4.680442789,1080,9:30–17:467,Nil
+TD-510,Cafeteria & Co.,Food,7,4.867448425,1418,9:30–17:468,Nil
+TD-511,Sana-Di-Ge,Food,24,4.919682639,662,9:30–17:469,Nil
+TD-512,Pa Pa Ya,Food,24,4.427991571,1245,9:30–17:470,Nil
+TD-513,Yum Yum Cha,Food,22,4.029565577,1513,9:30–17:471,Nil
+TD-514,Coast Cafe,Food,14,4.648092853,692,9:30–17:472,Nil
+TD-515,PizzaExpress,Food,19,4.674994517,1483,9:30–17:473,Nil
+TD-516,The Big Chill Cakery,Food,23,4.339614087,850,9:30–17:474,Nil
+TD-517,Music & Mountains - Hillside Cafe,Food,23,4.897201853,1125,9:30–17:475,Nil
+TD-518,Gulati,Food,7,4.509473409,953,9:30–17:476,Nil
+TD-519,Olive Bar & Kitchen,Food,4,4.756289556,1179,9:30–17:477,Nil
+TD-520,The Grammar Room,Food,6,4.66164159,1060,9:30–17:478,Nil
+TD-521,Chaina Ram Sindhi Confectioners,Food,17,4.050870365,986,9:30–17:479,Nil
+TD-522,Sevilla - The Claridges,Food,18,4.780123771,1622,9:30–17:480,Nil
+TD-523,Bo Tai,Food,3,4.463077213,1107,9:30–17:481,Nil
+TD-524,Cafe Wink,Food,16,4.421329882,1080,9:30–17:482,Nil
+TD-525,Dum-Pukht - ITC Maurya,Food,17,4.096994604,581,9:30–17:483,Nil
+TD-526,Burma Burma,Food,9,4.266397829,566,9:30–17:484,Nil
+TD-527,The Big Chill,Food,20,4.777929272,1345,9:30–17:485,Nil
+TD-528,Carnatic Cafe,Food,5,4.616549414,1518,9:30–17:486,Nil
+TD-529,"Cocktails & Dreams, Speakeasy",Food,11,4.30549441,1482,9:30–17:487,Nil
+TD-530,Natural Ice Cream,Food,12,4.675273682,510,9:30–17:488,Nil
+TD-531,Kuremal Mohan Lal Kulfi Wale,Food,3,4.124425007,834,9:30–17:489,Nil
+TD-532,Juggernaut,Food,19,4.663656751,1386,9:30–17:490,Nil
+TD-533,Comorin,Food,2,4.931093813,1432,9:30–17:491,Nil
+TD-534,Viet:Nom,Food,6,4.853558562,548,9:30–17:492,Nil
+TD-535,Cafeteria & Co.,Food,12,4.014154816,1269,9:30–17:493,Nil
+TD-536,Sana-Di-Ge,Food,5,4.051902864,1505,9:30–17:494,Nil
+TD-537,Pa Pa Ya,Food,24,4.29770994,1067,9:30–17:495,Nil
+TD-538,Yum Yum Cha,Food,3,4.972074351,807,9:30–17:496,Nil
+TD-539,Coast Cafe,Food,11,4.940896492,1434,9:30–17:497,Nil
+TD-540,PizzaExpress,Food,14,4.216932451,1501,9:30–17:498,Nil
+TD-541,The Big Chill Cakery,Food,12,4.874514773,902,9:30–17:499,Nil
+TD-542,Music & Mountains - Hillside Cafe,Food,11,4.112473882,1195,9:30–17:500,Nil
+TD-543,Gulati,Food,21,4.352399426,1317,9:30–17:501,Nil
+TD-544,Olive Bar & Kitchen,Food,11,4.157570624,1478,9:30–17:502,Nil
+TD-545,The Grammar Room,Food,18,4.004665847,888,9:30–17:503,Nil
+TD-546,Chaina Ram Sindhi Confectioners,Food,23,4.009128773,865,9:30–17:504,Nil
+TD-547,Sevilla - The Claridges,Food,1,4.136754562,1078,9:30–17:505,Nil
+TD-548,Bo Tai,Food,20,4.02069929,1550,9:30–17:506,Nil
+TD-549,Cafe Wink,Food,4,4.097789425,1169,9:30–17:507,Nil
+TD-550,Dum-Pukht - ITC Maurya,Food,9,4.066768591,1130,9:30–17:508,Nil
+TD-551,Burma Burma,Food,0,4.035974137,604,9:30–17:509,Nil
+TD-552,The Big Chill,Food,10,4.310020329,1075,9:30–17:510,Nil
+TD-553,Carnatic Cafe,Food,22,4.487180555,979,9:30–17:511,Nil
+TD-554,"Cocktails & Dreams, Speakeasy",Food,15,4.221225883,1295,9:30–17:512,Nil
+TD-555,Natural Ice Cream,Food,2,4.369682786,561,9:30–17:513,Nil
+TD-556,Kuremal Mohan Lal Kulfi Wale,Food,18,4.374596817,1674,9:30–17:514,Nil
+TD-557,Juggernaut,Food,19,4.231581542,1480,9:30–17:515,Nil
+TD-558,Comorin,Food,2,4.862843454,1026,9:30–17:516,Nil
+TD-559,Viet:Nom,Food,23,4.29852343,1291,9:30–17:517,Nil
+TD-560,Cafeteria & Co.,Food,22,4.975185626,1325,9:30–17:518,Nil
+TD-561,Sana-Di-Ge,Food,25,4.314703656,1671,9:30–17:519,Nil
+TD-562,Pa Pa Ya,Food,9,4.269979893,1506,9:30–17:520,Nil
+TD-563,Yum Yum Cha,Food,0,4.442326941,1194,9:30–17:521,Nil
+TD-564,Coast Cafe,Food,22,4.687750138,953,9:30–17:522,Nil
+TD-565,PizzaExpress,Food,7,4.297194666,1524,9:30–17:523,Nil
+TD-566,The Big Chill Cakery,Food,18,4.527937131,1172,9:30–17:524,Nil
+TD-567,Music & Mountains - Hillside Cafe,Food,9,4.731865233,1475,9:30–17:525,Nil
+TD-568,Gulati,Food,19,4.591296994,1510,9:30–17:526,Nil
+TD-569,Olive Bar & Kitchen,Food,0,4.608114226,1279,9:30–17:527,Nil
+TD-570,The Grammar Room,Food,0,4.763545037,1038,9:30–17:528,Nil
+TD-571,Chaina Ram Sindhi Confectioners,Food,6,4.665638769,1139,9:30–17:529,Nil
+TD-572,Sevilla - The Claridges,Food,25,4.407114938,1335,9:30–17:530,Nil
+TD-573,Bo Tai,Food,25,4.047998925,932,9:30–17:531,Nil
+TD-574,Cafe Wink,Food,4,4.659806042,1207,9:30–17:532,Nil
+TD-575,Dum-Pukht - ITC Maurya,Food,9,4.223169897,1151,9:30–17:533,Nil
+TD-576,Burma Burma,Food,24,4.589634178,1236,9:30–17:534,Nil
+TD-577,The Big Chill,Food,14,4.212003859,887,9:30–17:535,Nil
+TD-578,Carnatic Cafe,Food,11,4.334979033,1009,9:30–17:536,Nil
+TD-579,"Cocktails & Dreams, Speakeasy",Food,20,4.979570389,1100,9:30–17:537,Nil
+TD-580,Natural Ice Cream,Food,24,4.130836108,1147,9:30–17:538,Nil
+TD-581,Kuremal Mohan Lal Kulfi Wale,Food,19,4.745172352,590,9:30–17:539,Nil
+TD-582,Juggernaut,Food,3,4.304131618,1059,9:30–17:540,Nil
+TD-583,Comorin,Food,25,4.1757774,1230,9:30–17:541,Nil
+TD-584,Viet:Nom,Food,19,4.953976876,569,9:30–17:542,Nil
+TD-585,Cafeteria & Co.,Food,24,4.622079438,762,9:30–17:543,Nil
+TD-586,Sana-Di-Ge,Food,17,4.957551388,1240,9:30–17:544,Nil
+TD-587,Pa Pa Ya,Food,21,4.262920658,1404,9:30–17:545,Nil
+TD-588,Yum Yum Cha,Food,9,4.047290196,631,9:30–17:546,Nil
+TD-589,Coast Cafe,Food,11,4.273724447,1700,9:30–17:547,Nil
+TD-590,PizzaExpress,Food,22,4.313136643,1154,9:30–17:548,Nil
+TD-591,The Big Chill Cakery,Food,17,4.509509395,897,9:30–17:549,Nil
+TD-592,Music & Mountains - Hillside Cafe,Food,3,4.963507278,1345,9:30–17:550,Nil
+TD-593,Gulati,Food,13,4.165684019,985,9:30–17:551,Nil
+TD-594,Olive Bar & Kitchen,Food,22,4.664378218,579,9:30–17:552,Nil
+TD-595,The Grammar Room,Food,8,4.097527528,859,9:30–17:553,Nil
+TD-596,Chaina Ram Sindhi Confectioners,Food,1,4.820593416,1373,9:30–17:554,Nil
+TD-597,Sevilla - The Claridges,Food,7,4.662448518,546,9:30–17:555,Nil
+TD-598,Bo Tai,Food,4,4.775397369,934,9:30–17:556,Nil
+TD-599,Cafe Wink,Food,13,4.468117917,1047,9:30–17:557,Nil
+TD-600,Dum-Pukht - ITC Maurya,Food,16,4.968901908,584,9:30–17:558,Nil
+TD-601,Burma Burma,Food,5,4.384845946,1627,9:30–17:559,Nil
+TD-602,The Big Chill,Food,13,4.513265606,1455,9:30–17:560,Nil
+TD-603,Carnatic Cafe,Food,11,4.047521579,1155,9:30–17:561,Nil
+TD-604,"Cocktails & Dreams, Speakeasy",Food,5,4.19273548,861,9:30–17:562,Nil
+TD-605,Natural Ice Cream,Food,10,4.912462387,1140,9:30–17:563,Nil
+TD-606,Kuremal Mohan Lal Kulfi Wale,Food,6,4.356037836,617,9:30–17:564,Nil
+TD-607,Juggernaut,Food,3,4.527945965,1414,9:30–17:565,Nil
+TD-608,Comorin,Food,22,4.038589839,1281,9:30–17:566,Nil
+TD-609,Viet:Nom,Food,20,4.431789057,819,9:30–17:567,Nil
+TD-610,Cafeteria & Co.,Food,19,4.08713,512,9:30–17:568,Nil
+TD-611,Sana-Di-Ge,Food,3,4.372446812,1180,9:30–17:569,Nil
+TD-612,Pa Pa Ya,Food,22,4.813150874,890,9:30–17:570,Nil
+TD-613,Yum Yum Cha,Food,15,4.802265337,1128,9:30–17:571,Nil
+TD-614,Coast Cafe,Food,10,4.732551123,1192,9:30–17:572,Nil
+TD-615,PizzaExpress,Food,1,4.993078614,1383,9:30–17:573,Nil
+TD-616,The Big Chill Cakery,Food,14,4.267993337,1443,9:30–17:574,Nil
+TD-617,Music & Mountains - Hillside Cafe,Food,8,4.803485689,524,9:30–17:575,Nil
+TD-618,Gulati,Food,14,4.755629543,810,9:30–17:576,Nil
+TD-619,Olive Bar & Kitchen,Food,23,4.26472541,1473,9:30–17:577,Nil
+TD-620,The Grammar Room,Food,21,4.314698311,1004,9:30–17:578,Nil
+TD-621,Chaina Ram Sindhi Confectioners,Food,14,4.092316233,1673,9:30–17:579,Nil
+TD-622,Sevilla - The Claridges,Food,20,4.014684392,1453,9:30–17:580,Nil
+TD-623,Bo Tai,Food,11,4.324521961,1226,9:30–17:581,Nil
+TD-624,Cafe Wink,Food,9,4.915526372,579,9:30–17:582,Nil
+TD-625,Dum-Pukht - ITC Maurya,Food,24,4.253020147,513,9:30–17:583,Nil
+TD-626,Burma Burma,Food,20,4.541751017,1615,9:30–17:584,Nil
+TD-627,The Big Chill,Food,5,4.084034074,560,9:30–17:585,Nil
+TD-628,Carnatic Cafe,Food,14,4.798505603,1351,9:30–17:586,Nil
+TD-629,"Cocktails & Dreams, Speakeasy",Food,7,4.850514099,794,9:30–17:587,Nil
+TD-630,Natural Ice Cream,Food,14,4.678267967,790,9:30–17:588,Nil
+TD-631,Kuremal Mohan Lal Kulfi Wale,Food,9,4.343124638,927,9:30–17:589,Nil
+TD-632,Juggernaut,Food,18,4.584209786,719,9:30–17:590,Nil
+TD-633,Comorin,Food,17,4.292752805,1370,9:30–17:591,Nil
+TD-634,Viet:Nom,Food,21,4.203018014,596,9:30–17:592,Nil
+TD-635,Cafeteria & Co.,Food,16,4.644356364,627,9:30–17:593,Nil
+TD-636,Sana-Di-Ge,Food,11,4.194636257,1139,9:30–17:594,Nil
+TD-637,Pa Pa Ya,Food,17,4.618572741,1380,9:30–17:595,Nil
+TD-638,Yum Yum Cha,Food,22,4.16332422,1696,9:30–17:596,Nil
+TD-639,Coast Cafe,Food,11,4.040344951,1146,9:30–17:597,Nil
+TD-640,PizzaExpress,Food,5,4.874464048,848,9:30–17:598,Nil
+TD-641,The Big Chill Cakery,Food,23,4.524619666,757,9:30–17:599,Nil
+TD-642,Music & Mountains - Hillside Cafe,Food,19,4.63409215,1153,9:30–17:600,Nil
+TD-643,Gulati,Food,7,4.999969907,1491,9:30–17:601,Nil
+TD-644,Olive Bar & Kitchen,Food,20,4.328593153,870,9:30–17:602,Nil
+TD-645,The Grammar Room,Food,16,4.276351541,796,9:30–17:603,Nil
+TD-646,Chaina Ram Sindhi Confectioners,Food,14,4.917258521,915,9:30–17:604,Nil
+TD-647,Sevilla - The Claridges,Food,11,4.195620923,761,9:30–17:605,Nil
+TD-648,Bo Tai,Food,12,4.612371029,1113,9:30–17:606,Nil
+TD-649,Cafe Wink,Food,21,4.502453052,916,9:30–17:607,Nil
+TD-650,Dum-Pukht - ITC Maurya,Food,12,4.644300432,1659,9:30–17:608,Nil
+TD-651,Burma Burma,Food,0,4.006916702,1053,9:30–17:609,Nil
+TD-652,The Big Chill,Food,13,4.126700198,763,9:30–17:610,Nil
+TD-653,Carnatic Cafe,Food,17,4.195337395,1653,9:30–17:611,Nil
+TD-654,"Cocktails & Dreams, Speakeasy",Food,3,4.712230868,953,9:30–17:612,Nil
+TD-655,Natural Ice Cream,Food,12,4.627712189,559,9:30–17:613,Nil
+TD-656,Kuremal Mohan Lal Kulfi Wale,Food,20,4.648354605,1055,9:30–17:614,Nil
+TD-657,Juggernaut,Food,14,4.415728413,835,9:30–17:615,Nil
+TD-658,Comorin,Food,14,4.735346473,802,9:30–17:616,Nil
+TD-659,Viet:Nom,Food,17,4.147807606,1393,9:30–17:617,Nil
+TD-660,Cafeteria & Co.,Food,15,4.36047233,1650,9:30–17:618,Nil
+TD-661,Sana-Di-Ge,Food,15,4.924999962,1620,9:30–17:619,Nil
+TD-662,Pa Pa Ya,Food,2,4.229229321,1399,9:30–17:620,Nil
+TD-663,Yum Yum Cha,Food,1,4.353934705,1427,9:30–17:621,Nil
+TD-664,Coast Cafe,Food,7,4.640055762,1520,9:30–17:622,Nil
+TD-665,PizzaExpress,Food,25,4.842798428,953,9:30–17:623,Nil
+TD-666,The Big Chill Cakery,Food,7,4.710582949,1281,9:30–17:624,Nil
+TD-667,Music & Mountains - Hillside Cafe,Food,5,4.724402939,896,9:30–17:625,Nil
+TD-668,Gulati,Food,8,4.81390796,788,9:30–17:626,Nil
+TD-669,Olive Bar & Kitchen,Food,20,4.684957461,1047,9:30–17:627,Nil
+TD-670,The Grammar Room,Food,13,4.177961467,969,9:30–17:628,Nil
+TD-671,Chaina Ram Sindhi Confectioners,Food,12,4.097281829,1051,9:30–17:629,Nil
+TD-672,Sevilla - The Claridges,Food,22,4.763047899,1671,9:30–17:630,Nil
+TD-673,Bo Tai,Food,16,4.566131887,1683,9:30–17:631,Nil
+TD-674,Cafe Wink,Food,9,4.508194641,1211,9:30–17:632,Nil
+TD-675,Dum-Pukht - ITC Maurya,Food,12,4.660727147,1422,9:30–17:633,Nil
+TD-676,Burma Burma,Food,0,4.168591884,551,9:30–17:634,Nil
+TD-677,The Big Chill,Food,5,4.616209532,1506,9:30–17:635,Nil
+TD-678,Carnatic Cafe,Food,8,4.258614491,1291,9:30–17:636,Nil
+TD-679,"Cocktails & Dreams, Speakeasy",Food,13,4.653487832,659,9:30–17:637,Nil
+TD-680,Natural Ice Cream,Food,7,4.103047536,1014,9:30–17:638,Nil
+TD-681,Kuremal Mohan Lal Kulfi Wale,Food,17,4.921754265,1670,9:30–17:639,Nil
+TD-682,Juggernaut,Food,13,4.368671634,1523,9:30–17:640,Nil
+TD-683,Comorin,Food,17,4.48897711,1585,9:30–17:641,Nil
+TD-684,Viet:Nom,Food,10,4.279555701,1364,9:30–17:642,Nil
+TD-685,Cafeteria & Co.,Food,14,4.994052518,1668,9:30–17:643,Nil
+TD-686,Sana-Di-Ge,Food,16,4.808957653,647,9:30–17:644,Nil
+TD-687,Pa Pa Ya,Food,16,4.037678401,1526,9:30–17:645,Nil
+TD-688,Yum Yum Cha,Food,24,4.392673998,1373,9:30–17:646,Nil
+TD-689,Coast Cafe,Food,10,4.210491705,632,9:30–17:647,Nil
+TD-690,PizzaExpress,Food,18,4.269253624,1143,9:30–17:648,Nil
+TD-691,The Big Chill Cakery,Food,1,4.232958776,1064,9:30–17:649,Nil
+TD-692,Music & Mountains - Hillside Cafe,Food,23,4.553877651,1103,9:30–17:650,Nil
+TD-693,Gulati,Food,6,4.352154593,1100,9:30–17:651,Nil
+TD-694,Olive Bar & Kitchen,Food,1,4.948227693,1437,9:30–17:652,Nil
+TD-695,The Grammar Room,Food,20,4.31199861,891,9:30–17:653,Nil
+TD-696,Chaina Ram Sindhi Confectioners,Food,25,4.158267987,1390,9:30–17:654,Nil
+TD-697,Sevilla - The Claridges,Food,24,4.105912645,1667,9:30–17:655,Nil
+TD-698,Bo Tai,Food,1,4.884341407,1374,9:30–17:656,Nil
+TD-699,Cafe Wink,Food,11,4.137892996,1317,9:30–17:657,Nil
+TD-700,Dum-Pukht - ITC Maurya,Food,0,4.596790813,1161,9:30–17:658,Nil
+TD-701,Burma Burma,Food,0,4.54941331,567,9:30–17:659,Nil
+TD-702,The Big Chill,Food,17,4.473399387,917,9:30–17:660,Nil
+TD-703,Carnatic Cafe,Food,7,4.108714128,1627,9:30–17:661,Nil
+TD-704,"Cocktails & Dreams, Speakeasy",Food,16,4.875106373,1265,9:30–17:662,Nil
+TD-705,Natural Ice Cream,Food,20,4.52022277,1022,9:30–17:663,Nil
+TD-706,Kuremal Mohan Lal Kulfi Wale,Food,23,4.178343638,879,9:30–17:664,Nil
+TD-707,Juggernaut,Food,2,4.783611773,1319,9:30–17:665,Nil
+TD-708,Comorin,Food,13,4.940731326,1302,9:30–17:666,Nil
+TD-709,Viet:Nom,Food,16,4.706069784,1619,9:30–17:667,Nil
+TD-710,Cafeteria & Co.,Food,0,4.465538575,773,9:30–17:668,Nil
+TD-711,Sana-Di-Ge,Food,15,4.919044533,1415,9:30–17:669,Nil
+TD-712,Pa Pa Ya,Food,6,4.600296452,1502,9:30–17:670,Nil
+TD-713,Yum Yum Cha,Food,0,4.769371889,648,9:30–17:671,Nil
+TD-714,Coast Cafe,Food,10,4.76880814,1126,9:30–17:672,Nil
+TD-715,PizzaExpress,Food,7,4.76546876,952,9:30–17:673,Nil
+TD-716,The Big Chill Cakery,Food,19,4.47157807,1346,9:30–17:674,Nil
+TD-717,Music & Mountains - Hillside Cafe,Food,9,4.178866352,1152,9:30–17:675,Nil
+TD-718,Gulati,Food,24,4.326713264,1304,9:30–17:676,Nil
+TD-719,Olive Bar & Kitchen,Food,23,4.742694787,1661,9:30–17:677,Nil
+TD-720,The Grammar Room,Food,8,4.444849453,579,9:30–17:678,Nil
+TD-721,Chaina Ram Sindhi Confectioners,Food,12,4.382412899,942,9:30–17:679,Nil
+TD-722,Sevilla - The Claridges,Food,20,4.742690444,1700,9:30–17:680,Nil
+TD-723,Bo Tai,Food,20,4.836628644,1282,9:30–17:681,Nil
+TD-724,Cafe Wink,Food,5,4.889644978,1099,9:30–17:682,Nil
+TD-725,Dum-Pukht - ITC Maurya,Food,17,4.888219153,1360,9:30–17:683,Nil
+TD-726,Burma Burma,Food,3,4.976139869,517,9:30–17:684,Nil
+TD-727,The Big Chill,Food,15,4.159873603,1627,9:30–17:685,Nil
+TD-728,Carnatic Cafe,Food,5,4.997765825,769,9:30–17:686,Nil
+TD-729,"Cocktails & Dreams, Speakeasy",Food,21,4.368516313,605,9:30–17:687,Nil
+TD-730,Natural Ice Cream,Food,13,4.809921029,1602,9:30–17:688,Nil
+TD-731,Kuremal Mohan Lal Kulfi Wale,Food,11,4.779056036,976,9:30–17:689,Nil
+TD-732,Juggernaut,Food,21,4.312702903,925,9:30–17:690,Nil
+TD-733,Comorin,Food,17,4.859197821,1490,9:30–17:691,Nil
+TD-734,Viet:Nom,Food,4,4.211158638,1251,9:30–17:692,Nil
+TD-735,Cafeteria & Co.,Food,16,4.195239712,1154,9:30–17:693,Nil
+TD-736,Sana-Di-Ge,Food,0,4.040617437,521,9:30–17:694,Nil
+TD-737,Pa Pa Ya,Food,7,4.297067755,520,9:30–17:695,Nil
+TD-738,Yum Yum Cha,Food,5,4.174529399,1556,9:30–17:696,Nil
+TD-739,Coast Cafe,Food,4,4.526838973,1587,9:30–17:697,Nil
+TD-740,PizzaExpress,Food,19,4.135079168,559,9:30–17:698,Nil
+TD-741,The Big Chill Cakery,Food,8,4.613351369,1253,9:30–17:699,Nil
+TD-742,Music & Mountains - Hillside Cafe,Food,21,4.487243387,999,9:30–17:700,Nil
+TD-743,Gulati,Food,9,4.120633301,709,9:30–17:701,Nil
+TD-744,Olive Bar & Kitchen,Food,24,4.854609855,1620,9:30–17:702,Nil
+TD-745,The Grammar Room,Food,3,4.401060986,543,9:30–17:703,Nil
+TD-746,Chaina Ram Sindhi Confectioners,Food,18,4.137145745,963,9:30–17:704,Nil
+TD-747,Sevilla - The Claridges,Food,12,4.479187423,1258,9:30–17:705,Nil
+TD-748,Bo Tai,Food,11,4.458720359,1272,9:30–17:706,Nil
+TD-749,Cafe Wink,Food,21,4.515386448,768,9:30–17:707,Nil
+TD-750,Dum-Pukht - ITC Maurya,Food,15,4.338664909,921,9:30–17:708,Nil
+TD-751,Burma Burma,Food,2,4.490562074,1472,9:30–17:709,Nil
+TD-752,The Big Chill,Food,17,4.761884356,679,9:30–17:710,Nil
+TD-753,Carnatic Cafe,Food,4,4.113868932,1466,9:30–17:711,Nil
+TD-754,"Cocktails & Dreams, Speakeasy",Food,19,4.403663665,1258,9:30–17:712,Nil
+TD-755,Natural Ice Cream,Food,3,4.721637428,995,9:30–17:713,Nil
+TD-756,Kuremal Mohan Lal Kulfi Wale,Food,7,4.390107857,688,9:30–17:714,Nil
+TD-757,Juggernaut,Food,15,4.839010574,1347,9:30–17:715,Nil
+TD-758,Comorin,Food,22,4.782887364,1285,9:30–17:716,Nil
+TD-759,Viet:Nom,Food,12,4.683144917,1485,9:30–17:717,Nil
+TD-760,Cafeteria & Co.,Food,7,4.558488916,1525,9:30–17:718,Nil
+TD-761,Sana-Di-Ge,Food,11,4.754759443,1351,9:30–17:719,Nil
+TD-762,Pa Pa Ya,Food,3,4.249980256,1118,9:30–17:720,Nil
+TD-763,Yum Yum Cha,Food,15,4.338803809,844,9:30–17:721,Nil
+TD-764,Coast Cafe,Food,10,4.020137194,1121,9:30–17:722,Nil
+TD-765,PizzaExpress,Food,17,4.935384725,580,9:30–17:723,Nil
+TD-766,The Big Chill Cakery,Food,1,4.663766537,1185,9:30–17:724,Nil
+TD-767,Music & Mountains - Hillside Cafe,Food,15,4.084232123,631,9:30–17:725,Nil
+TD-768,Gulati,Food,21,4.170885955,1504,9:30–17:726,Nil
+TD-769,Olive Bar & Kitchen,Food,14,4.066570678,1568,9:30–17:727,Nil
+TD-770,The Grammar Room,Food,25,4.633247739,750,9:30–17:728,Nil
+TD-771,Chaina Ram Sindhi Confectioners,Food,16,4.438839079,1531,9:30–17:729,Nil
+TD-772,Sevilla - The Claridges,Food,17,4.419757296,1294,9:30–17:730,Nil
+TD-773,Bo Tai,Food,0,4.923099734,549,9:30–17:731,Nil
+TD-774,Cafe Wink,Food,8,4.49256168,763,9:30–17:732,Nil
+TD-775,Dum-Pukht - ITC Maurya,Food,2,4.875535683,1586,9:30–17:733,Nil
+TD-776,Burma Burma,Food,9,4.196997707,1334,9:30–17:734,Nil
+TD-777,The Big Chill,Food,7,4.17634821,946,9:30–17:735,Nil
+TD-778,Carnatic Cafe,Food,4,4.19473789,1289,9:30–17:736,Nil
+TD-779,"Cocktails & Dreams, Speakeasy",Food,20,4.784294178,1115,9:30–17:737,Nil
+TD-780,Natural Ice Cream,Food,3,4.846752113,1573,9:30–17:738,Nil
+TD-781,Kuremal Mohan Lal Kulfi Wale,Food,11,4.913148381,1627,9:30–17:739,Nil
+TD-782,Juggernaut,Food,2,4.98441536,753,9:30–17:740,Nil
+TD-783,Comorin,Food,21,4.320090485,664,9:30–17:741,Nil
+TD-784,Viet:Nom,Food,17,4.434685717,652,9:30–17:742,Nil
+TD-785,Cafeteria & Co.,Food,7,4.25158599,1456,9:30–17:743,Nil
+TD-786,Sana-Di-Ge,Food,7,4.766765395,720,9:30–17:744,Nil
+TD-787,Pa Pa Ya,Food,9,4.912498825,1435,9:30–17:745,Nil
+TD-788,Yum Yum Cha,Food,22,4.834474446,1462,9:30–17:746,Nil
+TD-789,Coast Cafe,Food,7,4.0269404,622,9:30–17:747,Nil
+TD-790,PizzaExpress,Food,6,4.826014549,1388,9:30–17:748,Nil
+TD-791,The Big Chill Cakery,Food,12,4.072586249,648,9:30–17:749,Nil
+TD-792,Music & Mountains - Hillside Cafe,Food,19,4.611783929,1085,9:30–17:750,Nil
+TD-793,Gulati,Food,6,4.254131099,1286,9:30–17:751,Nil
+TD-794,Olive Bar & Kitchen,Food,15,4.04013739,941,9:30–17:752,Nil
+TD-795,The Grammar Room,Food,15,4.183134272,900,9:30–17:753,Nil
+TD-796,Chaina Ram Sindhi Confectioners,Food,16,4.630948377,796,9:30–17:754,Nil
+TD-797,Sevilla - The Claridges,Food,6,4.183212909,1350,9:30–17:755,Nil
+TD-798,Bo Tai,Food,4,4.630179767,1004,9:30–17:756,Nil
+TD-799,Cafe Wink,Food,8,4.659420405,875,9:30–17:757,Nil
+TD-800,Dum-Pukht - ITC Maurya,Food,6,4.508222829,839,9:30–17:758,Nil
+TD-801,Burma Burma,Food,1,4.425080134,1287,9:30–17:759,Nil
+TD-802,The Big Chill,Food,15,4.943016403,792,9:30–17:760,Nil
+TD-803,Carnatic Cafe,Food,12,4.542435032,1297,9:30–17:761,Nil
+TD-804,"Cocktails & Dreams, Speakeasy",Food,1,4.758720758,884,9:30–17:762,Nil
+TD-805,Natural Ice Cream,Food,2,4.549888968,738,9:30–17:763,Nil
+TD-806,Kuremal Mohan Lal Kulfi Wale,Food,4,4.327284345,760,9:30–17:764,Nil
+TD-807,Juggernaut,Food,25,4.495755635,1382,9:30–17:765,Nil
+TD-808,Comorin,Food,22,4.269209128,1450,9:30–17:766,Nil
+TD-809,Viet:Nom,Food,11,4.992547845,955,9:30–17:767,Nil
+TD-810,Cafeteria & Co.,Food,8,4.084314547,1672,9:30–17:768,Nil
+TD-811,Sana-Di-Ge,Food,17,4.388801671,1676,9:30–17:769,Nil
+TD-812,Pa Pa Ya,Food,4,4.141652491,1390,9:30–17:770,Nil
+TD-813,Yum Yum Cha,Food,18,4.869827381,968,9:30–17:771,Nil
+TD-814,Coast Cafe,Food,21,4.882047648,898,9:30–17:772,Nil
+TD-815,PizzaExpress,Food,0,4.65300424,1405,9:30–17:773,Nil
+TD-816,The Big Chill Cakery,Food,0,4.150662211,848,9:30–17:774,Nil
+TD-817,Music & Mountains - Hillside Cafe,Food,12,4.944635159,1123,9:30–17:775,Nil
+TD-818,Gulati,Food,17,4.443650206,999,9:30–17:776,Nil
+TD-819,Olive Bar & Kitchen,Food,25,4.13124057,1158,9:30–17:777,Nil
+TD-820,The Grammar Room,Food,17,4.132336929,1456,9:30–17:778,Nil
+TD-821,Chaina Ram Sindhi Confectioners,Food,25,4.226938893,984,9:30–17:779,Nil
+TD-822,Sevilla - The Claridges,Food,6,4.909171317,882,9:30–17:780,Nil
+TD-823,Bo Tai,Food,16,4.613266299,564,9:30–17:781,Nil
+TD-824,Cafe Wink,Food,4,4.153907527,700,9:30–17:782,Nil
+TD-825,Dum-Pukht - ITC Maurya,Food,19,4.992776075,1270,9:30–17:783,Nil
+TD-826,Burma Burma,Food,16,4.208883552,846,9:30–17:784,Nil
+TD-827,The Big Chill,Food,25,4.878793404,1156,9:30–17:785,Nil
+TD-828,Carnatic Cafe,Food,18,4.277081403,1375,9:30–17:786,Nil
+TD-829,"Cocktails & Dreams, Speakeasy",Food,16,4.913002653,1001,9:30–17:787,Nil
+TD-830,Natural Ice Cream,Food,3,4.588424075,642,9:30–17:788,Nil
+TD-831,Kuremal Mohan Lal Kulfi Wale,Food,6,4.103943627,805,9:30–17:789,Nil
+TD-832,Juggernaut,Food,0,4.735909779,643,9:30–17:790,Nil
+TD-833,Comorin,Food,6,4.029214042,747,9:30–17:791,Nil
+TD-834,Viet:Nom,Food,23,4.804970171,1194,9:30–17:792,Nil
+TD-835,Cafeteria & Co.,Food,9,4.164713842,602,9:30–17:793,Nil
+TD-836,Sana-Di-Ge,Food,13,4.626154618,1515,9:30–17:794,Nil
+TD-837,Pa Pa Ya,Food,24,4.832022976,1552,9:30–17:795,Nil
+TD-838,Yum Yum Cha,Food,5,4.903918743,1402,9:30–17:796,Nil
+TD-839,Coast Cafe,Food,6,4.406501664,996,9:30–17:797,Nil
+TD-840,PizzaExpress,Food,11,4.363662656,1487,9:30–17:798,Nil
+TD-841,The Big Chill Cakery,Food,15,4.032560959,1552,9:30–17:799,Nil
+TD-842,Music & Mountains - Hillside Cafe,Food,24,4.236150019,1180,9:30–17:800,Nil
+TD-843,Gulati,Food,0,4.629099373,685,9:30–17:801,Nil
+TD-844,Olive Bar & Kitchen,Food,19,4.090454263,1505,9:30–17:802,Nil
+TD-845,The Grammar Room,Food,3,4.048265421,1123,9:30–17:803,Nil
+TD-846,Chaina Ram Sindhi Confectioners,Food,18,4.250245925,910,9:30–17:804,Nil
+TD-847,Sevilla - The Claridges,Food,5,4.768541386,1072,9:30–17:805,Nil
+TD-848,Bo Tai,Food,14,4.911440119,1217,9:30–17:806,Nil
+TD-849,Cafe Wink,Food,12,4.854355266,1655,9:30–17:807,Nil
+TD-850,Dum-Pukht - ITC Maurya,Food,2,4.074537747,870,9:30–17:808,Nil
+TD-851,Burma Burma,Food,24,4.705907362,977,9:30–17:809,Nil
+TD-852,The Big Chill,Food,21,4.812658745,1253,9:30–17:810,Nil
+TD-853,Carnatic Cafe,Food,15,4.674735778,699,9:30–17:811,Nil
+TD-854,"Cocktails & Dreams, Speakeasy",Food,18,4.090477482,1292,9:30–17:812,Nil
+TD-855,Natural Ice Cream,Food,6,4.845398431,680,9:30–17:813,Nil
+TD-856,Kuremal Mohan Lal Kulfi Wale,Food,14,4.054029866,773,9:30–17:814,Nil
+TD-857,Juggernaut,Food,8,4.873683794,1636,9:30–17:815,Nil
+TD-858,Comorin,Food,5,4.964122252,920,9:30–17:816,Nil
+TD-859,Viet:Nom,Food,25,4.761133337,1003,9:30–17:817,Nil
+TD-860,Cafeteria & Co.,Food,7,4.32216378,1486,9:30–17:818,Nil
+TD-861,Sana-Di-Ge,Food,20,4.982084686,1388,9:30–17:819,Nil
+TD-862,Pa Pa Ya,Food,10,4.575944804,1265,9:30–17:820,Nil
+TD-863,Yum Yum Cha,Food,6,4.415879722,1021,9:30–17:821,Nil
+TD-864,Coast Cafe,Food,1,4.766713022,940,9:30–17:822,Nil
+TD-865,PizzaExpress,Food,24,4.942945481,1336,9:30–17:823,Nil
+TD-866,The Big Chill Cakery,Food,25,4.835926234,1013,9:30–17:824,Nil
+TD-867,Music & Mountains - Hillside Cafe,Food,4,4.261527477,1689,9:30–17:825,Nil
+TD-868,Gulati,Food,14,4.662582573,683,9:30–17:826,Nil
+TD-869,Olive Bar & Kitchen,Food,4,4.378385421,1683,9:30–17:827,Nil
+TD-870,The Grammar Room,Food,21,4.727681855,1572,9:30–17:828,Nil
+TD-871,Chaina Ram Sindhi Confectioners,Food,9,4.656292602,1021,9:30–17:829,Nil
+TD-872,Sevilla - The Claridges,Food,24,4.65966707,815,9:30–17:830,Nil
+TD-873,Bo Tai,Food,1,4.821897377,1647,9:30–17:831,Nil
+TD-874,Cafe Wink,Food,0,4.944319267,1501,9:30–17:832,Nil
+TD-875,Dum-Pukht - ITC Maurya,Food,5,4.863579046,1024,9:30–17:833,Nil
+TD-876,Burma Burma,Food,2,4.03372674,835,9:30–17:834,Nil
+TD-877,The Big Chill,Food,14,4.736961185,711,9:30–17:835,Nil
+TD-878,Carnatic Cafe,Food,16,4.020241581,966,9:30–17:836,Nil
+TD-879,"Cocktails & Dreams, Speakeasy",Food,2,4.113082676,747,9:30–17:837,Nil
+TD-880,Natural Ice Cream,Food,3,4.020904375,752,9:30–17:838,Nil
+TD-881,Kuremal Mohan Lal Kulfi Wale,Food,22,4.601330497,750,9:30–17:839,Nil
+TD-882,Juggernaut,Food,20,4.483521645,1050,9:30–17:840,Nil
+TD-883,Comorin,Food,13,4.218390181,1299,9:30–17:841,Nil
+TD-884,Viet:Nom,Food,18,4.966581077,1197,9:30–17:842,Nil
+TD-885,Cafeteria & Co.,Food,20,4.779957986,817,9:30–17:843,Nil
+TD-886,Sana-Di-Ge,Food,12,4.500884597,938,9:30–17:844,Nil
+TD-887,Pa Pa Ya,Food,0,4.793435197,1073,9:30–17:845,Nil
+TD-888,Yum Yum Cha,Food,3,4.453031506,1061,9:30–17:846,Nil
+TD-889,Coast Cafe,Food,3,4.665596749,1222,9:30–17:847,Nil
+TD-890,PizzaExpress,Food,2,4.646316591,872,9:30–17:848,Nil
+TD-891,The Big Chill Cakery,Food,6,4.099604169,1206,9:30–17:849,Nil
+TD-892,Music & Mountains - Hillside Cafe,Food,1,4.336787752,734,9:30–17:850,Nil
+TD-893,Gulati,Food,3,4.0819316,1613,9:30–17:851,Nil
+TD-894,Olive Bar & Kitchen,Food,25,4.846612541,1211,9:30–17:852,Nil
+TD-895,The Grammar Room,Food,18,4.5946581,1529,9:30–17:853,Nil
+TD-896,Chaina Ram Sindhi Confectioners,Food,1,4.474410516,712,9:30–17:854,Nil
+TD-897,Sevilla - The Claridges,Food,0,4.904956936,1014,9:30–17:855,Nil
+TD-898,Bo Tai,Food,3,4.992725918,1147,9:30–17:856,Nil
+TD-899,Cafe Wink,Food,25,4.651464517,751,9:30–17:857,Nil
+TD-900,Dum-Pukht - ITC Maurya,Food,22,4.248056339,1436,9:30–17:858,Nil
+TD-901,Burma Burma,Food,16,4.304542884,838,9:30–17:859,Nil
+TD-902,The Big Chill,Food,17,4.765505667,654,9:30–17:860,Nil
+TD-903,Carnatic Cafe,Food,25,4.951394679,513,9:30–17:861,Nil
+TD-904,"Cocktails & Dreams, Speakeasy",Food,15,4.924215567,806,9:30–17:862,Nil
+TD-905,Natural Ice Cream,Food,11,4.245205799,865,9:30–17:863,Nil
+TD-906,Kuremal Mohan Lal Kulfi Wale,Food,25,4.326695513,729,9:30–17:864,Nil
+TD-907,Juggernaut,Food,2,4.437944443,1096,9:30–17:865,Nil
+TD-908,Comorin,Food,17,4.592320404,953,9:30–17:866,Nil
+TD-909,Viet:Nom,Food,5,4.184066586,652,9:30–17:867,Nil
+TD-910,Cafeteria & Co.,Food,18,4.089970815,1541,9:30–17:868,Nil
+TD-911,Sana-Di-Ge,Food,2,4.414248596,1064,9:30–17:869,Nil
+TD-912,Pa Pa Ya,Food,25,4.305487955,1195,9:30–17:870,Nil
+TD-913,Yum Yum Cha,Food,18,4.635561126,1170,9:30–17:871,Nil
+TD-914,Coast Cafe,Food,16,4.094047447,1253,9:30–17:872,Nil
+TD-915,PizzaExpress,Food,16,4.247888032,909,9:30–17:873,Nil
+TD-916,The Big Chill Cakery,Food,17,4.226339934,1429,9:30–17:874,Nil
+TD-917,Music & Mountains - Hillside Cafe,Food,16,4.258162725,682,9:30–17:875,Nil
+TD-918,Gulati,Food,21,4.046464083,1370,9:30–17:876,Nil
+TD-919,Olive Bar & Kitchen,Food,3,4.347593305,1663,9:30–17:877,Nil
+TD-920,The Grammar Room,Food,6,4.862784606,740,9:30–17:878,Nil
+TD-921,Chaina Ram Sindhi Confectioners,Food,15,4.884514786,1206,9:30–17:879,Nil
+TD-922,Sevilla - The Claridges,Food,12,4.557498919,1526,9:30–17:880,Nil
+TD-923,Bo Tai,Food,17,4.643923466,617,9:30–17:881,Nil
+TD-924,Cafe Wink,Food,7,4.357750654,1425,9:30–17:882,Nil
+TD-925,Dum-Pukht - ITC Maurya,Food,1,4.577916204,1154,9:30–17:883,Nil
+TD-926,Burma Burma,Food,8,4.150242027,1144,9:30–17:884,Nil
+TD-927,The Big Chill,Food,24,4.520195534,782,9:30–17:885,Nil
+TD-928,Carnatic Cafe,Food,19,4.98419208,1187,9:30–17:886,Nil
+TD-929,"Cocktails & Dreams, Speakeasy",Food,16,4.253738655,900,9:30–17:887,Nil
+TD-930,Natural Ice Cream,Food,0,4.250452006,809,9:30–17:888,Nil
+TD-931,Kuremal Mohan Lal Kulfi Wale,Food,0,4.007736369,964,9:30–17:889,Nil
+TD-932,Juggernaut,Food,5,4.608168893,1666,9:30–17:890,Nil
+TD-933,Comorin,Food,13,4.987469997,1327,9:30–17:891,Nil
+TD-934,Viet:Nom,Food,10,4.397926916,799,9:30–17:892,Nil
+TD-935,Cafeteria & Co.,Food,15,4.464881142,1298,9:30–17:893,Nil
+TD-936,Sana-Di-Ge,Food,5,4.931061238,1622,9:30–17:894,Nil
+TD-937,Pa Pa Ya,Food,8,4.982079148,1369,9:30–17:895,Nil
+TD-938,Yum Yum Cha,Food,20,4.183220625,1279,9:30–17:896,Nil
+TD-939,Coast Cafe,Food,0,4.823445416,1075,9:30–17:897,Nil
+TD-940,PizzaExpress,Food,13,4.724351545,1655,9:30–17:898,Nil
+TD-941,The Big Chill Cakery,Food,11,4.373326022,1454,9:30–17:899,Nil
+TD-942,Music & Mountains - Hillside Cafe,Food,15,4.46640691,537,9:30–17:900,Nil
+TD-943,Gulati,Food,8,4.511447423,999,9:30–17:901,Nil
+TD-944,Olive Bar & Kitchen,Food,25,4.051084397,1457,9:30–17:902,Nil
+TD-945,The Grammar Room,Food,22,4.379613136,1268,9:30–17:903,Nil
+TD-946,Chaina Ram Sindhi Confectioners,Food,5,4.520744842,1098,9:30–17:904,Nil
+TD-947,Sevilla - The Claridges,Food,2,4.611656397,1165,9:30–17:905,Nil
+TD-948,Bo Tai,Food,21,4.212546096,954,9:30–17:906,Nil
+TD-949,Cafe Wink,Food,17,4.825851131,1096,9:30–17:907,Nil
+TD-950,Dum-Pukht - ITC Maurya,Food,20,4.966504115,927,9:30–17:908,Nil
+TD-951,Burma Burma,Food,25,4.305399102,1015,9:30–17:909,Nil
+TD-952,The Big Chill,Food,25,4.052828944,1300,9:30–17:910,Nil
+TD-953,Carnatic Cafe,Food,15,4.330405564,748,9:30–17:911,Nil
+TD-954,"Cocktails & Dreams, Speakeasy",Food,10,4.803746008,1199,9:30–17:912,Nil
+TD-955,Natural Ice Cream,Food,13,4.698703394,1063,9:30–17:913,Nil
+TD-956,Kuremal Mohan Lal Kulfi Wale,Food,9,4.462653371,1469,9:30–17:914,Nil
+TD-957,Juggernaut,Food,18,4.618486354,1290,9:30–17:915,Nil
+TD-958,Comorin,Food,24,4.105185219,1522,9:30–17:916,Nil
+TD-959,Viet:Nom,Food,9,4.240159528,760,9:30–17:917,Nil
+TD-960,Cafeteria & Co.,Food,7,4.954708889,939,9:30–17:918,Nil
+TD-961,Sana-Di-Ge,Food,25,4.347464353,545,9:30–17:919,Nil
+TD-962,Pa Pa Ya,Food,25,4.068090937,662,9:30–17:920,Nil
+TD-963,Yum Yum Cha,Food,4,4.301525859,1632,9:30–17:921,Nil
+TD-964,Coast Cafe,Food,18,4.597822597,622,9:30–17:922,Nil
+TD-965,PizzaExpress,Food,19,4.265878638,955,9:30–17:923,Nil
+TD-966,The Big Chill Cakery,Food,20,4.246416872,689,9:30–17:924,Nil
+TD-967,Music & Mountains - Hillside Cafe,Food,19,4.510092669,1259,9:30–17:925,Nil
+TD-968,Gulati,Food,10,4.363082692,709,9:30–17:926,Nil
+TD-969,Olive Bar & Kitchen,Food,16,4.671596605,1605,9:30–17:927,Nil
+TD-970,The Grammar Room,Food,13,4.676547359,1242,9:30–17:928,Nil
+TD-971,Chaina Ram Sindhi Confectioners,Food,22,4.172904995,858,9:30–17:929,Nil
+TD-972,Sevilla - The Claridges,Food,11,4.192092706,1201,9:30–17:930,Nil
+TD-973,Bo Tai,Food,21,4.36292601,721,9:30–17:931,Nil
+TD-974,Cafe Wink,Food,17,4.644495083,1321,9:30–17:932,Nil
+TD-975,Dum-Pukht - ITC Maurya,Food,14,4.96450763,624,9:30–17:933,Nil
+TD-976,Burma Burma,Food,15,4.875946077,1670,9:30–17:934,Nil
+TD-977,The Big Chill,Food,22,4.579996909,581,9:30–17:935,Nil
+TD-978,Carnatic Cafe,Food,6,4.852547599,631,9:30–17:936,Nil
+TD-979,"Cocktails & Dreams, Speakeasy",Food,6,4.259138164,1120,9:30–17:937,Nil
+TD-980,Natural Ice Cream,Food,4,4.382813262,692,9:30–17:938,Nil
+TD-981,Kuremal Mohan Lal Kulfi Wale,Food,18,4.136421275,1434,9:30–17:939,Nil
+TD-982,Juggernaut,Food,15,4.450998772,506,9:30–17:940,Nil
+TD-983,Comorin,Food,11,4.192303616,912,9:30–17:941,Nil
+TD-984,Viet:Nom,Food,21,4.404176237,1058,9:30–17:942,Nil
+TD-985,Cafeteria & Co.,Food,17,4.260587132,826,9:30–17:943,Nil
+TD-986,Sana-Di-Ge,Food,9,4.332136916,1565,9:30–17:944,Nil
+TD-987,Pa Pa Ya,Food,11,4.399182154,1217,9:30–17:945,Nil
+TD-988,Yum Yum Cha,Food,18,4.96881565,1678,9:30–17:946,Nil
+TD-989,Coast Cafe,Food,22,4.202300293,1016,9:30–17:947,Nil
+TD-990,PizzaExpress,Food,12,4.014118498,770,9:30–17:948,Nil
+TD-991,The Big Chill Cakery,Food,17,4.721432058,716,9:30–17:949,Nil
+TD-992,Music & Mountains - Hillside Cafe,Food,13,4.739611399,1222,9:30–17:950,Nil
+TD-993,Gulati,Food,12,4.599883633,980,9:30–17:951,Nil
+TD-994,Olive Bar & Kitchen,Food,25,4.707648702,819,9:30–17:952,Nil
+TD-995,The Grammar Room,Food,18,4.729234964,979,9:30–17:953,Nil
+TD-996,Chaina Ram Sindhi Confectioners,Food,11,4.694376914,502,9:30–17:954,Nil
+TD-997,Sevilla - The Claridges,Food,1,4.667507829,1544,9:30–17:955,Nil
+TD-998,Bo Tai,Food,25,4.489140374,1131,9:30–17:956,Nil
+TD-999,Cafe Wink,Food,18,4.705987171,1017,9:30–17:957,Nil
+TD-1000,Dum-Pukht - ITC Maurya,Food,22,4.380808041,1421,9:30–17:958,Nil
+TD-1001,Burma Burma,Food,16,4.067605216,856,9:30–17:959,Nil
+TD-1002,The Big Chill,Food,5,4.113856365,1674,9:30–17:960,Nil
+TD-1003,Carnatic Cafe,Food,17,4.075007555,1272,9:30–17:961,Nil
+TD-1004,"Cocktails & Dreams, Speakeasy",Food,18,4.21412838,1644,9:30–17:962,Nil
+TD-1005,Natural Ice Cream,Food,8,4.919423727,1522,9:30–17:963,Nil
+TD-1006,Kuremal Mohan Lal Kulfi Wale,Food,13,4.673883881,1072,9:30–17:964,Nil
+TD-1007,Juggernaut,Food,2,4.920718023,681,9:30–17:965,Nil
+TD-1008,Comorin,Food,3,4.918771085,1186,9:30–17:966,Nil
+TD-1009,Viet:Nom,Food,21,4.813416008,580,9:30–17:967,Nil
+TD-1010,Cafeteria & Co.,Food,11,4.65329437,1519,9:30–17:968,Nil
+TD-1011,Sana-Di-Ge,Food,19,4.720144321,736,9:30–17:969,Nil
+TD-1012,Pa Pa Ya,Food,9,4.31828989,662,9:30–17:970,Nil
+TD-1013,Yum Yum Cha,Food,13,4.66133898,752,9:30–17:971,Nil
+TD-1014,Coast Cafe,Food,11,4.730514424,794,9:30–17:972,Nil
+TD-1015,PizzaExpress,Food,18,4.863462458,703,9:30–17:973,Nil
+TD-1016,The Big Chill Cakery,Food,24,4.671678105,1260,9:30–17:974,Nil
+TD-1017,Music & Mountains - Hillside Cafe,Food,25,4.337482202,780,9:30–17:975,Nil
+TD-1018,Gulati,Food,17,4.023831856,547,9:30–17:976,Nil
+TD-1019,Olive Bar & Kitchen,Food,11,4.172365047,1334,9:30–17:977,Nil
+TD-1020,The Grammar Room,Food,20,4.185857371,1311,9:30–17:978,Nil
+TD-1021,Chaina Ram Sindhi Confectioners,Food,23,4.358413641,728,9:30–17:979,Nil
+TD-1022,Sevilla - The Claridges,Food,0,4.646820661,1682,9:30–17:980,Nil
+TD-1023,Bo Tai,Food,7,4.289806318,840,9:30–17:981,Nil
+TD-1024,Cafe Wink,Food,3,4.217763269,1550,9:30–17:982,Nil
+TD-1025,Dum-Pukht - ITC Maurya,Food,22,4.884941608,892,9:30–17:983,Nil
+TD-1026,Burma Burma,Food,19,4.975389561,1636,9:30–17:984,Nil
+TD-1027,The Big Chill,Food,0,4.232098689,728,9:30–17:985,Nil
+TD-1028,Carnatic Cafe,Food,2,4.093796954,1135,9:30–17:986,Nil
+TD-1029,"Cocktails & Dreams, Speakeasy",Food,13,4.716445213,539,9:30–17:987,Nil
+TD-1030,Natural Ice Cream,Food,23,4.032178757,766,9:30–17:988,Nil
+TD-1031,Kuremal Mohan Lal Kulfi Wale,Food,24,4.871095031,574,9:30–17:989,Nil
+TD-1032,Juggernaut,Food,10,4.754488396,793,9:30–17:990,Nil
+TD-1033,Comorin,Food,23,4.805620574,1021,9:30–17:991,Nil
+TD-1034,Viet:Nom,Food,11,4.953383854,917,9:30–17:992,Nil
+TD-1035,Cafeteria & Co.,Food,17,4.124739591,907,9:30–17:993,Nil
+TD-1036,Sana-Di-Ge,Food,23,4.602691388,1640,9:30–17:994,Nil
+TD-1037,Pa Pa Ya,Food,12,4.252959555,722,9:30–17:995,Nil
+TD-1038,Yum Yum Cha,Food,5,4.872563475,1060,9:30–17:996,Nil
+TD-1039,Coast Cafe,Food,24,4.437443664,1500,9:30–17:997,Nil
+TD-1040,PizzaExpress,Food,22,4.334040913,799,9:30–17:998,Nil
+TD-1041,The Big Chill Cakery,Food,3,4.114137611,1079,9:30–17:999,Nil
+TD-1042,Music & Mountains - Hillside Cafe,Food,15,4.204874591,1468,9:30–17:1000,Nil
+TD-1043,Gulati,Food,11,4.318292849,1485,9:30–17:1001,Nil
+TD-1044,Olive Bar & Kitchen,Food,13,4.709730396,1012,9:30–17:1002,Nil
+TD-1045,The Grammar Room,Food,19,4.242688151,1102,9:30–17:1003,Nil
+TD-1046,Chaina Ram Sindhi Confectioners,Food,4,4.905270975,1266,9:30–17:1004,Nil
+TD-1047,Sevilla - The Claridges,Food,11,4.979950973,585,9:30–17:1005,Nil
+TD-1048,Bo Tai,Food,4,4.084384904,1353,9:30–17:1006,Nil
+TD-1049,Cafe Wink,Food,5,4.47196562,765,9:30–17:1007,Nil
+TD-1050,Dum-Pukht - ITC Maurya,Food,4,4.155933884,1513,9:30–17:1008,Nil
+TD-1051,Burma Burma,Food,4,4.59969339,1238,9:30–17:1009,Nil
+TD-1052,The Big Chill,Food,2,4.676601443,1011,9:30–17:1010,Nil
+TD-1053,Carnatic Cafe,Food,21,4.624859038,1080,9:30–17:1011,Nil
+TD-1054,"Cocktails & Dreams, Speakeasy",Food,21,4.857242906,1536,9:30–17:1012,Nil
+TD-1055,Natural Ice Cream,Food,10,4.218489098,1421,9:30–17:1013,Nil
+TD-1056,Kuremal Mohan Lal Kulfi Wale,Food,13,4.207506166,1105,9:30–17:1014,Nil
+TD-1057,Juggernaut,Food,7,4.450069823,955,9:30–17:1015,Nil
+TD-1058,Comorin,Food,9,4.015108017,704,9:30–17:1016,Nil
+TD-1059,Viet:Nom,Food,11,4.295639489,1272,9:30–17:1017,Nil
+TD-1060,Cafeteria & Co.,Food,24,4.956654268,1363,9:30–17:1018,Nil
+TD-1061,Sana-Di-Ge,Food,21,4.658794295,561,9:30–17:1019,Nil
+TD-1062,Pa Pa Ya,Food,16,4.456860417,1059,9:30–17:1020,Nil
+TD-1063,Yum Yum Cha,Food,6,4.36496393,1669,9:30–17:1021,Nil
+TD-1064,Coast Cafe,Food,16,4.775267809,1219,9:30–17:1022,Nil
+TD-1065,PizzaExpress,Food,25,4.854387608,1075,9:30–17:1023,Nil
+TD-1066,The Big Chill Cakery,Food,8,4.857422245,951,9:30–17:1024,Nil
+TD-1067,Music & Mountains - Hillside Cafe,Food,1,4.797495569,981,9:30–17:1025,Nil
+TD-1068,Gulati,Food,4,4.043262999,825,9:30–17:1026,Nil
+TD-1069,Olive Bar & Kitchen,Food,21,4.67783683,1059,9:30–17:1027,Nil
+TD-1070,The Grammar Room,Food,15,4.208821498,1559,9:30–17:1028,Nil
+TD-1071,Chaina Ram Sindhi Confectioners,Food,24,4.595755502,1641,9:30–17:1029,Nil
+TD-1072,Sevilla - The Claridges,Food,9,4.462804144,1360,9:30–17:1030,Nil
+TD-1073,Bo Tai,Food,3,4.895361912,1319,9:30–17:1031,Nil
+TD-1074,Cafe Wink,Food,15,4.607446502,605,9:30–17:1032,Nil
+TD-1075,Dum-Pukht - ITC Maurya,Food,7,4.274888551,1020,9:30–17:1033,Nil
+TD-1076,Burma Burma,Food,24,4.902358145,785,9:30–17:1034,Nil
+TD-1077,The Big Chill,Food,9,4.740231461,1203,9:30–17:1035,Nil
+TD-1078,Carnatic Cafe,Food,17,4.04422031,628,9:30–17:1036,Nil
+TD-1079,"Cocktails & Dreams, Speakeasy",Food,19,4.325133432,1344,9:30–17:1037,Nil
+TD-1080,Natural Ice Cream,Food,5,4.275011356,1545,9:30–17:1038,Nil
+TD-1081,Kuremal Mohan Lal Kulfi Wale,Food,12,4.612871991,920,9:30–17:1039,Nil
+TD-1082,Juggernaut,Food,19,4.781901072,1603,9:30–17:1040,Nil
+TD-1083,Comorin,Food,8,4.944262531,916,9:30–17:1041,Nil
+TD-1084,Viet:Nom,Food,0,4.048172984,888,9:30–17:1042,Nil
+TD-1085,Cafeteria & Co.,Food,21,4.28673466,1448,9:30–17:1043,Nil
+TD-1086,Sana-Di-Ge,Food,12,4.809059476,1385,9:30–17:1044,Nil
+TD-1087,Pa Pa Ya,Food,16,4.499649087,902,9:30–17:1045,Nil
+TD-1088,Yum Yum Cha,Food,14,4.527408005,1691,9:30–17:1046,Nil
+TD-1089,Coast Cafe,Food,19,4.26390106,1581,9:30–17:1047,Nil
+TD-1090,PizzaExpress,Food,5,4.953877969,902,9:30–17:1048,Nil
+TD-1091,The Big Chill Cakery,Food,4,4.779631176,1314,9:30–17:1049,Nil
+TD-1092,Music & Mountains - Hillside Cafe,Food,5,4.00178002,943,9:30–17:1050,Nil
+TD-1093,Gulati,Food,14,4.618699492,1371,9:30–17:1051,Nil
+TD-1094,Olive Bar & Kitchen,Food,5,4.419652022,1050,9:30–17:1052,Nil
+TD-1095,The Grammar Room,Food,20,4.214354991,688,9:30–17:1053,Nil
+TD-1096,Chaina Ram Sindhi Confectioners,Food,20,4.203046409,1221,9:30–17:1054,Nil
+TD-1097,Sevilla - The Claridges,Food,4,4.834834429,924,9:30–17:1055,Nil
+TD-1098,Bo Tai,Food,5,4.278499651,1052,9:30–17:1056,Nil
+TD-1099,Cafe Wink,Food,18,4.6202991,728,9:30–17:1057,Nil
+TD-1100,Dum-Pukht - ITC Maurya,Food,2,4.620253099,536,9:30–17:1058,Nil
+TD-1101,Burma Burma,Food,16,4.388114024,878,9:30–17:1059,Nil
+TD-1102,The Big Chill,Food,6,4.278675159,1144,9:30–17:1060,Nil
+TD-1103,Carnatic Cafe,Food,10,4.270217976,1364,9:30–17:1061,Nil
+TD-1104,"Cocktails & Dreams, Speakeasy",Food,10,4.446122737,1352,9:30–17:1062,Nil
+TD-1105,Natural Ice Cream,Food,7,4.693085457,1685,9:30–17:1063,Nil
+TD-1106,Kuremal Mohan Lal Kulfi Wale,Food,25,4.956185132,1598,9:30–17:1064,Nil
+TD-1107,Juggernaut,Food,3,4.317015684,678,9:30–17:1065,Nil
+TD-1108,Comorin,Food,21,4.388792155,1005,9:30–17:1066,Nil
+TD-1109,Viet:Nom,Food,1,4.741081628,1571,9:30–17:1067,Nil
+TD-1110,Cafeteria & Co.,Food,0,4.578973142,1478,9:30–17:1068,Nil
+TD-1111,Sana-Di-Ge,Food,1,4.411489023,1403,9:30–17:1069,Nil
+TD-1112,Pa Pa Ya,Food,15,4.237736812,998,9:30–17:1070,Nil
+TD-1113,Yum Yum Cha,Food,17,4.055529178,841,9:30–17:1071,Nil
+TD-1114,Coast Cafe,Food,1,4.833846283,1123,9:30–17:1072,Nil
+TD-1115,PizzaExpress,Food,0,4.713955915,1108,9:30–17:1073,Nil
+TD-1116,The Big Chill Cakery,Food,14,4.781593469,1665,9:30–17:1074,Nil
+TD-1117,Music & Mountains - Hillside Cafe,Food,7,4.728934437,672,9:30–17:1075,Nil
+TD-1118,Gulati,Food,22,4.339413196,527,9:30–17:1076,Nil
+TD-1119,Olive Bar & Kitchen,Food,3,4.022186064,865,9:30–17:1077,Nil
+TD-1120,The Grammar Room,Food,7,4.898095606,901,9:30–17:1078,Nil
+TD-1121,Chaina Ram Sindhi Confectioners,Food,4,4.039798102,757,9:30–17:1079,Nil
+TD-1122,Sevilla - The Claridges,Food,24,4.901195496,1434,9:30–17:1080,Nil
+TD-1123,Bo Tai,Food,19,4.318566651,802,9:30–17:1081,Nil
+TD-1124,Cafe Wink,Food,19,4.573573846,761,9:30–17:1082,Nil
+TD-1125,Dum-Pukht - ITC Maurya,Food,10,4.156069633,1462,9:30–17:1083,Nil
+TD-1126,Burma Burma,Food,10,4.571153212,1126,9:30–17:1084,Nil
+TD-1127,The Big Chill,Food,19,4.721269393,707,9:30–17:1085,Nil
+TD-1128,Carnatic Cafe,Food,16,4.353686142,1321,9:30–17:1086,Nil
+TD-1129,"Cocktails & Dreams, Speakeasy",Food,6,4.867823248,1088,9:30–17:1087,Nil
+TD-1130,Natural Ice Cream,Food,16,4.994375553,1567,9:30–17:1088,Nil
+TD-1131,Kuremal Mohan Lal Kulfi Wale,Food,4,4.061234473,714,9:30–17:1089,Nil
+TD-1132,Juggernaut,Food,0,4.747870212,1225,9:30–17:1090,Nil
+TD-1133,Comorin,Food,16,4.880061097,565,9:30–17:1091,Nil
+TD-1134,Viet:Nom,Food,20,4.654531195,1242,9:30–17:1092,Nil
+TD-1135,Cafeteria & Co.,Food,7,4.087614957,750,9:30–17:1093,Nil
+TD-1136,Sana-Di-Ge,Food,24,4.847596319,1299,9:30–17:1094,Nil
+TD-1137,Pa Pa Ya,Food,17,4.231195931,657,9:30–17:1095,Nil
+TD-1138,Yum Yum Cha,Food,0,4.994466438,1196,9:30–17:1096,Nil
+TD-1139,Coast Cafe,Food,8,4.772456807,887,9:30–17:1097,Nil
+TD-1140,PizzaExpress,Food,7,4.631765298,1214,9:30–17:1098,Nil
+TD-1141,The Big Chill Cakery,Food,11,4.458365289,598,9:30–17:1099,Nil
+TD-1142,Music & Mountains - Hillside Cafe,Food,14,4.725181612,973,9:30–17:1100,Nil
+TD-1143,Gulati,Food,11,4.042724238,1392,9:30–17:1101,Nil
+TD-1144,Olive Bar & Kitchen,Food,19,4.297442036,1657,9:30–17:1102,Nil
+TD-1145,The Grammar Room,Food,15,4.680947301,860,9:30–17:1103,Nil
+TD-1146,Chaina Ram Sindhi Confectioners,Food,0,4.817778363,1450,9:30–17:1104,Nil
+TD-1147,Sevilla - The Claridges,Food,15,4.118019156,1486,9:30–17:1105,Nil
+TD-1148,Bo Tai,Food,22,4.304591524,903,9:30–17:1106,Nil
+TD-1149,Cafe Wink,Food,13,4.983528031,1139,9:30–17:1107,Nil
+TD-1150,Dum-Pukht - ITC Maurya,Food,0,4.686880832,1202,9:30–17:1108,Nil
+TD-1151,Burma Burma,Food,20,4.677654552,903,9:30–17:1109,Nil
+TD-1152,The Big Chill,Food,25,4.092706532,1000,9:30–17:1110,Nil
+TD-1153,Carnatic Cafe,Food,9,4.362617662,759,9:30–17:1111,Nil
+TD-1154,"Cocktails & Dreams, Speakeasy",Food,18,4.509845884,1167,9:30–17:1112,Nil
+TD-1155,Natural Ice Cream,Food,8,4.373496512,1225,9:30–17:1113,Nil
+TD-1156,Kuremal Mohan Lal Kulfi Wale,Food,21,4.907767316,636,9:30–17:1114,Nil
+TD-1157,Juggernaut,Food,7,4.788352441,916,9:30–17:1115,Nil
+TD-1158,Comorin,Food,6,4.341125062,579,9:30–17:1116,Nil
+TD-1159,Viet:Nom,Food,14,4.865208854,1145,9:30–17:1117,Nil
+TD-1160,Cafeteria & Co.,Food,9,4.261008865,1450,9:30–17:1118,Nil
+TD-1161,Sana-Di-Ge,Food,23,4.806110076,1025,9:30–17:1119,Nil
+TD-1162,Pa Pa Ya,Food,19,4.927507501,651,9:30–17:1120,Nil
+TD-1163,Yum Yum Cha,Food,9,4.964896147,540,9:30–17:1121,Nil
+TD-1164,Coast Cafe,Food,1,4.057612823,1011,9:30–17:1122,Nil
+TD-1165,PizzaExpress,Food,17,4.337204581,647,9:30–17:1123,Nil
+TD-1166,The Big Chill Cakery,Food,20,4.940403754,569,9:30–17:1124,Nil
+TD-1167,Music & Mountains - Hillside Cafe,Food,9,4.869816414,1021,9:30–17:1125,Nil
+TD-1168,Gulati,Food,1,4.348003364,816,9:30–17:1126,Nil
+TD-1169,Olive Bar & Kitchen,Food,15,4.945559832,776,9:30–17:1127,Nil
+TD-1170,The Grammar Room,Food,4,4.189914445,1412,9:30–17:1128,Nil
+TD-1171,Chaina Ram Sindhi Confectioners,Food,24,4.353143571,1214,9:30–17:1129,Nil
+TD-1172,Sevilla - The Claridges,Food,8,4.953348121,1118,9:30–17:1130,Nil
+TD-1173,Bo Tai,Food,7,4.156602381,612,9:30–17:1131,Nil
+TD-1174,Cafe Wink,Food,9,4.44642993,738,9:30–17:1132,Nil
+TD-1175,Dum-Pukht - ITC Maurya,Food,16,4.989505095,649,9:30–17:1133,Nil
+TD-1176,Burma Burma,Food,19,4.438341671,1283,9:30–17:1134,Nil
+TD-1177,The Big Chill,Food,25,4.651235822,1155,9:30–17:1135,Nil
+TD-1178,Carnatic Cafe,Food,12,4.265236771,1684,9:30–17:1136,Nil
+TD-1179,"Cocktails & Dreams, Speakeasy",Food,25,4.85973133,1060,9:30–17:1137,Nil
+TD-1180,Natural Ice Cream,Food,19,4.284543264,1275,9:30–17:1138,Nil
+TD-1181,Kuremal Mohan Lal Kulfi Wale,Food,13,4.73841826,1274,9:30–17:1139,Nil
+TD-1182,Juggernaut,Food,18,4.731280696,1372,9:30–17:1140,Nil
+TD-1183,Comorin,Food,17,4.656064622,511,9:30–17:1141,Nil
+TD-1184,Viet:Nom,Food,19,4.100427872,1151,9:30–17:1142,Nil
+TD-1185,Cafeteria & Co.,Food,5,4.059672023,875,9:30–17:1143,Nil
+TD-1186,Sana-Di-Ge,Food,6,4.644965848,1616,9:30–17:1144,Nil
+TD-1187,Pa Pa Ya,Food,11,4.608321603,668,9:30–17:1145,Nil
+TD-1188,Yum Yum Cha,Food,14,4.357518132,586,9:30–17:1146,Nil
+TD-1189,Coast Cafe,Food,6,4.29131892,558,9:30–17:1147,Nil
+TD-1190,PizzaExpress,Food,10,4.685695763,1369,9:30–17:1148,Nil
+TD-1191,The Big Chill Cakery,Food,9,4.064126309,627,9:30–17:1149,Nil
+TD-1192,Music & Mountains - Hillside Cafe,Food,10,4.07408176,733,9:30–17:1150,Nil
+TD-1193,Gulati,Food,6,4.723545496,1035,9:30–17:1151,Nil
+TD-1194,Olive Bar & Kitchen,Food,3,4.725695645,1019,9:30–17:1152,Nil
+TD-1195,The Grammar Room,Food,18,4.775127574,762,9:30–17:1153,Nil
+TD-1196,Chaina Ram Sindhi Confectioners,Food,11,4.631926379,1322,9:30–17:1154,Nil
+TD-1197,Sevilla - The Claridges,Food,4,4.214647101,1014,9:30–17:1155,Nil
+TD-1198,Bo Tai,Food,6,4.632973132,1377,9:30–17:1156,Nil
+TD-1199,Cafe Wink,Food,8,4.515296819,1035,9:30–17:1157,Nil
+TD-1200,Dum-Pukht - ITC Maurya,Food,19,4.326080497,1417,9:30–17:1158,Nil
+TD-1201,Burma Burma,Food,7,4.666716604,1542,9:30–17:1159,Nil
+TD-1202,The Big Chill,Food,25,4.02735423,1202,9:30–17:1160,Nil
+TD-1203,Carnatic Cafe,Food,17,4.894084724,1235,9:30–17:1161,Nil
+TD-1204,"Cocktails & Dreams, Speakeasy",Food,11,4.586483109,1074,9:30–17:1162,Nil
+TD-1205,Natural Ice Cream,Food,17,4.85730326,1485,9:30–17:1163,Nil
+TD-1206,Kuremal Mohan Lal Kulfi Wale,Food,12,4.77878865,1419,9:30–17:1164,Nil
+TD-1207,Juggernaut,Food,1,4.795374934,876,9:30–17:1165,Nil
+TD-1208,Comorin,Food,9,4.93138998,1524,9:30–17:1166,Nil
+TD-1209,Viet:Nom,Food,5,4.846586983,1164,9:30–17:1167,Nil
+TD-1210,Cafeteria & Co.,Food,20,4.742484601,1384,9:30–17:1168,Nil
+TD-1211,Sana-Di-Ge,Food,10,4.773114614,1228,9:30–17:1169,Nil
+TD-1212,Pa Pa Ya,Food,9,4.754801205,1652,9:30–17:1170,Nil
+TD-1213,Yum Yum Cha,Food,12,4.371816725,717,9:30–17:1171,Nil
+TD-1214,Coast Cafe,Food,18,4.911643133,902,9:30–17:1172,Nil
+TD-1215,PizzaExpress,Food,8,4.656562987,1419,9:30–17:1173,Nil
+TD-1216,The Big Chill Cakery,Food,16,4.293600568,1669,9:30–17:1174,Nil
+TD-1217,Music & Mountains - Hillside Cafe,Food,11,4.137770993,1659,9:30–17:1175,Nil
+TD-1218,Gulati,Food,17,4.70352682,1076,9:30–17:1176,Nil
+TD-1219,Olive Bar & Kitchen,Food,10,4.895221905,1518,9:30–17:1177,Nil
+TD-1220,The Grammar Room,Food,24,4.661886804,850,9:30–17:1178,Nil
+TD-1221,Chaina Ram Sindhi Confectioners,Food,2,4.742329295,1230,9:30–17:1179,Nil
+TD-1222,Sevilla - The Claridges,Food,3,4.773711691,620,9:30–17:1180,Nil
+TD-1223,Bo Tai,Food,0,4.062104914,613,9:30–17:1181,Nil
+TD-1224,Cafe Wink,Food,6,4.532335071,1009,9:30–17:1182,Nil
+TD-1225,Dum-Pukht - ITC Maurya,Food,4,4.437161995,1304,9:30–17:1183,Nil
+TD-1226,Burma Burma,Food,19,4.389644486,1044,9:30–17:1184,Nil
+TD-1227,The Big Chill,Food,10,4.327001141,1267,9:30–17:1185,Nil
+TD-1228,Carnatic Cafe,Food,0,4.150106958,1091,9:30–17:1186,Nil
+TD-1229,"Cocktails & Dreams, Speakeasy",Food,3,4.479941832,1259,9:30–17:1187,Nil
+TD-1230,Natural Ice Cream,Food,11,4.175752833,1260,9:30–17:1188,Nil
+TD-1231,Kuremal Mohan Lal Kulfi Wale,Food,14,4.063311909,1353,9:30–17:1189,Nil
+TD-1232,Juggernaut,Food,3,4.172927658,1139,9:30–17:1190,Nil
+TD-1233,Comorin,Food,9,4.779489031,1530,9:30–17:1191,Nil
+TD-1234,Viet:Nom,Food,24,4.654797018,1614,9:30–17:1192,Nil
+TD-1235,Cafeteria & Co.,Food,4,4.667807569,1294,9:30–17:1193,Nil
+TD-1236,Sana-Di-Ge,Food,10,4.501201258,856,9:30–17:1194,Nil
+TD-1237,Pa Pa Ya,Food,25,4.826494116,1425,9:30–17:1195,Nil
+TD-1238,Yum Yum Cha,Food,14,4.91389232,1618,9:30–17:1196,Nil
+TD-1239,Coast Cafe,Food,23,4.576880024,1608,9:30–17:1197,Nil
+TD-1240,PizzaExpress,Food,24,4.339093046,703,9:30–17:1198,Nil
+TD-1241,The Big Chill Cakery,Food,0,4.214383866,938,9:30–17:1199,Nil
+TD-1242,Music & Mountains - Hillside Cafe,Food,6,4.044776921,724,9:30–17:1200,Nil
+TD-1243,Gulati,Food,21,4.258200606,1563,9:30–17:1201,Nil
+TD-1244,Olive Bar & Kitchen,Food,2,4.055497106,1040,9:30–17:1202,Nil
+TD-1245,The Grammar Room,Food,15,4.518406522,863,9:30–17:1203,Nil
+TD-1246,Chaina Ram Sindhi Confectioners,Food,23,4.368637274,1609,9:30–17:1204,Nil
+TD-1247,Sevilla - The Claridges,Food,20,4.039087341,1046,9:30–17:1205,Nil
+TD-1248,Bo Tai,Food,2,4.500768094,598,9:30–17:1206,Nil
+TD-1249,Cafe Wink,Food,3,4.137284035,1265,9:30–17:1207,Nil
+TD-1250,Dum-Pukht - ITC Maurya,Food,16,4.119945314,1515,9:30–17:1208,Nil
+TD-1251,Burma Burma,Food,5,4.347911807,1119,9:30–17:1209,Nil
+TD-1252,The Big Chill,Food,10,4.128771683,1413,9:30–17:1210,Nil
+TD-1253,Carnatic Cafe,Food,15,4.002002129,776,9:30–17:1211,Nil
+TD-1254,"Cocktails & Dreams, Speakeasy",Food,24,4.905333823,1592,9:30–17:1212,Nil
+TD-1255,Natural Ice Cream,Food,16,4.517069907,995,9:30–17:1213,Nil
+TD-1256,Kuremal Mohan Lal Kulfi Wale,Food,11,4.486900084,1420,9:30–17:1214,Nil
+TD-1257,Juggernaut,Food,20,4.135447115,1664,9:30–17:1215,Nil
+TD-1258,Comorin,Food,15,4.763806843,1569,9:30–17:1216,Nil
+TD-1259,Viet:Nom,Food,17,4.456246794,1608,9:30–17:1217,Nil
+TD-1260,Cafeteria & Co.,Food,12,4.633535128,1480,9:30–17:1218,Nil
+TD-1261,Sana-Di-Ge,Food,4,4.188270911,576,9:30–17:1219,Nil
+TD-1262,Pa Pa Ya,Food,2,4.320402969,1458,9:30–17:1220,Nil
+TD-1263,Yum Yum Cha,Food,4,4.678573487,754,9:30–17:1221,Nil
+TD-1264,Coast Cafe,Food,12,4.682358354,1499,9:30–17:1222,Nil
+TD-1265,PizzaExpress,Food,9,4.158263998,742,9:30–17:1223,Nil
+TD-1266,The Big Chill Cakery,Food,19,4.812965008,1253,9:30–17:1224,Nil
+TD-1267,Music & Mountains - Hillside Cafe,Food,13,4.66342374,926,9:30–17:1225,Nil
+TD-1268,Gulati,Food,15,4.410671459,578,9:30–17:1226,Nil
+TD-1269,Olive Bar & Kitchen,Food,4,4.549286275,530,9:30–17:1227,Nil
+TD-1270,The Grammar Room,Food,1,4.405777505,1235,9:30–17:1228,Nil
+TD-1271,Chaina Ram Sindhi Confectioners,Food,4,4.797004103,793,9:30–17:1229,Nil
+TD-1272,Sevilla - The Claridges,Food,11,4.484843613,645,9:30–17:1230,Nil
+TD-1273,Bo Tai,Food,21,4.219302332,1642,9:30–17:1231,Nil
+TD-1274,Cafe Wink,Food,12,4.246737129,782,9:30–17:1232,Nil
+TD-1275,Dum-Pukht - ITC Maurya,Food,11,4.124823525,1014,9:30–17:1233,Nil
+TD-1276,Burma Burma,Food,17,4.334065253,1639,9:30–17:1234,Nil
+TD-1277,The Big Chill,Food,14,4.558499039,1651,9:30–17:1235,Nil
+TD-1278,Carnatic Cafe,Food,14,4.670449525,501,9:30–17:1236,Nil
+TD-1279,"Cocktails & Dreams, Speakeasy",Food,20,4.404156364,1643,9:30–17:1237,Nil
+TD-1280,Natural Ice Cream,Food,17,4.233480248,1018,9:30–17:1238,Nil
+TD-1281,Kuremal Mohan Lal Kulfi Wale,Food,3,4.458045838,576,9:30–17:1239,Nil
+TD-1282,Juggernaut,Food,21,4.599869172,1312,9:30–17:1240,Nil
+TD-1283,Comorin,Food,4,4.366874303,854,9:30–17:1241,Nil
+TD-1284,Viet:Nom,Food,16,4.122699941,1235,9:30–17:1242,Nil
+TD-1285,Cafeteria & Co.,Food,16,4.265401745,1468,9:30–17:1243,Nil
+TD-1286,Sana-Di-Ge,Food,1,4.181914342,830,9:30–17:1244,Nil
+TD-1287,Pa Pa Ya,Food,4,4.940862396,1596,9:30–17:1245,Nil
+TD-1288,Yum Yum Cha,Food,15,4.169277542,1697,9:30–17:1246,Nil
+TD-1289,Coast Cafe,Food,6,4.640783525,974,9:30–17:1247,Nil
+TD-1290,PizzaExpress,Food,6,4.284251979,1283,9:30–17:1248,Nil
+TD-1291,The Big Chill Cakery,Food,3,4.312612796,1080,9:30–17:1249,Nil
+TD-1292,Music & Mountains - Hillside Cafe,Food,12,4.076484464,1570,9:30–17:1250,Nil
+TD-1293,Gulati,Food,2,4.75972878,879,9:30–17:1251,Nil
+TD-1294,Olive Bar & Kitchen,Food,21,4.996666441,1151,9:30–17:1252,Nil
+TD-1295,The Grammar Room,Food,8,4.718845074,1489,9:30–17:1253,Nil
+TD-1296,Chaina Ram Sindhi Confectioners,Food,23,4.651705439,1300,9:30–17:1254,Nil
+TD-1297,Sevilla - The Claridges,Food,2,4.127343086,1432,9:30–17:1255,Nil
+TD-1298,Bo Tai,Food,22,4.656531434,1622,9:30–17:1256,Nil
+TD-1299,Cafe Wink,Food,13,4.632440379,1481,9:30–17:1257,Nil
+TD-1300,Dum-Pukht - ITC Maurya,Food,11,4.816972128,1436,9:30–17:1258,Nil
+TD-1301,Burma Burma,Food,7,4.391211651,526,9:30–17:1259,Nil
+TD-1302,The Big Chill,Food,23,4.778639371,630,9:30–17:1260,Nil
+TD-1303,Carnatic Cafe,Food,7,4.857554415,1100,9:30–17:1261,Nil
+TD-1304,"Cocktails & Dreams, Speakeasy",Food,3,4.671962458,615,9:30–17:1262,Nil
+TD-1305,Natural Ice Cream,Food,14,4.791796179,1464,9:30–17:1263,Nil
+TD-1306,Kuremal Mohan Lal Kulfi Wale,Food,1,4.348547939,904,9:30–17:1264,Nil
+TD-1307,Juggernaut,Food,6,4.481121226,987,9:30–17:1265,Nil
+TD-1308,Comorin,Food,3,4.591812905,1353,9:30–17:1266,Nil
+TD-1309,Viet:Nom,Food,5,4.572951596,932,9:30–17:1267,Nil
+TD-1310,Cafeteria & Co.,Food,22,4.84771437,691,9:30–17:1268,Nil
+TD-1311,Sana-Di-Ge,Food,0,4.594168849,1598,9:30–17:1269,Nil
+TD-1312,Pa Pa Ya,Food,12,4.463882197,887,9:30–17:1270,Nil
+TD-1313,Yum Yum Cha,Food,9,4.460543861,1114,9:30–17:1271,Nil
+TD-1314,Coast Cafe,Food,1,4.368180525,1584,9:30–17:1272,Nil
+TD-1315,PizzaExpress,Food,22,4.648613278,1568,9:30–17:1273,Nil
+TD-1316,The Big Chill Cakery,Food,8,4.773560943,1193,9:30–17:1274,Nil
+TD-1317,Al-Burj Restaurant,Food,11,4.361043082,938,9:30–17:1275,Nil
+TD-1318,Veer Ji Malai Chap Wale,Food,12,4.601422781,1357,9:30–17:1276,Nil
+TD-1319,Public Headquarter,Food,18,4.054014346,1591,9:30–17:1277,Nil
+TD-1320,The Blue Door Cafe,Food,1,4.058317105,1364,9:30–17:1278,Nil
+TD-1321,Bajrang's Bikaner,Food,7,4.291134048,958,9:30–17:1279,Nil
+TD-1322,Kaiser,Food,11,4.21942379,663,9:30–17:1280,Nil
+TD-1323,"Mister Chai - Shangri-La's - Eros Hotel, New Delhi",Food,19,4.366664413,572,9:30–17:1281,Nil
+TD-1324,Diya - The Leela Ambience,Food,6,4.015693418,1120,9:30–17:1282,Nil
+TD-1325,Janak Taste Budz,Food,23,4.255526991,960,9:30–17:1283,Nil
+TD-1326,Darjeeling Steamers,Food,22,4.228561547,937,9:30–17:1284,Nil
+TD-1327,Balaji Vegetarian Paradise,Food,25,4.186878762,1049,9:30–17:1285,Nil
+TD-1328,The Munching Co.,Food,22,4.906043318,1196,9:30–17:1286,Nil
+TD-1329,Desi Rasoi Food,Food,0,4.143943615,563,9:30–17:1287,Nil
+TD-1330,Masha - The Record Room,Food,15,4.892217178,866,9:30–17:1288,Nil
+TD-1331,Gulshan Dhaba,Food,10,4.17598142,660,9:30–17:1289,Nil
+TD-1332,Sona Sweets Sri Udipi Restaurant,Food,0,4.630385363,605,9:30–17:1290,Nil
+TD-1333,Nerdy Dino,Food,3,4.051400007,594,9:30–17:1291,Nil
+TD-1334,The Dessert Studio,Food,25,4.730015793,758,9:30–17:1292,Nil
+TD-1335,Grubhouse Cafe,Food,3,4.79419341,1092,9:30–17:1293,Nil
+TD-1336,Pinjore,Food,18,4.512501317,607,9:30–17:1294,Nil
+TD-1337,Jeet Restaurant,Food,14,4.756321886,861,9:30–17:1295,Nil
+TD-1338,Burger Singh - Big Punjabi Burgers,Food,23,4.826946791,995,9:30–17:1296,Nil
+TD-1339,South Indian Corner,Food,11,4.819996495,1653,9:30–17:1297,Nil
+TD-1340,Brewtoast,Food,13,4.617392923,653,9:30–17:1298,Nil
+TD-1341,Lama Kitchen,Food,7,4.538928193,738,9:30–17:1299,Nil
+TD-1342,The Waffle Co.,Food,23,4.023139573,1245,9:30–17:1300,Nil
+TD-1343,Sighri,Food,15,4.17322134,696,9:30–17:1301,Nil
+TD-1344,Pizza King,Food,2,4.980731778,797,9:30–17:1302,Nil
+TD-1345,Blues,Food,11,4.821497042,1416,9:30–17:1303,Nil
+TD-1346,Grover Sweets,Food,2,4.882534731,1020,9:30–17:1304,Nil
+TD-1347,Singh Chicken & Fish Corner,Food,10,4.206801123,1480,9:30–17:1305,Nil
+TD-1348,KAP's Restro Bar & Cafe,Food,25,4.230724772,1696,9:30–17:1306,Nil
+TD-1349,Super Snacks,Food,1,4.463442322,839,9:30–17:1307,Nil
+TD-1350,The Belgian Waffle Co.,Food,9,4.847303072,1289,9:30–17:1308,Nil
+TD-1351,The Calorie Kitchen,Food,18,4.909925587,553,9:30–17:1309,Nil
+TD-1352,Zahra Restaurant & Cafe,Food,18,4.798058541,1051,9:30–17:1310,Nil
+TD-1353,JW Lounge - JW Marriott New Delhi,Food,11,4.641648458,1199,9:30–17:1311,Nil
