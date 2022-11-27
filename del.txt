@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+    <head>
+            <title>mapIT</title>
+            <link rel="stylesheet" type="text/css" href="delhi.css" >
+            <link rel="stylesheet" type="text/css" href="blr.css" >
+            <link rel="stylesheet" type="text/css" href="mapIT.css" >
+            
+
+            
+    </head>
+
+    
+    <body>
+
+        <div class = "header">
+                <div class="typei"><img src="maplogocopy.jpg" width="100"height="100" > </div>&emsp;
+                <span class = "heading" style="font-size: 45px;" >mapIT.<br></span>&emsp; <span style="font-size: 25px;">Follow your heart</span>
+                <center><img class = "image" src="d5.jpg" width="600" height="400"></center><br><br>
+
+                <div class ="two">
+                        <h1>Let's plan your trip to Delhi!</h1>
+                    <form>
+                        What kind of trip would you like to have?<br>
+                            <input type = "radio" name ="pace" required/>Slow
+                            <input type = "radio" name ="pace">Medium
+                            <input type = "radio" name ="pace">Fast<br><br>
+                
+                        <p>For how many days do you plan to visit Delhi?</p>
+                            <input type = "number" name = "days" required/><br><br>
+                        
+                        <p>What kind of places do you prefer to visit?</p>
+                                <input type="checkbox" id="Heritage" name="Heritage" value="Heritage">
+                                <label for="Heritage">Heritage</label>
+                                <input type="checkbox" id="Nature" name="Nature" value="Nature">
+                                <label for="Nature"> Nature</label>
+                                <input type="checkbox" id="Adventure" name="Adventure" value="Adventure">
+                                <label for="Adventure"> Adventure</label>
+                                <input type="checkbox" id="Museum" name="Museum" value="Museum">
+                                <label for="Museum"> Museum</label>
+                                <input type="checkbox" id="Shopping" name="Shopping" value="Shopping">
+                                <label for="Shopping"> Shopping</label><br><br>
+                
+                        <p>What Kind of food do you prefer?</p>
+                       
+                        <input type="checkbox" id="Chinese" name="Chinese" value="Chinese">
+                        <label for="Chinese">Chinese</label>
+                
+                        <input type="checkbox" id="Italian" name="Italian" value="Italian">
+                        <label for="Italian">Italian</label>
+                
+                        <input type="checkbox" id="North Indian" name="North Indian" value="North Indian">
+                        <label for="North Indian">North Indian</label>
+
+                        <input type="checkbox" id="European" name="European" value="European">
+                        <label for="European">European</label>
+
+                        <input type="checkbox" id="Mughlai" name="Mughlai" value="Mughlai">
+                        <label for="Mughlai">Mughlai</label>
+
+                        <input type="checkbox" id="South Indian" name="South Indian" value="South Indian">
+                        <label for="South Indian">South Indian</label><br><br>
+
+                        <input type="checkbox" id="Continental" name="Continental" value="Continental">
+                        <label for="Continental">Continental</label>
+
+                        <input type="checkbox" id="Fast food" name="Fast food" value="Fast food">
+                        <label for="Fast food">Fast food</label>
+
+                        <input type="checkbox" id=" Seafood" name=" Seafood" value=" Seafood">
+                        <label for=" Seafood"> Seafood</label>
+
+                        <input type="checkbox" id=" Maharashtrian" name=" Maharashtrian" value=" Maharashtrian">
+                        <label for=" Maharashtrian">  Maharashtrian</label>
+
+                        <input type="checkbox" id="Street food" name=" Street food" value="Street food">
+                        <label for="Street food"> Street food</label>
+                        <input type="checkbox" id="Healthy" name=" Healthy" value="Healthy">
+                        <label for="Healthy">Healthy</label><br><br>
+
+
+
+                        <p>Do you have any preference of locality?</p>
+                       
+                        <input type="checkbox" id="Chandini chowk" name="Chandini chowk" value="Chandini chowk">
+                        <label for="Chandini chowk">Chandini chowk</label>
+                
+                        <input type="checkbox" id="Mehrauli" name="Mehrauli" value="Mehrauli">
+                        <label for="Mehrauli">Mehrauli</label>
+                
+                        <input type="checkbox" id="Sector 29" name="Sector 29" value="Sector 29">
+                        <label for="Sector 29">Sector 29</label><br><br>
+                     
+                        <div>
+                                <input type="range" id="Rate" name="Rate" 
+                                       min="0" max="5" value="4" step="0.1">
+                                <label for="Rate">Your preference of rating</label>
+                                <br><br><br>
+                              </div>
+                
+                              <input class = "button" type = "submit" value = "SUBMIT"/>&emsp;&emsp;
+                                <input class = "button" type = "reset" value = "RESET"/> <br><br><br>
+                               
+                     </div>
+        </body>
+        
+        
+</html>
+            
