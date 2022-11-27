@@ -1,0 +1,97 @@
+body{
+	margin:0;
+	top: 0;
+	right: 0;
+   background-color: rgb(255, 255, 255);
+
+
+}
+.header{
+    position:relative;
+    padding: 20px;
+    background: url("images.jpg");
+    height: 100px;
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: aliceblue;
+  
+  top:0;
+
+    font-family:font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+}
+
+
+
+.heading
+{
+    color:black;
+
+}
+
+
+
+input[type=text] {
+    width:40%
+    height: 40px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+.typei{
+    position: relative;
+    float: left;
+    top
+
+}
+
+.delhi
+{
+	width: 90%;
+	margin: 70px auto;
+	display: grid;
+	grid-template-columns:	repeat(auto-fit, minmax(200px, 1fr));
+	grid-gap:80px;
+	cursor: pointer;
+}
+
+.delhi img:hover
+{
+	transform: scale(0.9);
+	
+}
+
+.d2{
+    position: absolute;
+    top: 300px;
+}
+
+.shift
+{
+    position: relative;
+    bottom: -325px;
+    right: -115px;
+    color:rgb(34, 158, 196)
+}
+
+.d3
+{
+    position: absolute;
+    left: 330px;
+    top: 300px;
+}
+
+.d4
+{
+    position: absolute;
+    left: 610px;
+   top: 275px;
+}
+
+.d5{
+    position: absolute;
+    left: 850px;
+    top: 300px;
+}

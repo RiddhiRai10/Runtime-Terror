@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+
+<head>
+        <title>mapIT</title>
+        <link rel="stylesheet" type="text/css" href="mapIT.css" >
+</head>
+
+<body> 
+    <div class = "header">
+        <div class="typei"><img src="maplogocopy.jpg" width="100"height="100" ></div>&emsp;
+        <span class = "heading" style="font-size: 45px;" >mapIT.<br></span>&emsp; <span style="font-size: 25px;">Follow your heart</span>
+        
+    </div><br><br><br><br>
+    
+
+        <center><h1> Where do you want to go?</h1></center><br>
+
+        <div class="delhi">
+  		
+    		<img class = "d2" src="dlogo.jpg" alt="NOT AVAILABLE" height ="170" width = "260" onclick="location.href='file:///C:/Users/DELL/Desktop/mapIT/delhi.html'">
+            
+            <img class = "d3" src="blogo.jpg" alt="NOT AVAILABLE" height ="170" width = "260" onclick="location.href='file:///C:/Users/DELL/Desktop/mapIT/blr.html'">
+
+            <img class = "d4" src="mlogo3.jpg" width="220"height="220" alt="NOT AVAILABLE" height ="170" width = "260" onclick="location.href='file:///C:/Users/DELL/Desktop/mapIT/bombay.html'">
+
+            <img class = "d5" src="clogo2.jpg" alt="NOT AVAILABLE" height ="170" width = "260" onclick="location.href='file:///C:/Users/DELL/Desktop/mapIT/chen.html'">
+	</div>
+
+
+
+        
+            
+
+   
+        
+
+        
+
+        
+
+   
+</body>
+		
+</html>
