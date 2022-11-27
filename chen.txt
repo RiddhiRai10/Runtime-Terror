@@ -1,0 +1,80 @@
+
+
+<!DOCTYPE html>
+<head>
+        <title>mapIT</title>
+        <link rel="stylesheet" type="text/css" href="mapIT.css" >
+        <link rel="stylesheet" type="text/css" href="delhi.css" >
+        <link rel="stylesheet" type="text/css" href="blr.css" >
+        
+</head>
+
+
+<body>
+
+    <div class = "header">
+            <div class="typei"><img src="maplogocopy.jpg" width="100"height="100" > </div>&emsp;
+            <span class = "heading" style="font-size: 45px;" >mapIT.<br></span>&emsp; <span style="font-size: 25px;">Follow your heart</span>
+            <center><img class = "image" src="chen.jpg" width="600" height="400"></center><br><br>
+
+            <div class ="two">
+                <h1>Let's plan your trip to Chennai!</h1>
+            <form>
+                What kind of trip would you like to have?<br>
+                    <input type = "radio" name ="pace" required/>Slow
+                    <input type = "radio" name ="pace">Medium
+                    <input type = "radio" name ="pace">Fast<br><br>
+        
+                <p>For how many days do you plan to visit Chennai?</p>
+                    <input type = "number" name = "days" required/><br><br>
+                
+                <p>What kind of places do you prefer to visit?</p>
+                        <input type="checkbox" id="Heritage" name="Heritage" value="Heritage">
+                        <label for="Heritage">Heritage</label>
+                        <input type="checkbox" id="Nature" name="Nature" value="Nature">
+                        <label for="Nature"> Nature</label>
+                        <input type="checkbox" id="Adventure" name="Adventure" value="Adventure">
+                        <label for="Adventure"> Adventure</label>
+                        <input type="checkbox" id="Museum" name="Museum" value="Museum">
+                        <label for="Museum"> Museum</label>
+                        <input type="checkbox" id="Shopping" name="Shopping" value="Shopping">
+                        <label for="Shopping"> Shopping</label><br><br>
+        
+                <p>What Kind of food do you prefer?</p>
+               
+                <input type="checkbox" id="Chinese" name="Chinese" value="Chinese">
+                <label for="Chinese">Chinese</label>
+        
+                <input type="checkbox" id="Italian" name="Italian" value="Italian">
+                <label for="Italian">Italian</label>
+        
+                <input type="checkbox" id="North Indian" name="North Indian" value="North Indian">
+                <label for="North Indian">North Indian</label><br><br>
+        
+        
+                <p>Do you have any preference of locality?</p>
+               
+                <input type="checkbox" id="Whitefield" name="Whitefield" value="Whitefield">
+                <label for="Whitefield">Whitefield</label>
+        
+                <input type="checkbox" id="Indiranagar" name="Indiranagar" value="Indiranagar">
+                <label for="Indiranagar">Indiranagar</label>
+        
+                <input type="checkbox" id="New BEL Road" name="New BEL Road" value="New BEL Road">
+                <label for="New BEL Road">New BEL Road</label><br><br>
+             
+                <div>
+                        <input type="range" id="Rate" name="Rate" 
+                               min="0" max="5" value="4" step="0.1">
+                        <label for="Rate">Your preference of rating</label>
+                        <br><br><br>
+                      </div>
+        
+                      <input class = "button" type = "submit" value = "SUBMIT"/>&emsp;&emsp;
+                        <input class = "button" type = "reset" value = "RESET"/> <br><br><br>
+                       
+             </div>
+    </body>
+    
+    
+</html>
