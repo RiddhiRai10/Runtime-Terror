@@ -1,0 +1,43 @@
+body{
+	margin:0;
+	top: 0;
+	right: 0;
+  background-color: #ffffff;
+
+}
+.header{
+    position:relative;
+    padding: 20px;
+    background: url("images.jpg");
+    height: 100px;
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 110%;
+
+  
+  top:0;
+
+}
+.typei{
+  position: relative;
+  float: left;
+  top
+
+}
+
+.heading
+{
+    color:black;
+
+}
+
+.image
+{
+  position: relative;
+  bottom: -50px;
+  left: -50px;
+  opacity: 0.2;
+}
